@@ -1,23 +1,12 @@
 # 2018 Booklist
 
-### Key
-
-|Emoji|Meaning| 
-|---|---|
-|⭐️⭐️⭐️⭐️⭐️| Recommend reading |
-|⭐️⭐️⭐️| Recommend depending on circumstances  |
-|⭐️| Don't necessarily recommend |
-|🤓| Non-fiction|
-|🍄| Fiction|
-|♀|Female author|
-|♂|Male author|
-|⚥|Non-binary author|
-|⚪️|Caucasian author|
-|🔵|POC author|
-
 ## Notes and summaries
 
-[Twitter thread here.](https://twitter.com/mvenetucci/status/950178580545265664)
+🐦 Twitter thread [here](https://twitter.com/mvenetucci/status/950178580545265664)
+
+📁 @venetucci's notes and summaries can be found in  [this folder](https://github.com/venetucci/book-notes/tree/master/2018%20notes)
+
+## Full list
 
 ### **Radical Candor** 
 
@@ -122,6 +111,23 @@ by Henry Jenkins, Mizuko Ito, danah boyd
 
 by Neil Postman
 
+[Venetucci's chapter summaries / notes](https://github.com/venetucci/book-notes/blob/master/2018%20notes/Technopoly-notes.md)
+
 ⭐️⭐️⭐️⭐️⭐️
 
 🤓⚪️♂
+
+### Key
+
+|Emoji|Meaning| 
+|---|---|
+|⭐️⭐️⭐️⭐️⭐️| Recommend reading |
+|⭐️⭐️⭐️| Recommend depending on circumstances  |
+|⭐️| Don't necessarily recommend |
+|🤓| Non-fiction|
+|🍄| Fiction|
+|♀|Female author|
+|♂|Male author|
+|⚥|Non-binary author|
+|⚪️|Caucasian author|
+|🔵|POC author|
