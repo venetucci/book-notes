@@ -166,3 +166,44 @@ Read here → [Full Text (free PDF)](https://www.collier.sts.vt.edu/1504/pdfs/te
     - Priests use wine/wafers/incantations to embody spiritual ideas, acknowledge mystery and metaphor. Technopoly "experts" acknowledge none of this nuance when they use forms, standardized tests, polls, etc. They think tech can reveal the true nature of human conditions or beliefs. 
     - This form of information control is definitely useful / helps control information, but must be made with intense skepticism. "The delusion is sanctified by our granting inordinate prestige to experts who are armed with sophisticated technical machinery." 
     - If we replace social institutions with technopoly as a means of organizing perceptions and judgement, it won't work and has vast consequences.
+    
+### 6. The Ideology of Machines: Medical Technology
+
+- "When it comes to machinery, what Technopoly insists upon most is accuracy. The idea embedded in the machine is largely ignored, no matter how peculiar."
+- Technology prioritizes machines over intellectual struggle. Machines eliminate complexity, doubt, and ambiguity. They are quick and give us numbers. This is technopoly's magic.
+- The magic of machines directs our attention in the wrong place - gives us a sense of wonder instead of understanding. It asks us to be amazed, and to ignore the ideas embedded in machines. "we become blind to the idological meaning of our technologies." **This chapter discusses how technology directs us to construe the world.**
+- Ex: U.S. and England have equivalent life-expectancy rates, but: 
+  - U.S. doctors perform 6x cardiac bypass operations per capita
+  - more diagnostic tests than doctors in france, germany, or england
+  - American women have 2 to 3x the chance of having a hysterectomy as her counterpart in Europe
+  - U.S. doctors do more prostate surgery per capita than Europe
+  - U.S. leads the world in c-sections
+  - U.S. doctors prescribe higher dosages of drugs and 2x antibiotics
+- Why is American medicine so aggressive? 
+  - 1. American character: limitless natural environment = to be conquered. disease = to be conquered by aggressive means. Biased towards action. Having a bias towards action is aggressive, can lead to bad outcomes. American medicine was always attracted to new tech. 
+    - Early tech: stethoscope: 
+      - French physician Rene-Theophile-Hyacinthe Laennec in 1816
+      - Used to do percussion and palpation, then auscultation. Tried rolling up paper and listening to heart. = stethoscope. 
+      - This was very useful, very accurate. 
+      - Patients were often frightened of it - tools usually meant surgeon at the time. Doctors had objections (ranging from trivial - inconvenience of carrying stethoscope - to serious - being mistaken for surgeons (who were considered craftsmen). Physicians used intellect, knowledge, and insight for diagnosis.)
+      - Serious concern: "interposing an instrument between patient and doctor would transform the practice of medicine; the traditional methods of questioning patients, taking their reports seriously, and making careful observations of exterior symptoms would become increasingly irrelevant. Doctors would lose their ability to conduct skillful examinations and rely more on machinery than on their own experience and insight." The existance of the stethoscope and every new tool added to the doctor's arsenal promoted the ideas that: 
+        - 1. Medicine is about disease, not the patient
+        - 2. What the patient knows is untrustworthy; what the machine knows is reliable
+    - 19th century = obsessed with invention adn imbued with teh idea of progress. This created inventions and "the culture reoriented itself to ensure that technological aggressiveness became the basis of medical practice." 
+    - Turn of century - reliance on technology. We get the emergence of specialists who interpret technical information and have no connection to the patient. 
+    - Everything - the culture, courts, insurance, bureaucracy, doctor/patient expections - is organized to support technological treatments. Medical competence = the variety and quantity of machinery brought to the disease. 
+    - Ideas promoted by the domination of tech are: 
+      - 1. nature is an implacable enemy that can be subdued only by technical means
+      - 2. The problems created by technological solutions ("side effects") can be solved only by further application of tech
+      - 3. medical practice must focus on disease, not the patient
+      - 4. information coming from the patient cannot be taken as seriously as information coming from a machine, "from which it follows that a doctor's judgement, based on insight and experience, is less worthwile than the calculations of his machinery.
+    - Do these ideas lead to better medicine? In some ways yes (doctors using lasers to quickly remove cataracts), some ways no (when you perform medicine because of the existence of technology).
+    - ex: C-sections. 1 out of 4 americans born via c-section. Deliver babies who would have otherwise died. But when done routinely as elective option = considerable danger. 2 - 4x times more likely for the woman to die. SO: c-sections save the lives of babies at risk, but when done electively they post an unnecessary threat to health and even life. 
+    - Sometimes risks of surgery outweigh risks of not surgery. 
+    - "would american medicine be better were it not so totally reliant on the technological imperative? Yes. 
+  - What conclusion can we draw? 
+    - 1. tech is not a neutral element in medicine
+    - 2. Tech creates its own imperatives, and creates a wide-ranging social system to reinforce its imperatives
+    - 3. technology changes the practice of medicine by redefining what doctors are, redirecting wehre they focus their attention, and reconceptualizing how they view their patients and illness. 
+  - Rise of tech also came with the rise of drug companies and manufacturers. Expectations of patients changed. Unneccesary diagnoses. 
+  - **"The question of what was being _undone_ had a low priority if it was asked at all. The Zeitgeist of the age placed such a question in a range somewhere between peevishness and irrelevance. In a growing Technopoly, there is no time or inclination to speak of technological debits."**
