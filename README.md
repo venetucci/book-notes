@@ -63,7 +63,7 @@ by Madeleine L'Engle / Adapted by Hope Larson
 
 by Amir Husain
 
-⭐️⭐️
+⭐️
 
 🤓♂
 
