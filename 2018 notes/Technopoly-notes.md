@@ -114,3 +114,55 @@ Read here → [Full Text (free PDF)](https://www.collier.sts.vt.edu/1504/pdfs/te
   - The aim is not to reduce ignorance, superstition, and suffering - rather, to accommodate ourselves to the requirements of new technologies.
   - We tell ourselves this will lead to a better life, but that is “rhetorical residue of a vanishing technocracy”. 
   - We think information is our friend, don’t ask how to control it. Low / no understanding of the consequences - cultures suffer from information glut, information without meaning, information without control mechanisms.
+  
+### 5. The Broken Defenses
+
+- In a Technopoly, culture seeks its authorization in technology, finds its satisfactions in technology, takes orders from technology. 
+- Who feels comfortable in a Technopoly? People who are: 
+  - convinced that tech progress = humanity's supreme achievement and can solve our most prfound dilemmas
+  - believe that information is an unmixed blessing
+- People believe that information is only ever good - through uncontrolled production and dissemination we'll get freedom, creativity, peace of mind. In reality: information that is spread this way does the opposite. 
+- "Technopoly flourishes when the defenses against information break down"
+- Works like this: 
+  - Technopoly increases available information. 
+  - As that increases, control mechanisms are strained
+  - Additional control mechanisms put in place, they are technical mechanisms.
+  - This, in turn, increases the supply of information.
+  - Supply is no longer controllable = breakdown in psychic tranquility and social purpose 
+  - People don't have defenses and no longer have a way to find meaning in their experiences and have difficulty "imagining reasonable futures".
+- **Technopoly definition: what happens to society when the defenses against information glut have broken down, and tries to use technology itself to provide "clear direction and humane purpose".**
+- Social institutions function as control mechanisms, and a decline in those make people susceptible to information chaos. Information is a source of confusion, not coherence. 
+  - Examples of institutions: law, education, family, religion, state
+- Technopoly's means of controlling the flow of information: 
+  - 1. **Bureaucracy:**
+    - This pre-dates technopoly. Goes back 5,000 years, first time called "bureaucracy" in 19th century. 
+    - John Stuart Mill called them "administrative tyranny", also critiques/hated by Carlyle, Tocqueville, C.S. Lewis, etc. 
+    - Bureaucracy on principle is: Coordinated series of techniques for reducing the amount of information that requires processing
+    - By trying to make rational use of information, bureaucracy "ignores all information and ideas that do not contribute to efficiency". It has no intellectual, political, or moral theory. Implicit assumption that efficiency is the aim of all social insitutions and other goals are worthless. 
+    - Late 19th century turned it from set of techniques to an "autonomous meta-institution that ... serves itself": 
+      - rapid industrial growth
+      - improvements in transit/communication
+      - extension of government into larger parts of public and business
+      - Centralization of governmental structures
+      - 20th century: information explosion, the effect where the techniques for managing information became more necessary, extensive, and complex, increased number of structures and layers, and the amount of information generated grew. 
+    - This made it the master of social institutions. It now solves and also creates problems. It defines our problems (defined as efficiency problems).
+    - This is dangerous: originally just created to process technical information, now used to address moral, social, and political problems. 
+    - What is a bureaucrat? A person "who by training, commitment, and even temperament is indifferent to both the content and the totality of a human problem". Only considers the efficiency angle, nothing else. Takes not responsibility for human consequences. 
+    - "I am only responsible for the efficiency of my part of the bureaucracy, which must be maintained at all costs." 
+  - **2. Expertise**
+    - There have always been experts, even in tool-using cultures
+    - Technopoly experts have 2 characteristics: 
+      - ignorant about any matter not directly related to their specialized area
+      - claim dominion not only over technical matters but also over social, psychological, and moral affairs
+    - These happened as a result of: 
+      - 1. growth of bureaucracies (created "specialist-as-ignoramus)
+      - 2. weakening of traditional social institutions
+      - 3. Torrent of information which made it impossible for anyone to possess more than a small amount of the total human knowledge.
+    - Bureaucracy when applied to situations that cannot be solved by technical means = disastrous. Efficiency is irrelevant in things like education, law, family life, and problems of personal maladjustment. 
+  - 3. **Technical Machinery**
+    - Invisible technology like: IQ tests, SATs, standardized forms, taxonomies, opinion polls
+    - These help reduce the type and quantity of information into a system
+    - There is no test that can measure a person's intelligence - IQ tests are a technology, doesn't actually do what it says it does. "Transforms an abstract and multifaceted meaning into a technical and exact term that leaves out everything of importance." 
+    - Priests use wine/wafers/incantations to embody spiritual ideas, acknowledge mystery and metaphor. Technopoly "experts" acknowledge none of this nuance when they use forms, standardized tests, polls, etc. They think tech can reveal the true nature of human conditions or beliefs. 
+    - This form of information control is definitely useful / helps control information, but must be made with intense skepticism. "The delusion is sanctified by our granting inordinate prestige to experts who are armed with sophisticated technical machinery." 
+    - If we replace social institutions with technopoly as a means of organizing perceptions and judgement, it won't work and has vast consequences.
