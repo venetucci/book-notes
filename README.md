@@ -1,10 +1,10 @@
-# 2018 Booklist
+# 2018 Booklist 📚
 
 ## Notes and summaries
 
 🐦 Twitter thread [here](https://twitter.com/mvenetucci/status/950178580545265664)
 
-📁 @venetucci's notes and summaries can be found in  [this folder](https://github.com/venetucci/book-notes/tree/master/2018%20notes)
+📁 @venetucci's notes and summaries can be found in [this folder](https://github.com/venetucci/book-notes/tree/master/2018%20notes)
 
 ## Full list
 
