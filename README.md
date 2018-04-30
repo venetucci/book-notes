@@ -21,6 +21,8 @@ by Kim Scott
 
 by Joseph Campbell
 
+[Selected quotations](https://github.com/venetucci/book-notes/blob/master/2018%20notes/power-of-myth-notes.md)
+
 ⭐️⭐️⭐️⭐️⭐️
 
 🤓⚪️♂
