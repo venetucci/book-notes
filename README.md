@@ -20,8 +20,7 @@
 |**The Hobbit (Graphic Novel)**|by Chuck Dixon (Adapter),  J.R.R. Tolkien (Creator), David Wenzel (Illustrator), Sean Deming (Adapter) ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🍄||
 |**How to be happy (Graphic Novel)**|Eleanor Davis ♀|⭐️⭐️⭐️|🍄||
 |**Harry Potter (Books 1 - 7)**|J.K. Rowling ⚪️♀|⭐️⭐️⭐️⭐️⭐️|🍄||
-|**Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure**|Nadia Eghbal ♀|⭐️⭐️⭐️⭐️⭐️|🤓|
-[Link to full text](https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure)|
+|**Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure**|Nadia Eghbal ♀|⭐️⭐️⭐️⭐️⭐️|🤓|[Link to full text](https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure)|
 |**Participatory Culture in a Networked Era**|Henry Jenkins ⚪️♂, Mizuko Ito 🔵♀, danah boyd ⚪️♀|⭐️⭐️⭐️⭐️⭐️|🤓||
 |**Technopoly: The Surrender of Culture to Technology**|Neil Postman ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓|[Venetucci's chapter summaries / notes](https://github.com/venetucci/book-notes/blob/master/2018%20notes/Technopoly-notes.md)|
 
