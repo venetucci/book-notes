@@ -1,10 +1,8 @@
 # Technopoly Chapter Summary
 
-**Technopoly: The Surrender of Culture to Technology** by Neil Postman
-
-⭐️⭐️⭐️⭐️⭐️
-
-🤓⚪️♂
+|||||
+|---|---|---|---|
+|**Technopoly: The Surrender of Culture to Technology**|Neil Postman ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓|
 
 Read here → [Full Text (free PDF)](https://www.collier.sts.vt.edu/1504/pdfs/technopoly-neil-postman.pdf)
 
