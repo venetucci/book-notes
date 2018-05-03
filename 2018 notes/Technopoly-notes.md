@@ -207,3 +207,43 @@ Read here → [Full Text (free PDF)](https://www.collier.sts.vt.edu/1504/pdfs/te
     - 3. technology changes the practice of medicine by redefining what doctors are, redirecting wehre they focus their attention, and reconceptualizing how they view their patients and illness. 
   - Rise of tech also came with the rise of drug companies and manufacturers. Expectations of patients changed. Unneccesary diagnoses. 
   - **"The question of what was being _undone_ had a low priority if it was asked at all. The Zeitgeist of the age placed such a question in a range somewhere between peevishness and irrelevance. In a growing Technopoly, there is no time or inclination to speak of technological debits."**
+
+### 7. The Ideology of Machines: Computer Technology
+
+- We've embraced computers in a mindless way that leads to unfortunate outcomes: the thoughtlessness with which we've adopted this technology leads to enforced mindsets and "usurped powers".
+- Good resource on this is the book _Computer Power and Human Reason_ by Joseph Weizenbaum. The difficulties he ran into because the universality of computers means: 
+  - that their uses are infinitely various
+  - that computers are commonly integrated into the structure of other machines
+- "computer" now refers to a machine (invented by John von Neumann in the 1940s), before that it was a person who performed mechanical calculation.
+- 1936: Alan Turing built a machine that in many ways behaved like a problem-solving human being. His definition of "intelligent" was if the machine could exchange thoughts with a human through typed messages. 
+- MIT AI Lab: Joseph Weizenbaum wrote a program called Eliza - showed that he could meet Turing's test for intelligence. If you asked Eliza a question with a noun in it, Eliza could say "Why are you interested in" + the proper noun and a question mark. He had created a Turing Machine.
+  - Eventually wrote _Computer Power and Human Reason_ where "he raised questions about the research programs of those working in artificial intelligence; the assumption that whatever a computer can do, it should do; and the effects of computer technology on the way people construe the world-that is, the ideology of hte computer."
+- The shift in humans being defined as machines: 
+  - Book _Turing's Man_ by J. David Bolter: comprehensive idea conveyed by the computer: 
+    - Argues that "[the computer] defines our age by suggesting a new relationship to information, to work, to power, and to nature itself. That relationship can best be described by saying that the computer redefines humans as 'information processors' and nature itself as information to be processed".
+    - This means that he defined humans as (thinking) machines. This "subordinates the claims of our nature, our biology, our emotions, our spirituality. The computer claims sovereignty over the whole range of human experience, and supports its claim by showing that it "thinks" better than we can." 
+  - John McCarthy, inventor of the term artificial intelligence. "even machines as simple as thermostats can be said to have beliefs" - This remark redefined the meaning of "belief" - "rejects the view that humans have internal states of mind that are the foundation of belief and argues instead that 'belief' means only what someone or something does." Also implies: simulating an idea is the same as duplicating the idea. Also: rejects the idea that mind is a biological phenomenon.
+  -** Now we've gone from: humans are in some respect like machines → humans are little else but machines → human beings _are_ machines.**
+  - **This means → machines can duplicate human intelligence, so research into AI was inevitable. It's reductionist. Human intelligence is not transferable.** Humans have a unique "biologically rooted intangible mental life" that can't be duplicated by machines. Machines can't feel or understand. Meaning makes us unique. 
+- How does the machine as human manifest?
+  - people talk about "programming" or "deprogramming" themselves
+  - speak of our brains as a piece of "hard wiring" 
+  - Nov 4, 1988: Arpanet network became sluggish, then clogged with data. Spread to 6,000 computers in the US and overseas. This was a "worm" used to disable computers but started being called a "virus". The name stuck. Newspapers called the virus "virulent, contagious, and attempts to "quarantine" computers were made. They wanted to "sterilize" the network, programmers wanted to develop a "vaccine" to fight it. 
+  - This language "reflects a profound shift in perception about the relationship of computers to humans." It implies that the computer has will, intentions, and reasons. **Which means that humans are relieved of responsibility for the computer's decisions.** Why ever blame people if it's the computer's fault? 
+  - **This is called "agentic shift": humans transfer responsibility for an outcome from themselves to a more abstract agent. This means we don't have control, and gives us the ability to pursue "ill-advised or even inhuman goals because the computer can accomplish them or be imagined to accomplish them.** (a concept from Stanley Milgram)
+  - People very obediently accept explanations like "the computer shows..." or "the computer has determined..."
+  - It constrains us from complaining or accusing - so the computer has "strengthened bureaucratic institutions and suppressed the impulse toward significant social change." 
+- Computers are used to automate political, social, and commercial enterprises - it's unclear if they've made them more efficient, but it's definitely diverted attention from questioning the necessity of such institutions or how they can improve. Can't go into the defects in an insitution's "asumptions, ideas, and theories". "Computer technology....has not yet come close to the printing press in its power to generate radical and substantive social, political, and religious thought." 
+- Computer technology has made technopoly stronger, has made "people believe that technological innovation is synonymous with human progress. It has done this by advancing several interconnected ideas": 
+  - Amplified the metaphor of machines as humans and humans as machines. This leads to "a loss of confidence in human judgement and subjectivity. We have devalued the singular human capacity to see things whole in all their psychic, emotional and moral dimensions, and we have replaced this with faith in the powers of technical calculation." 
+  - Give us technical process without much substance. Emphasis on speed and ability to store huge quantities of information. This is dangerous when applied to human affairs. 
+  - **"The computer argues...that the most serious problems confronting us at both personal and public levels require technical solutions through fast access to information otherwise unavailable."** Nonsense. "Our most serious problems are not technical, nor do they arise from inadequate information... Where people are dying of starvation, it does not occur because of inadequate information." The computer is useless in addressing human problems. 
+- Paul Goodman coined term "technological modesty" - "having a sense of the whole and not claiming or obtruding more than a particular function warrants". Technopoly also **"encourages insensitivity to what skills may be lost in the acquisition of new ones. It is important to remember what can be done without computers, and it is also important to remind ourselves of what may be lost when we do use them."**
+- It's not necessarily that we should be "against" computers, but asking what we _lose_ by subordinating our power to computers.
+  - Law: When we use computerized systems to increase efficiency in a legal system, what happens to the authority of precedent? Precedent is unnecessary when there are very few cases that you can access, but also "unworkable when there are too many". What will this mean? 
+  - Medicine: We know that doctors who rely on machines have lost skill in making diagnoses based on observation. 
+  - What other human skills are being lost? "Technopolists do not worry about such things."
+  
+
+  
+  
