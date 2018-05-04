@@ -242,6 +242,32 @@ Read here → [Full Text (free PDF)](https://www.collier.sts.vt.edu/1504/pdfs/te
   - Medicine: We know that doctors who rely on machines have lost skill in making diagnoses based on observation. 
   - What other human skills are being lost? "Technopolists do not worry about such things."
   
+### 8. Invisible Technologies
 
-  
-  
+- Goal of chapter: talk about "mechanisms that act as machines" but are not usually thought of as technology. 
+- Ideology is "a set of assumptions of which we are barely conscious but which nonetheless directs our efforts to give shape and coherence to the world" → "then our most powerful ideological instrument is the technology of language itself."
+- We tend not to realize how language does its work. We have very littel sense of how the world looks differently to people who speak different languages. We assume everyone sees the world the same way. 
+  - Ex. Susumu Tonegawa (1987 Nobel Prize in Medicine) - said Japanese doesn't "foster clarity or effectivey understanding in scientfic research". = english has an ideological bias that Japanese doesn't. 
+- Language has an ideological agenda, but people feel like it's just an objective and natural expression of who we are. "Because it comes from inside us, we believe it to be a direct, unedited, unbiased, apolitical expression of how the world really is."
+- A machine is outside of us and is modified by us. But a sentence can function much like a machine. 
+  - "The structure of any question is as devoid of neutrality as is its content. The form of a question may ease our way or pose obstacles. Or, when even slightly altered, it may generate antithetical answers."
+    - Ex. A disease afflicted a place in Lithuania. People would go into a coma-like state, and it wasn't always clear if people had died or not. People were afraid of being buried alive. Two solutions based on two different questions: "How can we make sure that we do not bury people who are still alive?" (= stock the coffins with water and food and drill air holes into them - expensive but seemed worth it) vs. "How can we make sure that everyone we bury is dead" (= Less expensive solution of putting a 12-inch stake to the coffin lid at heart level, so the person would certainly be dead when the coffin closed).
+- Another kind of invisible technology is a zero. 
+  - Came from India to Europe in the 10th century.
+  - By 13th century, in Western consciousness. 
+  - Without the zero, you can't do a lot of simple calculations (multiply MMMMMM by MMDCXXVI...)
+  - Abacaus-users (didn't like zero because "it registered the absense of a power of ten, which no roman numeral did, seemed aesthetically offensive, seemed bizarre.) vs. algeorists who used Hindu numerals with a zero sign.
+  - Zero is a technology that makes certain kinds of thoughts easy, whereas before the zero those thoughts were inaccessible. It has an idea. The use of zero and the Hindu numbering system made possible a sophisticated math which led us to statistics. 
+- Stats!
+  - Stats gives us new perceptions and realities by exposing large-scale patterns. But Technopoly gives free reign to apply this indiscriminately across society. 
+  - Ex. Francis Galton, 1822-1911 (like a founding father of Technopoly). Founder of Eugenics. The science of arranging marriage and family so as to produce the best possible offspring based on the hereditary characteristics of the parents. Wanted to rank human characteristics, anything could be measured and statistical procedures could explain things. He wanted to demonstrated the inheritance of intelligence. Measured skulls. 
+    - Read Stephen Jay Gould's _The Mismeasure of Man_ to learn about the history of this and how problematic it was. He made these points: 
+      - 1. Reification → converting an abstract idea (mostly, a word) into a thing. Aka using the word "intelligence" to refer to specific human capabilities we approve of, even though there is no such thing as intelligence. It's a word, not a thing. 
+      - 2. Ranking → requires a criteria for assigning individuals to their place in a single series. Uses objective numbers. 
+      - 3. This ranking is restricted and biased, but we forget - the subjectivity becomes invisible. The objective number is reified. 
+    - E.L. Thorndike saw that intelligence tests suffered from defects:
+      - 1. What they measure is not known
+      - 2. How far it is proper to add/subtract/multiply/etc with teh measures obtained is not known
+      - 3. What the measures signify concerning intellect is not known
+    - Intelligenct cannot be quantitatively measured along a single linear scale. Technopoly doesn't recognize this. Needs to believe that science is objective. "Technology searches for a source of authority and finds it in the idea of statistical objectivity." 
+    63%
