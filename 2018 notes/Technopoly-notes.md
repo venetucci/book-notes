@@ -258,7 +258,7 @@ Read here → [Full Text (free PDF)](https://www.collier.sts.vt.edu/1504/pdfs/te
   - Without the zero, you can't do a lot of simple calculations (multiply MMMMMM by MMDCXXVI...)
   - Abacaus-users (didn't like zero because "it registered the absense of a power of ten, which no roman numeral did, seemed aesthetically offensive, seemed bizarre.) vs. algeorists who used Hindu numerals with a zero sign.
   - Zero is a technology that makes certain kinds of thoughts easy, whereas before the zero those thoughts were inaccessible. It has an idea. The use of zero and the Hindu numbering system made possible a sophisticated math which led us to statistics. 
-- Stats!
+- **Statistics!**
   - Stats gives us new perceptions and realities by exposing large-scale patterns. But Technopoly gives free reign to apply this indiscriminately across society. 
   - Ex. Francis Galton, 1822-1911 (like a founding father of Technopoly). Founder of Eugenics. The science of arranging marriage and family so as to produce the best possible offspring based on the hereditary characteristics of the parents. Wanted to rank human characteristics, anything could be measured and statistical procedures could explain things. He wanted to demonstrated the inheritance of intelligence. Measured skulls. 
     - Read Stephen Jay Gould's _The Mismeasure of Man_ to learn about the history of this and how problematic it was. He made these points: 
@@ -270,4 +270,30 @@ Read here → [Full Text (free PDF)](https://www.collier.sts.vt.edu/1504/pdfs/te
       - 2. How far it is proper to add/subtract/multiply/etc with teh measures obtained is not known
       - 3. What the measures signify concerning intellect is not known
     - Intelligenct cannot be quantitatively measured along a single linear scale. Technopoly doesn't recognize this. Needs to believe that science is objective. "Technology searches for a source of authority and finds it in the idea of statistical objectivity." 
-    63%
+  - Polling: Our political leaders are supposed to represent us, so they need some information about what we "believe". The problem comes from:
+    - 1. The forms of questions that are asked. The public's opinion will depend on phrasing and what is asked. These are often yes or no questions, which doesn't tell you much, is misleading. 
+    - 2. The technique promotes the assumption "that an opinion is a thing inside people that can be exactly located and extracted by the pollster's questions." Alternative view: opinions are not momentary things but a "process of thinking, shaped by the continuous acquisition of knowledge and the activity of questioining, dicussion, and debate".
+    - 3. Polling "ignores what people know about the subjects they are queried on." 
+    - 4. It shifts the responsibility between political leaders and their constituents. Leaders need to understand constituents and then use their own judgement about the public's best interests. Before polling, leaders were judged on their capacity to make decisions based on wisdom - they were responsible for the decisions they made. Post-polling, under increasing pressure to not use any of their own knowledge and wisdom and fully defer to voters opinions even when those opinions are ill-informed or short-sided. Responsibility shift. 
+  - Stats also compounds problem of information overload, turns into information trivia - it puts all information at an equal level. Even if it's useless: "Since 1984, the Buffalo Bills have won only two games in which they were four points ahead with less than six minutes to play."
+- Some technologies come in a disguise. 
+  - Ex: IQ tests, polls, systems of ranking/grading, credit cards, accounting procedures, achievement tests. Academic courses     - Academic courses are a technology for learning. Why do classes last a specified time? For administrative efficiency. But we come to believe it exists for one reason (it's the best way to learn) when it exists for another (efficiency/bureaucracy).
+  - "One characteristic of those who live in a Technopoly is that they are largely unaware of both the origins and the effects of their technologies."
+  - Example of lack of awareness: the belief that modern business invented the technology of management. But the truth: management invented modern business. 
+    - Based on research by Alfred Chandler, Sidney Pollard, Keith Hoskin, Richard Macve
+    - Most likely origin: Great Britain in late 18th and early 19th centuries. Before any concept of "managerial class". 
+    - Management created in the U.S. - 1817 in the US Military Academny by the academy's 4th superintendent, Sylvanus Thayer. 2 innovations: 
+      - 1. Grade examinations by giving numerical marks (borrowed from Ecole Polytechnique in Paris), an "objective measure of human performance. 
+      - 2. Line-and-staff system. Divided into two divisions, organized hierarchically. Regular reporting. Written communication. 
+    - 2 of the cadets at the academy, Daniel Tyler and George Whistler, graduated in 1819 and took this approach elsewhere. 
+      - Tyler did a time and motion study in 1832, "established objectively based norms of production for every job in the armory". Worker productivity measured against established productivity norms. Resulted in increased production, decreased costs. 
+      - Whistler, chief engineer of the Western Railrod, developed a managerial system in 1839. Organized the railroad along hierarchical lines (central staff office, descending to regional managers and local managers). Used the grammatocentric principle. 
+    - **Principles of calculability and grammatocentrism are foundations of modern systems of management.** Numbers and being removed from everyday realities. 
+      - calculability led to accounting, inventory control, productivity norms
+      - grammatocentrism promoted idea that "the best way to run a business is to know it through reports of those lower down the line". 
+  - Why is this instructive? 
+    - 1. management functions as does any technology. Made up of procedures and rules "designed to standardize behavior."
+      - This isn't an issue, until it becomes autonomous. **"In a Technopoly, we tend to believe that only through the autonomy of techniques (and machinery) can we achieve our goals. This idea is all the more dangerous because no one can reasonably object to the rational use of techniques to achieve human purposes."** This isn't to say that management isn't potentially necessary. But the question is: "who will be the master? Will we control it, or will it control us?" We must still be in control of the technique or else we can't control those answers. 
+     - 2. management is a good example of something invisible that creates a new way of doing things (subversively). "When a method of doing things becomes so deeply associated with an institution that we no longer know which came first...then it is difficult to change the institution or even to imagine alternative methods for achieving its purposes."
+     - This means it's important to understand where techniques and technologies come from, contextualize them. This will let us gain back our sovereignty. 
+    
