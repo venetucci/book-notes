@@ -297,3 +297,44 @@ Read here → [Full Text (free PDF)](https://www.collier.sts.vt.edu/1504/pdfs/te
      - 2. management is a good example of something invisible that creates a new way of doing things (subversively). "When a method of doing things becomes so deeply associated with an institution that we no longer know which came first...then it is difficult to change the institution or even to imagine alternative methods for achieving its purposes."
      - This means it's important to understand where techniques and technologies come from, contextualize them. This will let us gain back our sovereignty. 
     
+### 9. Scientism
+
+- There is a problem with the modern presentation of social science. 
+  - The general feeling is that the study of human behavior, if studied in a rigorous manner based on the physical and biological science methodologies, "will produce facts, testable theories, and profound understandings of the human condition."
+- 1794, Paris: The ecole Polytechnique school founded
+  - From here came the beginning concepts of a "science of man". 
+  - Lavoisier and Ampère and Volta and Alexander von Humboldt taught there - their work in chemistry and physics laid groundwork for modern science. This was good, beneficial. 
+  - Also from this school - "scientific hubris" from Pierre-Simo de Laplace, no limits to the power of scientific research (_Essai philosophique sur les probabilités_ published in 1814). 
+    - "A mind that in a given instance knew all the forces by which nature is animated and the position of all the bodies of which it is composed, if it were vast enough to include all these data within his analysis, could embrace in one single formula the movements of the largest bodies of the universe and of the smallest atoms; nothing would be uncertain for him; the future and the past would be equally before his eyes." - _Essai philosophique sur les probabilités_ published in 1814.
+- This isn't really directly believed by anyone now, but it held a scientific ideal that inspired people to "believe that the reliable and predictable knowledge that could be obtained about stars and atoms could also be obtained about human behavior." 
+  - Ex. early social scientists who believed this: Claud-Henri de Saint-Simon, Prosper Enfantin, August Compte. They started the idea of "social engineering", the concept of Scientism was born from. They had two beliefs that are foundational to Technopoly: 
+    - 1. That the natural sciences provide a method to unlock the secrets of both the human heart and the direction of social life.
+    - 2. That society can be rationally and humanely reorganized according to principles that social science will uncover.
+  - **Scientism**: Made up of 3 ideas, together which for a single pillar for Technopoly.  The first two are the same as 👆🏻. 
+    - 1. The methods of natural sciences can be applied to human behavior (same as above)
+    - 2. Social science generates specific principles which can be used to organize society on a rational and humane basis (same as above)
+    - 3. Faith in science can serve as a comprehensive belief system that gives meaning to life, as well as a sense of well-being, morality, and even immortality. 
+    - Next part is showing how these concepts relate to each other and give form to Technopoly. 
+- "Science" as a term - 
+   - Def: the work of people in the physical, chemical, and biological disciplines
+   - First used in 1867 in Murray's _New English Dictionary_
+   - Popularized in early 19th century
+   - By early 20th century, had been appropriated. 
+   - Now used familiarly with psychologists, sociologists, and anthropologists. This is deceptive, blurs lines between processes and practices. 
+   - Processes: things occuring in nature, nothing to do with human intelligence.
+   - Practices: Creations of people, events resulting from human actions and decisions. 
+   - Science is the quest to find immutable and universal laws to govern processes, assumes there are cause-and-effect relations between processes. This can't apply to the understanding of human behavior and feeling. 
+   - Sociologists can use quantification to give some precision to their ideas, but not more than that. Not really scientific. Precision is used all the time (number of constituents, number of murders), it's not science. Scientist study things with objectivity, independent of what people think or do. "The opinions people hold about the external world are...always an obstacle to be overcome". Heisenberg uncertainty principle = at subatomic levels particles do "know" they are being studied, at least in a special meaning of "knowing". Social science is further invalidated as a science given that "there are almost no experiments that will reveal a social-science theory to be false". Theories disappear because they are boring, not because they are refuted. This isn't science. 
+    - This isn't to say that belief in theories is harmful. Just that they fall outside the definition of science. 
+    - Ex. Stanley Milgram's study (_Obedience ot Authority_), which found that "in the face of what they construe to be legitimate authority, most people will do what they are told. ...the social context in which people find themsleves will be a controlling factor in how they behave". This is basically a commonplace of human experience, pretty obvious. Except that it wasn't predicted by psychiatrists who he surveyed beforehand. Also, this study wasn't empirical: not natural life situations. Also didn't answer "why". 
+      - But what happens if you find people who do the opposite of the study (ex. the Danes who resisted the Nazis). Does this invalidate his study? No. 
+      - **His study isn't science. It's something else. It's documenting the behavior and feelings of people as they confront problems posed by their culture. It's a form of storytelling.**
+        - Closer to imaginative literature. Use unique interpretations, draw appeal from power of language, depth of explanation, relevance of examples. This has "an identifiable moral purpose". 
+        - **"The words 'true' and 'false' do not apply here in the sense that they are used in mathematics or science. For there is nothing universally and irrevocably true or false about these interpretations. THere are no critical tests to confirm or falsify them. There are no natural laws from which they are derived. They are bound by time, by situation, and above all by the cultural prejudices of the researcher or writer."** The researcher leads by reason, logic, argument, focus on a wider field than fiction. 
+        - Why do social researchers tell their stories? Didactic and moralistic purposes. 
+        - Social research never discovers anything (unlike science). Only rediscovers. Telling these stories in new ways. But Technopoly doesn't want these stories, it wants facts. Hard facts, scientific. Precise > truthful. Technopoly wants to solve the "dilemma of subjectivity. **Diversity, complexity, subjectivity, ambiguity of human judgement are enemies of technique.** This makes it necessary to turn psychology, sociology, and anthropology into sciences. This is why we now announce "discoveries" in social sciences, even if they're sort of obvious. Trying to be a scientific enterprise. Social researchers can then be seen as scientists without bias or their own values. 
+        - "In Technopoly, it is not enough to argue that the segregation of blacks and whites in schools is immoral...the courts must be shown that standardized academic and psychological tests reveal that blacks do less well than whites and feel demeaned when segregation exists." Social scientists want to align themselves with scientists to be taken seriously in a Technopoly. 
+- Science, Social Research, and imaginative literature are all different. All of them are storytelling, but with different aim, questions, procedures, and meanings of "truth". 
+- When Galileo, Newton, etc laid foundations for natural science, they also discredited earlier authorities like Genesis. Undermined belief, took away where we look for moral authority. Even though science doesn't claim to tell us what is moral, it left us without anything else. This leads science to start suggesting things. Everyone is desperate for it, so social science answers. Scientism. 
+  - Not just a misapplication of techniques, or confusion of material and social space of human experience. In addition to that, scientism is the hope and belief that a standardized set of procedures called "science" can provide us with an unimpeachable source of moral authority. 
+    
