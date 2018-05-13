@@ -338,3 +338,45 @@ Read here → [Full Text (free PDF)](https://www.collier.sts.vt.edu/1504/pdfs/te
 - When Galileo, Newton, etc laid foundations for natural science, they also discredited earlier authorities like Genesis. Undermined belief, took away where we look for moral authority. Even though science doesn't claim to tell us what is moral, it left us without anything else. This leads science to start suggesting things. Everyone is desperate for it, so social science answers. Scientism. 
   - Not just a misapplication of techniques, or confusion of material and social space of human experience. In addition to that, scientism is the hope and belief that a standardized set of procedures called "science" can provide us with an unimpeachable source of moral authority. 
     
+### 10. The Great Symbol Drain
+
+- Symbols are important, have meaning. We're experiencing a lot of trivialization of symbols in Technopoly. Using religious symbols or other things isn't blasphemy, it's trivialized through over-exposure. There are no laws against trivialization. In Technopoly, "the trivialization of significant cultural symbols is largely conducted by commercial enterprise."
+- Adoration of technology > anything else. 
+- Two intertwined reasons for trivialization of traditional symbols: 
+  - 1. Although symbols are endlessly repeatable, they are not inexhaustible. 
+  - 2. The more frequently a significant symbol is used, the less potent is its meaning. 
+    - _The Image_ by Daniel Boorstin in late 20th century. Talked about mid-19th century beginning of a "graphics revolution" - easy reproduction of visual images. Gave everyone more continuous access to symbols. Prints, lithographs, photographs, movies, television. = breeding indifference. Before this, a scarcity of images contributed to their power. 
+    - The frequency of use, but also the indiscriminate nature of contexts in which images are used. 
+- Advertising and symbols
+  - It _is_ possible to have a market economy that respects the seriousness of words and icons, and that doesn't trivialize them through overuse. This is how it worked in America from 1830 to the end of the 19th century, a period of industrial growth. Ads didn't play a big role in the economy, and ads used straightforward language. 
+  - On March 3, 1879, the Postal Act gave magazines low-cost mailing privileges. Magazines emerged as conduits for national advertising. This was the start to the ad industry emerging in the early early 20th century.
+  - By turn of century, advertisers started finding that reason alone didn't work as well as symbols. Psychology and aesthetic theory. 
+    - This led to a rejection of a basic princple of capitalistic ideology: "That the producer and consumer were engaged in a rational enterprise in which consumers made choices on the basis of a careful consideration of the quality of a product and their own self-interest."
+    - At core of Technopoly: industry using all available symbols to further economic interests, devour the psyches of consumers to do that. 
+      - Jesus's birthday as an occasion for commerce to exhaust Christian symbology to sell things
+    - This ideology gives "boundless supremacy to technological progress and is indifferent to the unraveling of tradition." 
+    - Symbol drain wasn't caused by advertising - it's caused by the "technologies to make it possible and a world-view to make it desirable." Advertising is a symptom of a worldview where tradition is seen as an obstacle. 
+Tradition vs. technopoly:
+  - Tradition needs symbols, and acknowledgement and relevance of the narratives that gave us those symbols. 
+  - When asking "why should we bring TV and film into the classroom, the answer can just be "to make learning more efficient and more interesting", since efficiency is the only requirement in Technopoly. This doesn't address the question "what is learning for?" → no pathway to an educational philosophy if the answer is just "efficiency and interest". Doesn't answer the question "why". 
+  - No culture can flourish without cultural narratives - Genesis, Bhagavad-Gita - things that are narratives of transcendent origin and power.
+    - BUT: sometimes narratives do not ensure stability or strength, like Adolf Hitler's narrative. He used Teutonic mythology, ancient symbolisms, created a narrative of Aryan supremacy. It was powerful, but in a negative way. Lasted 12 years.
+    - The alternative to narratives is to live without meaning. 
+  - Symbol drain is both a symptom and a cause of a loss of narrative. 
+American Education
+  - What story does American education want to tell now? In a Technopoly, what is education for? 
+  - Technopoly encourages education to have the goal of helping students get a good job. And that's the only purpose. (maybe also to help us compete economically with other countries).
+  - This means that the U.S. is not a culture. Is just an economy. 
+  - Attempts are made to provide a comprehensive purpose to education. _Cultural Literacy_ by E. D. Hirsch, Jr. defined literacy as the "capacity to understand and use the words, dates, aphorisms, and names that form the basis of communication among the educated in our culture." He made cultural encyclopedias. But his proposal is inadequate for 2 reasons: 
+    - 1. The present condision of techonoly-generated information is so long, varied, and dynamic that it is not possible to organize it into a coherent educational program. 
+    - 2. Confuses a consequence of education with a purpose. He only tried to answer "what is an educated person?", not "what is an education for?" 
+  - _The Closing of the American Mind_ by Allan Bloom makes a complaint against the academy: that American professors have become moral relativists, "incapable ofproviding their students with a clear understanding of what is right thought and proper behavior." Also are intellectual relativists, not defending their own culture and not preserving the best of what has been thought and said. He suggests we go back to the basics of Western thought. 
+    - Bloom, an education philosopher "is a moralist who understands that Technopoly is a malevolent force requring opposition." 
+    - People who don't like Bloom's ideas give these reasons: 
+      - 1. Such a purpose for education is elitist. Western civilization is problematic, alientating to many, doesn't provide meaning. 
+      - 2. Assertion that the "story of Western civilization" is partial, biased, and oppressive. Leaves out most groups. 
+    - Post man feels: if that last assertion is true, "it means nothing less than that our national symbols have been drained of their power to unite, and that education must become a tribal affair; that is, each subculture must find its own story and symbols, and use them as the moral basis of education." 
+    - Also religious groups that feel that education is forthe greater glory of God and to "prepare the young to embrace intelligently and gracefully the moral directives of the church." 
+- There is a general mood of skeptism, an "agnosticism of judgement, sometimes a world-weary nihilism in which even the most conventional minds begin to question both distinctions of value and the value of distinctions.
+  - Technopoly emphasizes: progress without limits, rights without responsibilities, technology without cost. No moral center. Values efficiency, interest, economic advance. Technological progress as the best thing. Gets rid of traditional narratives and symbols that suggest stability, orderliness. Emphasizes skills, technical expertise, consumption. 
+  - **Technopoly "answers Bloom by saying that the story of Western civilization is irrelevant; it answers the political left by saying there is indeed a common culture whose name is Technopoly and whose key symbol is now th computer, towards which there must be neither irreverence nor blasphemy. It even answers Hirsch by saying that there are items on his list that, if thought about too deeply and taken too seriously, will interfere with the progress of technology."**
