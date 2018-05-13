@@ -7,7 +7,7 @@
 Read here → [Full Text (free PDF)](https://www.collier.sts.vt.edu/1504/pdfs/technopoly-neil-postman.pdf)
 
 Summary:
-Our ascent from tool using cultures → technocracies → technopoly. Technopoly is a society that doesn't just use technology to support itself, but rather is shaped by it with intense consequences to context and meaning held by individuals in that society.
+Our transition from tool using cultures to technocracies to technopoly. Technopoly is a society that doesn't just use technology to support itself, but rather is shaped by it with intense consequences to context and meaning held by individuals in that society, and threatens society itself.
 
 
 ---
