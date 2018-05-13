@@ -6,14 +6,16 @@
 
 Read here → [Full Text (free PDF)](https://www.collier.sts.vt.edu/1504/pdfs/technopoly-neil-postman.pdf)
 
-----------
-
 Summary:
 Our ascent from tool using cultures → technocracies → technopoly. Technopoly is a society that doesn't just use technology to support itself, but rather is shaped by it with intense consequences to context and meaning held by individuals in that society.
 
+
+---
+
+
 ## 1. The Judgment of Thamus
 
-### Chapter focus: The way that all technology holds bias. The way that we give too much authority to people who understand newer technologies, and don't critically evaluate their potentially impacts enough.
+### Chapter focus: Starts the discussion around how all technology holds bias. Outlines the ways that we give too much authority to people who understand newer technologies, and don't critically evaluate their potential impacts enough.
 
 - We shouldn’t make the mistake of thinking that every technological innovation has a one sided effect (good or bad)
 - Technology has a way of commandeering our values - and we don’t stop to question how that changes them and how we feel about that
@@ -39,7 +41,7 @@ Our ascent from tool using cultures → technocracies → technopoly. Technopoly
 
 ## 3. From Technocracy to Technopoly
 
-### Chapter focus: Tracing a shift and differentiating between a technocracy to technopoly. The United States is the first Technopoly. 
+### Chapter focus: Tracing a shift and differentiating between a technocracy and a technopoly. The United States is the first Technopoly. 
 
 - First technocracy was in England in last half of 18th century 
   - James Watt invented steam engine in 1765
@@ -127,7 +129,7 @@ Our ascent from tool using cultures → technocracies → technopoly. Technopoly
 
 ## 5. The Broken Defenses
 
-### Chapter focus: Outlines the type of people who feel comfortable in a Technopoly, and describes the ways in which Technopoly takes its authorization from technology and breaks down meaning in society. 
+### Chapter focus: Outlines the type of people who feel comfortable in a Technopoly, and describes the ways in which the culture of a Technopoly takes its authorization from technology and breaks down meaning in society. 
 
 - In a Technopoly, culture seeks its authorization in technology, finds its satisfactions in technology, takes orders from technology.
 - Who feels comfortable in a Technopoly? People who are: 
@@ -181,7 +183,7 @@ Our ascent from tool using cultures → technocracies → technopoly. Technopoly
     
 ## 6. The Ideology of Machines: Medical Technology
 
-### Chapter focus: An exploration at how technopoly deifies machinery, which comes with various biases: accuracy as the most important thing, that there is no subjectivity involved in machinery, that technologies can be applied to solving human problems without consequences. The chapter focuses on the ways in which technology affects our views in the world, with specific examples drawn from medical technology. 
+### Chapter focus: An exploration of how a Technopoly deifies machinery, which comes with various biases: accuracy as the most important thing, that there is no subjectivity involved in machinery, and that technologies can be applied to solving human problems without consequences. The chapter focuses on the ways in which technology affects our views in the world, what happens when we don't consider the potential downsides, and provides specific examples drawn from medical technology. 
 
 - "When it comes to machinery, what Technopoly insists upon most is accuracy. The idea embedded in the machine is largely ignored, no matter how peculiar."
 - Technology prioritizes machines over intellectual struggle. Machines eliminate complexity, doubt, and ambiguity. They are quick and give us numbers. This is technopoly's magic.
@@ -195,16 +197,17 @@ Our ascent from tool using cultures → technocracies → technopoly. Technopoly
   - U.S. doctors prescribe higher dosages of drugs and 2x antibiotics
 - Why is American medicine so aggressive? 
   - 1. American character: limitless natural environment = to be conquered. disease = to be conquered by aggressive means. Biased towards action. Having a bias towards action is aggressive, can lead to bad outcomes. American medicine was always attracted to new tech. 
-    - Early tech: stethoscope: 
+    - Early tech: invention of the stethoscope
       - French physician Rene-Theophile-Hyacinthe Laennec in 1816
-      - Used to do percussion and palpation, then auscultation. Tried rolling up paper and listening to heart. = stethoscope. 
+      - Used to do percussion and palpation, then auscultation. Tried rolling up paper and listening to heart. This led to the invention of the stethoscope. 
       - This was very useful, very accurate. 
-      - Patients were often frightened of it - tools usually meant surgeon at the time. Doctors had objections (ranging from trivial - inconvenience of carrying stethoscope - to serious - being mistaken for surgeons (who were considered craftsmen). Physicians used intellect, knowledge, and insight for diagnosis.)
-      - Serious concern: "interposing an instrument between patient and doctor would transform the practice of medicine; the traditional methods of questioning patients, taking their reports seriously, and making careful observations of exterior symptoms would become increasingly irrelevant. Doctors would lose their ability to conduct skillful examinations and rely more on machinery than on their own experience and insight." The existance of the stethoscope and every new tool added to the doctor's arsenal promoted the ideas that: 
+      - Patients were often frightened of it - tools usually meant surgeon at the time. Doctors had objections (ranging from trivial [inconvenience of carrying stethoscope] to serious [being mistaken for surgeons (who were considered craftsmen)]. Physicians used intellect, knowledge, and insight for diagnosis.)
+      - Serious concern: "interposing an instrument between patient and doctor would transform the practice of medicine; the traditional methods of questioning patients, taking their reports seriously, and making careful observations of exterior symptoms would become increasingly irrelevant. Doctors would lose their ability to conduct skillful examinations and rely more on machinery than on their own experience and insight." 
+      - The existance of the stethoscope and every new tool added to the doctor's arsenal promoted the ideas that: 
         - 1. Medicine is about disease, not the patient
         - 2. What the patient knows is untrustworthy; what the machine knows is reliable
-    - 19th century = obsessed with invention adn imbued with teh idea of progress. This created inventions and "the culture reoriented itself to ensure that technological aggressiveness became the basis of medical practice." 
-    - Turn of century - reliance on technology. We get the emergence of specialists who interpret technical information and have no connection to the patient. 
+    - 19th century = obsessed with invention and imbued with the idea of progress. This created inventions and "the culture reoriented itself to ensure that technological aggressiveness became the basis of medical practice." 
+    - Turn of century saw a reliance on technology. We get the emergence of specialists who interpret technical information and have no connection to the patient. 
     - Everything - the culture, courts, insurance, bureaucracy, doctor/patient expections - is organized to support technological treatments. Medical competence = the variety and quantity of machinery brought to the disease. 
     - Ideas promoted by the domination of tech are: 
       - 1. nature is an implacable enemy that can be subdued only by technical means
@@ -213,63 +216,66 @@ Our ascent from tool using cultures → technocracies → technopoly. Technopoly
       - 4. information coming from the patient cannot be taken as seriously as information coming from a machine, "from which it follows that a doctor's judgement, based on insight and experience, is less worthwile than the calculations of his machinery.
     - Do these ideas lead to better medicine? In some ways yes (doctors using lasers to quickly remove cataracts), some ways no (when you perform medicine because of the existence of technology).
     - ex: C-sections. 1 out of 4 americans born via c-section. Deliver babies who would have otherwise died. But when done routinely as elective option = considerable danger. 2 - 4x times more likely for the woman to die. SO: c-sections save the lives of babies at risk, but when done electively they post an unnecessary threat to health and even life. 
-    - Sometimes risks of surgery outweigh risks of not surgery. 
-    - "would american medicine be better were it not so totally reliant on the technological imperative? Yes. 
+    - Sometimes risks of surgery outweigh risks of no surgery. 
+    - "Would american medicine be better were it not so totally reliant on the technological imperative? Yes. 
   - What conclusion can we draw? 
-    - 1. tech is not a neutral element in medicine
-    - 2. Tech creates its own imperatives, and creates a wide-ranging social system to reinforce its imperatives
-    - 3. technology changes the practice of medicine by redefining what doctors are, redirecting wehre they focus their attention, and reconceptualizing how they view their patients and illness. 
+    - 1. Technology is not a neutral element in medicine
+    - 2. Technology creates its own imperatives, and creates a wide-ranging social system to reinforce its imperatives
+    - 3. Technology changes the practice of medicine by redefining what doctors are, redirecting wehre they focus their attention, and reconceptualizing how they view their patients and illness. 
   - Rise of tech also came with the rise of drug companies and manufacturers. Expectations of patients changed. Unneccesary diagnoses. 
   - **"The question of what was being _undone_ had a low priority if it was asked at all. The Zeitgeist of the age placed such a question in a range somewhere between peevishness and irrelevance. In a growing Technopoly, there is no time or inclination to speak of technological debits."**
 
 ## 7. The Ideology of Machines: Computer Technology
 
-### Chapter focus: 
+### Chapter focus: Traces our cultural shift towards thinking of humans as machines, and how that has removed a lot of our human agency, sense of responsibility, and identity. The chapter starts focusing on how we need to not only ask what benefits technology can provide, but also ask what we lose in the acquisition and use of technology. 
 
 - We've embraced computers in a mindless way that leads to unfortunate outcomes: the thoughtlessness with which we've adopted this technology leads to enforced mindsets and "usurped powers".
 - Good resource on this is the book _Computer Power and Human Reason_ by Joseph Weizenbaum. The difficulties he ran into because the universality of computers means: 
-  - that their uses are infinitely various
-  - that computers are commonly integrated into the structure of other machines
-- "computer" now refers to a machine (invented by John von Neumann in the 1940s), before that it was a person who performed mechanical calculation.
+  - That their uses are infinitely various
+  - That computers are commonly integrated into the structure of other machines
+- "Computer" now refers to a machine (invented by John von Neumann in the 1940s), before that it was a person who performed mechanical calculation.
 - 1936: Alan Turing built a machine that in many ways behaved like a problem-solving human being. His definition of "intelligent" was if the machine could exchange thoughts with a human through typed messages. 
-- MIT AI Lab: Joseph Weizenbaum wrote a program called Eliza - showed that he could meet Turing's test for intelligence. If you asked Eliza a question with a noun in it, Eliza could say "Why are you interested in" + the proper noun and a question mark. He had created a Turing Machine.
-  - Eventually wrote _Computer Power and Human Reason_ where "he raised questions about the research programs of those working in artificial intelligence; the assumption that whatever a computer can do, it should do; and the effects of computer technology on the way people construe the world-that is, the ideology of hte computer."
-- The shift in humans being defined as machines: 
+  - MIT AI Lab: Joseph Weizenbaum wrote a program called Eliza. He showed that he could meet Turing's test for intelligence. If you asked Eliza a question with a noun in it, Eliza could say "Why are you interested in" + the proper noun and a question mark. He had created a Turing Machine.
+    - He eventually wrote _Computer Power and Human Reason_ where "he raised questions about the research programs of those working in artificial intelligence; the assumption that whatever a computer can do, it should do; and the effects of computer technology on the way people construe the world-that is, the ideology of hte computer."
+- **The shift towards humans being defined as machines:**
   - Book _Turing's Man_ by J. David Bolter: comprehensive idea conveyed by the computer: 
     - Argues that "[the computer] defines our age by suggesting a new relationship to information, to work, to power, and to nature itself. That relationship can best be described by saying that the computer redefines humans as 'information processors' and nature itself as information to be processed".
     - This means that he defined humans as (thinking) machines. This "subordinates the claims of our nature, our biology, our emotions, our spirituality. The computer claims sovereignty over the whole range of human experience, and supports its claim by showing that it "thinks" better than we can." 
-  - John McCarthy, inventor of the term artificial intelligence. "even machines as simple as thermostats can be said to have beliefs" - This remark redefined the meaning of "belief" - "rejects the view that humans have internal states of mind that are the foundation of belief and argues instead that 'belief' means only what someone or something does." Also implies: simulating an idea is the same as duplicating the idea. Also: rejects the idea that mind is a biological phenomenon.
-  -** Now we've gone from: humans are in some respect like machines → humans are little else but machines → human beings _are_ machines.**
+  - John McCarthy, inventor of the term artificial intelligence. "Even machines as simple as thermostats can be said to have beliefs" - This remark redefined the meaning of "belief" - "rejects the view that humans have internal states of mind that are the foundation of belief and argues instead that 'belief' means only what someone or something does." Also implies: simulating an idea is the same as duplicating the idea. Also: rejects the idea that mind is a biological phenomenon.
+  - **Now we've gone from: humans are in some respect like machines → humans are little else but machines → human beings _are_ machines.**
   - **This means → machines can duplicate human intelligence, so research into AI was inevitable. It's reductionist. Human intelligence is not transferable.** Humans have a unique "biologically rooted intangible mental life" that can't be duplicated by machines. Machines can't feel or understand. Meaning makes us unique. 
-- How does the machine as human manifest?
+- How does the machine as human manifest, and what are the consequences?
   - people talk about "programming" or "deprogramming" themselves
   - speak of our brains as a piece of "hard wiring" 
   - Nov 4, 1988: Arpanet network became sluggish, then clogged with data. Spread to 6,000 computers in the US and overseas. This was a "worm" used to disable computers but started being called a "virus". The name stuck. Newspapers called the virus "virulent, contagious, and attempts to "quarantine" computers were made. They wanted to "sterilize" the network, programmers wanted to develop a "vaccine" to fight it. 
   - This language "reflects a profound shift in perception about the relationship of computers to humans." It implies that the computer has will, intentions, and reasons. **Which means that humans are relieved of responsibility for the computer's decisions.** Why ever blame people if it's the computer's fault? 
   - **This is called "agentic shift": humans transfer responsibility for an outcome from themselves to a more abstract agent. This means we don't have control, and gives us the ability to pursue "ill-advised or even inhuman goals because the computer can accomplish them or be imagined to accomplish them.** (a concept from Stanley Milgram)
   - People very obediently accept explanations like "the computer shows..." or "the computer has determined..."
-  - It constrains us from complaining or accusing - so the computer has "strengthened bureaucratic institutions and suppressed the impulse toward significant social change." 
-- Computers are used to automate political, social, and commercial enterprises - it's unclear if they've made them more efficient, but it's definitely diverted attention from questioning the necessity of such institutions or how they can improve. Can't go into the defects in an insitution's "asumptions, ideas, and theories". "Computer technology....has not yet come close to the printing press in its power to generate radical and substantive social, political, and religious thought." 
-- Computer technology has made technopoly stronger, has made "people believe that technological innovation is synonymous with human progress. It has done this by advancing several interconnected ideas": 
-  - Amplified the metaphor of machines as humans and humans as machines. This leads to "a loss of confidence in human judgement and subjectivity. We have devalued the singular human capacity to see things whole in all their psychic, emotional and moral dimensions, and we have replaced this with faith in the powers of technical calculation." 
-  - Give us technical process without much substance. Emphasis on speed and ability to store huge quantities of information. This is dangerous when applied to human affairs. 
-  - **"The computer argues...that the most serious problems confronting us at both personal and public levels require technical solutions through fast access to information otherwise unavailable."** Nonsense. "Our most serious problems are not technical, nor do they arise from inadequate information... Where people are dying of starvation, it does not occur because of inadequate information." The computer is useless in addressing human problems. 
-- Paul Goodman coined term "technological modesty" - "having a sense of the whole and not claiming or obtruding more than a particular function warrants". Technopoly also **"encourages insensitivity to what skills may be lost in the acquisition of new ones. It is important to remember what can be done without computers, and it is also important to remind ourselves of what may be lost when we do use them."**
-- It's not necessarily that we should be "against" computers, but asking what we _lose_ by subordinating our power to computers.
-  - Law: When we use computerized systems to increase efficiency in a legal system, what happens to the authority of precedent? Precedent is unnecessary when there are very few cases that you can access, but also "unworkable when there are too many". What will this mean? 
-  - Medicine: We know that doctors who rely on machines have lost skill in making diagnoses based on observation. 
-  - What other human skills are being lost? "Technopolists do not worry about such things."
+  - It constrains us from complaining or accusing - so the computer has "strengthened bureaucratic institutions and suppressed the impulse toward significant social change."
+- Have computers improved society? 
+  - Computers are used to automate political, social, and commercial enterprises - it's unclear if they've made them more efficient, but it's definitely diverted attention from questioning the necessity of such institutions or how they can improve. Can't go into the defects in an insitution's "asumptions, ideas, and theories". "Computer technology....has not yet come close to the printing press in its power to generate radical and substantive social, political, and religious thought." 
+  - Computer technology has made technopoly stronger, has made "people believe that technological innovation is synonymous with human progress. It has done this by advancing several interconnected ideas": 
+    - 1. Amplified the metaphor of machines as humans and humans as machines. This leads to "a loss of confidence in human judgement and subjectivity. We have devalued the singular human capacity to see things whole in all their psychic, emotional and moral dimensions, and we have replaced this with faith in the powers of technical calculation." 
+    - 2. Give us technical process without much substance. Emphasis on speed and ability to store huge quantities of information. This is dangerous when applied to human affairs. 
+    - 3. **"The computer argues...that the most serious problems confronting us at both personal and public levels require technical solutions through fast access to information otherwise unavailable."** Nonsense. "Our most serious problems are not technical, nor do they arise from inadequate information... Where people are dying of starvation, it does not occur because of inadequate information." The computer is useless in addressing human problems.
+- How does Technopoly treat new technology's impact on society?
+  - Paul Goodman coined term "technological modesty", which is "having a sense of the whole and not claiming or obtruding more than a particular function warrants". 
+  - **Technopoly also "encourages insensitivity to what skills may be lost in the acquisition of new ones. It is important to remember what can be done without computers, and it is also important to remind ourselves of what may be lost when we do use them."**
+  - It's not necessarily that we should be "against" computers, but asking what we _lose_ by subordinating our power to computers.
+    - Ex. Law: When we use computerized systems to increase efficiency in a legal system, what happens to the authority of precedent? Precedent is unnecessary when there are very few cases that you can access, but also "unworkable when there are too many". What will this mean? 
+    - Ex. Medicine: We know that doctors who rely on machines have lost skill in making diagnoses based on observation. 
+    - What other human skills are being lost? "Technopolists do not worry about such things."
   
 ## 8. Invisible Technologies
 
-### Chapter focus: 
+### Chapter focus: This chapter focuses on mechanisms that act as machines, but which are not usually thought of as technology. Examples include IQ tests, polls, management, and systems of grading. This helps us understand the ways in which technology changes our basic perceptions and changes what we consider objective and true. 
 
-- Goal of chapter: talk about "mechanisms that act as machines" but are not usually thought of as technology. 
 - Ideology is "a set of assumptions of which we are barely conscious but which nonetheless directs our efforts to give shape and coherence to the world" → "then our most powerful ideological instrument is the technology of language itself."
-- We tend not to realize how language does its work. We have very littel sense of how the world looks differently to people who speak different languages. We assume everyone sees the world the same way. 
-  - Ex. Susumu Tonegawa (1987 Nobel Prize in Medicine) - said Japanese doesn't "foster clarity or effectivey understanding in scientfic research". = english has an ideological bias that Japanese doesn't. 
-- Language has an ideological agenda, but people feel like it's just an objective and natural expression of who we are. "Because it comes from inside us, we believe it to be a direct, unedited, unbiased, apolitical expression of how the world really is."
-- A machine is outside of us and is modified by us. But a sentence can function much like a machine. 
+- We tend not to realize how language does its work. We have very little sense of how the world looks differently to people who speak different languages. We assume everyone sees the world the same way. 
+  - Ex. Susumu Tonegawa (1987 Nobel Prize in Medicine). Said the Japanese language doesn't "foster clarity or effective understanding in scientfic research". He means that English has a specific ideological bias that Japanese doesn't. 
+  - Language has an ideological agenda, but people feel like it's just an objective and natural expression of who we are. "Because it comes from inside us, we believe it to be a direct, unedited, unbiased, apolitical expression of how the world really is."
+- Example invisible technology: the formation of a sentence 
+  - A machine is outside of us and is modified by us. But a sentence can function much like a machine. 
   - "The structure of any question is as devoid of neutrality as is its content. The form of a question may ease our way or pose obstacles. Or, when even slightly altered, it may generate antithetical answers."
     - Ex. A disease afflicted a place in Lithuania. People would go into a coma-like state, and it wasn't always clear if people had died or not. People were afraid of being buried alive. Two solutions based on two different questions: "How can we make sure that we do not bury people who are still alive?" (= stock the coffins with water and food and drill air holes into them - expensive but seemed worth it) vs. "How can we make sure that everyone we bury is dead" (= Less expensive solution of putting a 12-inch stake to the coffin lid at heart level, so the person would certainly be dead when the coffin closed).
 - Another kind of invisible technology is a zero. 
@@ -278,7 +284,7 @@ Our ascent from tool using cultures → technocracies → technopoly. Technopoly
   - Without the zero, you can't do a lot of simple calculations (multiply MMMMMM by MMDCXXVI...)
   - Abacaus-users (didn't like zero because "it registered the absense of a power of ten, which no roman numeral did, seemed aesthetically offensive, seemed bizarre.) vs. algeorists who used Hindu numerals with a zero sign.
   - Zero is a technology that makes certain kinds of thoughts easy, whereas before the zero those thoughts were inaccessible. It has an idea. The use of zero and the Hindu numbering system made possible a sophisticated math which led us to statistics. 
-- **Statistics!**
+- **Statistics**
   - Stats gives us new perceptions and realities by exposing large-scale patterns. But Technopoly gives free reign to apply this indiscriminately across society. 
   - Ex. Francis Galton, 1822-1911 (like a founding father of Technopoly). Founder of Eugenics. The science of arranging marriage and family so as to produce the best possible offspring based on the hereditary characteristics of the parents. Wanted to rank human characteristics, anything could be measured and statistical procedures could explain things. He wanted to demonstrated the inheritance of intelligence. Measured skulls. 
     - Read Stephen Jay Gould's _The Mismeasure of Man_ to learn about the history of this and how problematic it was. He made these points: 
@@ -299,36 +305,38 @@ Our ascent from tool using cultures → technocracies → technopoly. Technopoly
 - Some technologies come in a disguise. 
   - Ex: IQ tests, polls, systems of ranking/grading, credit cards, accounting procedures, achievement tests. Academic courses     - Academic courses are a technology for learning. Why do classes last a specified time? For administrative efficiency. But we come to believe it exists for one reason (it's the best way to learn) when it exists for another (efficiency/bureaucracy).
   - "One characteristic of those who live in a Technopoly is that they are largely unaware of both the origins and the effects of their technologies."
-  - Example of lack of awareness: the belief that modern business invented the technology of management. But the truth: management invented modern business. 
-    - Based on research by Alfred Chandler, Sidney Pollard, Keith Hoskin, Richard Macve
-    - Most likely origin: Great Britain in late 18th and early 19th centuries. Before any concept of "managerial class". 
-    - Management created in the U.S. - 1817 in the US Military Academny by the academy's 4th superintendent, Sylvanus Thayer. 2 innovations: 
-      - 1. Grade examinations by giving numerical marks (borrowed from Ecole Polytechnique in Paris), an "objective measure of human performance. 
-      - 2. Line-and-staff system. Divided into two divisions, organized hierarchically. Regular reporting. Written communication. 
-    - 2 of the cadets at the academy, Daniel Tyler and George Whistler, graduated in 1819 and took this approach elsewhere. 
-      - Tyler did a time and motion study in 1832, "established objectively based norms of production for every job in the armory". Worker productivity measured against established productivity norms. Resulted in increased production, decreased costs. 
-      - Whistler, chief engineer of the Western Railrod, developed a managerial system in 1839. Organized the railroad along hierarchical lines (central staff office, descending to regional managers and local managers). Used the grammatocentric principle. 
-    - **Principles of calculability and grammatocentrism are foundations of modern systems of management.** Numbers and being removed from everyday realities. 
-      - calculability led to accounting, inventory control, productivity norms
-      - grammatocentrism promoted idea that "the best way to run a business is to know it through reports of those lower down the line". 
+- Example of lack of awareness: the belief that modern business invented the **technology of management**. But the truth is that management invented modern business. 
+  - Based on research by Alfred Chandler, Sidney Pollard, Keith Hoskin, Richard Macve
+  - Most likely origin: Great Britain in late 18th and early 19th centuries. Before any concept of "managerial class". 
+  - Management created in the U.S. - 1817 in the US Military Academny by the academy's 4th superintendent, Sylvanus Thayer. 2 innovations: 
+    - 1. Grade examinations by giving numerical marks (borrowed from Ecole Polytechnique in Paris), an "objective measure of human performance. 
+    - 2. Line-and-staff system. Divided into two divisions, organized hierarchically. Regular reporting. Written communication. 
+  - 2 of the cadets at the academy, Daniel Tyler and George Whistler, graduated in 1819 and took this approach elsewhere. 
+    - Tyler did a time and motion study in 1832, "established objectively based norms of production for every job in the armory". Worker productivity measured against established productivity norms. Resulted in increased production, decreased costs. 
+    - Whistler, chief engineer of the Western Railrod, developed a managerial system in 1839. Organized the railroad along hierarchical lines (central staff office, descending to regional managers and local managers). Used the grammatocentric principle. 
+  - **Principles of calculability and grammatocentrism are foundations of modern systems of management.** Numbers and being removed from everyday realities. 
+    - calculability led to accounting, inventory control, productivity norms
+    - grammatocentrism promoted idea that "the best way to run a business is to know it through reports of those lower down the line". 
   - Why is this instructive? 
     - 1. management functions as does any technology. Made up of procedures and rules "designed to standardize behavior."
       - This isn't an issue, until it becomes autonomous. **"In a Technopoly, we tend to believe that only through the autonomy of techniques (and machinery) can we achieve our goals. This idea is all the more dangerous because no one can reasonably object to the rational use of techniques to achieve human purposes."** This isn't to say that management isn't potentially necessary. But the question is: "who will be the master? Will we control it, or will it control us?" We must still be in control of the technique or else we can't control those answers. 
-     - 2. management is a good example of something invisible that creates a new way of doing things (subversively). "When a method of doing things becomes so deeply associated with an institution that we no longer know which came first...then it is difficult to change the institution or even to imagine alternative methods for achieving its purposes."
-     - This means it's important to understand where techniques and technologies come from, contextualize them. This will let us gain back our sovereignty. 
+    - 2. management is a good example of something invisible that creates a new way of doing things (subversively). "When a method of doing things becomes so deeply associated with an institution that we no longer know which came first...then it is difficult to change the institution or even to imagine alternative methods for achieving its purposes."
+    - This means it's important to understand where techniques and technologies come from, contextualize them. This will let us gain back our sovereignty.
     
 ## 9. Scientism
 
-### Chapter focus: 
+### Chapter focus: This chapter traces the shift in the study of humans to be more codified as a hard science, even though it needs to and provides value when it exists more as cultural narratives, historical contextualization, and mythology. This over-emphasis in the study of humans as a hard science results in the hope and belief that a standardized set of procedures called "science" can provide us with an unimpeachable source of moral authority. 
 
 - There is a problem with the modern presentation of social science. 
   - The general feeling is that the study of human behavior, if studied in a rigorous manner based on the physical and biological science methodologies, "will produce facts, testable theories, and profound understandings of the human condition."
-- 1794, Paris: The ecole Polytechnique school founded
-  - From here came the beginning concepts of a "science of man". 
-  - Lavoisier and Ampère and Volta and Alexander von Humboldt taught there - their work in chemistry and physics laid groundwork for modern science. This was good, beneficial. 
-  - Also from this school - "scientific hubris" from Pierre-Simo de Laplace, no limits to the power of scientific research (_Essai philosophique sur les probabilités_ published in 1814). 
-    - "A mind that in a given instance knew all the forces by which nature is animated and the position of all the bodies of which it is composed, if it were vast enough to include all these data within his analysis, could embrace in one single formula the movements of the largest bodies of the universe and of the smallest atoms; nothing would be uncertain for him; the future and the past would be equally before his eyes." - _Essai philosophique sur les probabilités_ published in 1814.
-- This isn't really directly believed by anyone now, but it held a scientific ideal that inspired people to "believe that the reliable and predictable knowledge that could be obtained about stars and atoms could also be obtained about human behavior." 
+- The "science of man" is created:
+ - 1794, Paris: The ecole Polytechnique school founded
+    - From here came the beginning concepts of a "science of man". 
+    - Lavoisier and Ampère and Volta and Alexander von Humboldt taught there - their work in chemistry and physics laid groundwork for modern science. This was good, beneficial. 
+    - Also from this school - "scientific hubris" from Pierre-Simo de Laplace, no limits to the power of scientific research (_Essai philosophique sur les probabilités_ published in 1814). 
+      - "A mind that in a given instance knew all the forces by which nature is animated and the position of all the bodies of which it is composed, if it were vast enough to include all these data within his analysis, could embrace in one single formula the movements of the largest bodies of the universe and of the smallest atoms; nothing would be uncertain for him; the future and the past would be equally before his eyes." - _Essai philosophique sur les probabilités_ published in 1814.
+      - This isn't really directly believed by anyone now, but it held a scientific ideal that inspired people to "believe that the reliable and predictable knowledge that could be obtained about stars and atoms could also be obtained about human behavior."
+- The study of humans as a science: 
   - Ex. early social scientists who believed this: Claud-Henri de Saint-Simon, Prosper Enfantin, August Compte. They started the idea of "social engineering", the concept of Scientism was born from. They had two beliefs that are foundational to Technopoly: 
     - 1. That the natural sciences provide a method to unlock the secrets of both the human heart and the direction of social life.
     - 2. That society can be rationally and humanely reorganized according to principles that social science will uncover.
@@ -336,9 +344,9 @@ Our ascent from tool using cultures → technocracies → technopoly. Technopoly
     - 1. The methods of natural sciences can be applied to human behavior (same as above)
     - 2. Social science generates specific principles which can be used to organize society on a rational and humane basis (same as above)
     - 3. Faith in science can serve as a comprehensive belief system that gives meaning to life, as well as a sense of well-being, morality, and even immortality. 
-    - Next part is showing how these concepts relate to each other and give form to Technopoly. 
-- "Science" as a term - 
-   - Def: the work of people in the physical, chemical, and biological disciplines
+   - Next part is showing how these concepts relate to each other and give form to Technopoly. 
+- "Science" as a term: 
+   - Definition: the work of people in the physical, chemical, and biological disciplines
    - First used in 1867 in Murray's _New English Dictionary_
    - Popularized in early 19th century
    - By early 20th century, had been appropriated. 
@@ -346,68 +354,71 @@ Our ascent from tool using cultures → technocracies → technopoly. Technopoly
    - Processes: things occuring in nature, nothing to do with human intelligence.
    - Practices: Creations of people, events resulting from human actions and decisions. 
    - Science is the quest to find immutable and universal laws to govern processes, assumes there are cause-and-effect relations between processes. This can't apply to the understanding of human behavior and feeling. 
+ - Social science:
    - Sociologists can use quantification to give some precision to their ideas, but not more than that. Not really scientific. Precision is used all the time (number of constituents, number of murders), it's not science. Scientist study things with objectivity, independent of what people think or do. "The opinions people hold about the external world are...always an obstacle to be overcome". Heisenberg uncertainty principle = at subatomic levels particles do "know" they are being studied, at least in a special meaning of "knowing". Social science is further invalidated as a science given that "there are almost no experiments that will reveal a social-science theory to be false". Theories disappear because they are boring, not because they are refuted. This isn't science. 
     - This isn't to say that belief in theories is harmful. Just that they fall outside the definition of science. 
     - Ex. Stanley Milgram's study (_Obedience ot Authority_), which found that "in the face of what they construe to be legitimate authority, most people will do what they are told. ...the social context in which people find themsleves will be a controlling factor in how they behave". This is basically a commonplace of human experience, pretty obvious. Except that it wasn't predicted by psychiatrists who he surveyed beforehand. Also, this study wasn't empirical: not natural life situations. Also didn't answer "why". 
       - But what happens if you find people who do the opposite of the study (ex. the Danes who resisted the Nazis). Does this invalidate his study? No. 
       - **His study isn't science. It's something else. It's documenting the behavior and feelings of people as they confront problems posed by their culture. It's a form of storytelling.**
-        - Closer to imaginative literature. Use unique interpretations, draw appeal from power of language, depth of explanation, relevance of examples. This has "an identifiable moral purpose". 
-        - **"The words 'true' and 'false' do not apply here in the sense that they are used in mathematics or science. For there is nothing universally and irrevocably true or false about these interpretations. THere are no critical tests to confirm or falsify them. There are no natural laws from which they are derived. They are bound by time, by situation, and above all by the cultural prejudices of the researcher or writer."** The researcher leads by reason, logic, argument, focus on a wider field than fiction. 
-        - Why do social researchers tell their stories? Didactic and moralistic purposes. 
-        - Social research never discovers anything (unlike science). Only rediscovers. Telling these stories in new ways. But Technopoly doesn't want these stories, it wants facts. Hard facts, scientific. Precise > truthful. Technopoly wants to solve the "dilemma of subjectivity. **Diversity, complexity, subjectivity, ambiguity of human judgement are enemies of technique.** This makes it necessary to turn psychology, sociology, and anthropology into sciences. This is why we now announce "discoveries" in social sciences, even if they're sort of obvious. Trying to be a scientific enterprise. Social researchers can then be seen as scientists without bias or their own values. 
-        - "In Technopoly, it is not enough to argue that the segregation of blacks and whites in schools is immoral...the courts must be shown that standardized academic and psychological tests reveal that blacks do less well than whites and feel demeaned when segregation exists." Social scientists want to align themselves with scientists to be taken seriously in a Technopoly. 
+- Social science is closer to imaginative literature than science:
+  - Closer to imaginative literature. Uses unique interpretations, draws appeal from the power of language, depth of explanation, relevance of examples. This has "an identifiable moral purpose". 
+  - **"The words 'true' and 'false' do not apply here in the sense that they are used in mathematics or science. For there is nothing universally and irrevocably true or false about these interpretations. THere are no critical tests to confirm or falsify them. There are no natural laws from which they are derived. They are bound by time, by situation, and above all by the cultural prejudices of the researcher or writer."** The researcher leads by reason, logic, argument, focus on a wider field than fiction. 
+- Why do social researchers tell their stories? Didactic and moralistic purposes. 
+  - Social research never discovers anything (unlike science). Only rediscovers. Telling these stories in new ways. But Technopoly doesn't want these stories, it wants facts. Hard facts, scientific. Precise > truthful. Technopoly wants to solve the "dilemma of subjectivity. **Diversity, complexity, subjectivity, ambiguity of human judgement are enemies of technique.** This makes it necessary to turn psychology, sociology, and anthropology into sciences. This is why we now announce "discoveries" in social sciences, even if they're sort of obvious. Trying to be a scientific enterprise. Social researchers can then be seen as scientists without bias or their own values. 
+  - "In Technopoly, it is not enough to argue that the segregation of blacks and whites in schools is immoral...the courts must be shown that standardized academic and psychological tests reveal that blacks do less well than whites and feel demeaned when segregation exists." Social scientists want to align themselves with scientists to be taken seriously in a Technopoly. 
 - Science, Social Research, and imaginative literature are all different. All of them are storytelling, but with different aim, questions, procedures, and meanings of "truth". 
-- When Galileo, Newton, etc laid foundations for natural science, they also discredited earlier authorities like Genesis. Undermined belief, took away where we look for moral authority. Even though science doesn't claim to tell us what is moral, it left us without anything else. This leads science to start suggesting things. Everyone is desperate for it, so social science answers. Scientism. 
-  - Not just a misapplication of techniques, or confusion of material and social space of human experience. In addition to that, scientism is the hope and belief that a standardized set of procedures called "science" can provide us with an unimpeachable source of moral authority. 
+- When Galileo, Newton, etc laid foundations for natural science, they also discredited earlier authorities like Genesis. Undermined belief, took away where we look for moral authority. Even though science doesn't claim to tell us what is moral, it left us without anything else. This leads science to start suggesting things. Everyone is desperate for it, so social science answers. "Scientism".
+  - It's not just a misapplication of techniques, or confusion of material and social space of human experience. In addition to that, scientism is the hope and belief that a standardized set of procedures called "science" can provide us with an unimpeachable source of moral authority. 
     
 ## 10. The Great Symbol Drain
 
-### Chapter focus: 
+### Chapter focus: Technopoly trivializes and erases the narratives and symbols that provide meaning to existance, with vast consequences. In a Technopoly, education is viewed with great skepticism. At the same time, Technopoly provides no moral center while professing to provide one through technology. 
 
 - Symbols are important, have meaning. We're experiencing a lot of trivialization of symbols in Technopoly. Using religious symbols or other things isn't blasphemy, it's trivialized through over-exposure. There are no laws against trivialization. In Technopoly, "the trivialization of significant cultural symbols is largely conducted by commercial enterprise."
 - Adoration of technology > anything else. 
 - Two intertwined reasons for trivialization of traditional symbols: 
   - 1. Although symbols are endlessly repeatable, they are not inexhaustible. 
   - 2. The more frequently a significant symbol is used, the less potent is its meaning. 
-    - _The Image_ by Daniel Boorstin in late 20th century. Talked about mid-19th century beginning of a "graphics revolution" - easy reproduction of visual images. Gave everyone more continuous access to symbols. Prints, lithographs, photographs, movies, television. = breeding indifference. Before this, a scarcity of images contributed to their power. 
+    - _The Image_ by Daniel Boorstin in late 20th century. Talked about mid-19th century beginning of a "graphics revolution" - Easy reproduction of visual images. Gave everyone more continuous access to symbols. Prints, lithographs, photographs, movies, television. = breeding indifference. Before this, a scarcity of images contributed to their power. 
     - The frequency of use, but also the indiscriminate nature of contexts in which images are used. 
 - Advertising and symbols
   - It _is_ possible to have a market economy that respects the seriousness of words and icons, and that doesn't trivialize them through overuse. This is how it worked in America from 1830 to the end of the 19th century, a period of industrial growth. Ads didn't play a big role in the economy, and ads used straightforward language. 
   - On March 3, 1879, the Postal Act gave magazines low-cost mailing privileges. Magazines emerged as conduits for national advertising. This was the start to the ad industry emerging in the early early 20th century.
   - By turn of century, advertisers started finding that reason alone didn't work as well as symbols. Psychology and aesthetic theory. 
-    - This led to a rejection of a basic princple of capitalistic ideology: "That the producer and consumer were engaged in a rational enterprise in which consumers made choices on the basis of a careful consideration of the quality of a product and their own self-interest."
+    - This led to a rejection of a basic princple of capitalistic ideology: "That the producer and consumer were engaged in a rational enterprise in which consumers made choices on the basis of a careful consideration of the quality of a product and their own self-interest." Now influencing the consumer with symbolic narratives and imagery.
     - At core of Technopoly: industry using all available symbols to further economic interests, devour the psyches of consumers to do that. 
       - Jesus's birthday as an occasion for commerce to exhaust Christian symbology to sell things
     - This ideology gives "boundless supremacy to technological progress and is indifferent to the unraveling of tradition." 
     - Symbol drain wasn't caused by advertising - it's caused by the "technologies to make it possible and a world-view to make it desirable." Advertising is a symptom of a worldview where tradition is seen as an obstacle. 
-Tradition vs. technopoly:
+- **Tradition vs. technopoly:**
   - Tradition needs symbols, and acknowledgement and relevance of the narratives that gave us those symbols. 
   - When asking "why should we bring TV and film into the classroom, the answer can just be "to make learning more efficient and more interesting", since efficiency is the only requirement in Technopoly. This doesn't address the question "what is learning for?" → no pathway to an educational philosophy if the answer is just "efficiency and interest". Doesn't answer the question "why". 
   - No culture can flourish without cultural narratives - Genesis, Bhagavad-Gita - things that are narratives of transcendent origin and power.
     - BUT: sometimes narratives do not ensure stability or strength, like Adolf Hitler's narrative. He used Teutonic mythology, ancient symbolisms, created a narrative of Aryan supremacy. It was powerful, but in a negative way. Lasted 12 years.
     - The alternative to narratives is to live without meaning. 
   - Symbol drain is both a symptom and a cause of a loss of narrative. 
-American Education
+- **American education: what is its purpose?**
   - What story does American education want to tell now? In a Technopoly, what is education for? 
   - Technopoly encourages education to have the goal of helping students get a good job. And that's the only purpose. (maybe also to help us compete economically with other countries).
-  - This means that the U.S. is not a culture. Is just an economy. 
+  - This means that the U.S. is not a culture. It's just an economy. 
   - Attempts are made to provide a comprehensive purpose to education. _Cultural Literacy_ by E. D. Hirsch, Jr. defined literacy as the "capacity to understand and use the words, dates, aphorisms, and names that form the basis of communication among the educated in our culture." He made cultural encyclopedias. But his proposal is inadequate for 2 reasons: 
-    - 1. The present condision of techonoly-generated information is so long, varied, and dynamic that it is not possible to organize it into a coherent educational program. 
-    - 2. Confuses a consequence of education with a purpose. He only tried to answer "what is an educated person?", not "what is an education for?" 
+    - 1. The present condision of techonoly-generated information is so long, varied, and dynamic that it is not possible to organize it into a coherent educational program.
+    - 2. Confuses a consequence of education with a purpose. He only tried to answer "what is an educated person?", not "what is an education for?"
   - _The Closing of the American Mind_ by Allan Bloom makes a complaint against the academy: that American professors have become moral relativists, "incapable ofproviding their students with a clear understanding of what is right thought and proper behavior." Also are intellectual relativists, not defending their own culture and not preserving the best of what has been thought and said. He suggests we go back to the basics of Western thought. 
     - Bloom, an education philosopher "is a moralist who understands that Technopoly is a malevolent force requring opposition." 
     - People who don't like Bloom's ideas give these reasons: 
       - 1. Such a purpose for education is elitist. Western civilization is problematic, alientating to many, doesn't provide meaning. 
       - 2. Assertion that the "story of Western civilization" is partial, biased, and oppressive. Leaves out most groups. 
-    - Post man feels: if that last assertion is true, "it means nothing less than that our national symbols have been drained of their power to unite, and that education must become a tribal affair; that is, each subculture must find its own story and symbols, and use them as the moral basis of education." 
-    - Also religious groups that feel that education is forthe greater glory of God and to "prepare the young to embrace intelligently and gracefully the moral directives of the church." 
-- There is a general mood of skeptism, an "agnosticism of judgement, sometimes a world-weary nihilism in which even the most conventional minds begin to question both distinctions of value and the value of distinctions.
+    - Postman feels: if that last assertion is true, "it means nothing less than that our national symbols have been drained of their power to unite, and that education must become a tribal affair; that is, each subculture must find its own story and symbols, and use them as the moral basis of education." 
+    - Also there are religious groups that feel that education is for the greater glory of God and to "prepare the young to embrace intelligently and gracefully the moral directives of the church." 
+- **General mood towards education in a Technopoly**: 
+  - There is a general mood of skeptism, an "agnosticism of judgement, sometimes a world-weary nihilism in which even the most conventional minds begin to question both distinctions of value and the value of distinctions.
   - Technopoly emphasizes: progress without limits, rights without responsibilities, technology without cost. No moral center. Values efficiency, interest, economic advance. Technological progress as the best thing. Gets rid of traditional narratives and symbols that suggest stability, orderliness. Emphasizes skills, technical expertise, consumption. 
   - **Technopoly "answers Bloom by saying that the story of Western civilization is irrelevant; it answers the political left by saying there is indeed a common culture whose name is Technopoly and whose key symbol is now th computer, towards which there must be neither irreverence nor blasphemy. It even answers Hirsch by saying that there are items on his list that, if thought about too deeply and taken too seriously, will interfere with the progress of technology."**
 
 ## 11. The Loving Resistance Fighter
 
-### Chapter focus: 
+### Chapter focus: This chapter is a light exploration of a strategy through which to resist Technopoly. It is grounded in maintaining a strong critique towards technology and its impact, always questioning technology and looking at potential consequences. The author suggests that one of the strongest ways we can cultivate this is through a shift in education: focus on teaching historical context for every subject, shifting the teaching of history itself to focus on the meaning and context of historical accounts, and provide everyone with a strong foundation in semantics.
 
 - If you participate in cultural criticism, people will always ask you "what is the solution to the problems you describe?" in a few ways:
   - gentle and eager
