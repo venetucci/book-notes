@@ -1,6 +1,6 @@
 # Technopoly Chapter Summaries
 
-|||||
+|Title|Author|Rating|Type|
 |---|---|---|---|
 |**Technopoly: The Surrender of Culture to Technology**|Neil Postman ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓|
 
