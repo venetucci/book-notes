@@ -380,3 +380,55 @@ American Education
 - There is a general mood of skeptism, an "agnosticism of judgement, sometimes a world-weary nihilism in which even the most conventional minds begin to question both distinctions of value and the value of distinctions.
   - Technopoly emphasizes: progress without limits, rights without responsibilities, technology without cost. No moral center. Values efficiency, interest, economic advance. Technological progress as the best thing. Gets rid of traditional narratives and symbols that suggest stability, orderliness. Emphasizes skills, technical expertise, consumption. 
   - **Technopoly "answers Bloom by saying that the story of Western civilization is irrelevant; it answers the political left by saying there is indeed a common culture whose name is Technopoly and whose key symbol is now th computer, towards which there must be neither irreverence nor blasphemy. It even answers Hirsch by saying that there are items on his list that, if thought about too deeply and taken too seriously, will interfere with the progress of technology."**
+
+### 11. The Loving Resistance Fighter
+
+- If you participate in cultural criticism, people will always ask you "what is the solution to the problems you describe?" in a few ways:
+  - gentle and eager
+  - threatening and judgmental
+  - wishful and encouraging
+- This book is armed less with solutions than an explanation of problems, but Postman has some ideas. Two parts: 
+  - 1. what the individual can do irrespective of what the culture is doing
+  - 2. what the culture can do irrespective of what na individual is doing
+- A principle for working against Technopoly: be a loving resistance fighter. 
+  - Loving = "always keep close to your heart the narratives and symbols that once made the United States the hope of the world and that may yet have enough vitality to do so again." Ex. American resistance during Vietnam War = only case in history where public opinion forced a government to change its foreign policy. Ex. Public education for all citizens.
+    - America has always been a series of experiments. 3 are especially important: 
+      - 1. End of 18th century: Can a nation allow the greatest possible degree of political and religious freedom and still retain a sense of identity and purpose? 
+      - 2. Middle of 19th century: Can a nation retain a sense of cohesion and commuinty by allowing into it people from all over the world? 
+      - 3. Now: Can a nation preserve its history, originality, and humanity by submitting itself totally to the sovereignty of a technological thought-world? (Postman things the answer isn't going to be great)
+  - Resistance fighter = people who resist American Technopoly are people: 
+    - "Who pay no attention to a poll unless they know what questions were asked, and why"
+    - "Who refuse to accept efficiency as the pre-eminent goal of human relations"
+    - "Who have freed themselves from the belief in the magical powers of numbers, do not regard calculation as an adequate substitute for judgment, or precision as a synonym for truth"
+    - "Who refuse to allow psychology or any "social science" to pre-empt the language and thought of common sense"
+    - "Who are, at least, suspicious of the idea of progress, and who do not confuse information with understanding"
+    - "Who do not regard the aged as irrelevant"
+    - "Who take seriously teh meaning of family loyalty and honor, and who, when they "reach out and touch someone" expect that person to be in the same room"
+    - "Who take the great narratives of religion seriously and who do not believe that science is the only system of thought capable of producing truth"
+    - "Who know the difference between the sacred and the profane, and who do not wink at tradition for modernity's sake"
+    - "Who admire technological ingenuity but do not think it represents the highest possible form of human achievement"
+    - Understand that every technology is a product of an economic and political context, has a program, agenda, and philosophy that may or may not be life enhancing. All of which requires scrutiny, criticism, and control. 
+    - Resistance requires an "epistemological and psychic distance from technology, technology should always appear somewhat strange, never natural or inevitable. 
+- Education can play a role in this resistance. 
+  - School is a type of technology, but it is also regularly scrutinized, criticized, and modified. Our best tool for addressing problems that paralyze other social institutions. 
+  - Schools can: give a sense of coherence in their studies, a sense of purpose, meaning, interconnectedness. Put forth a clear curriculum, clear vision of what constitutes an educated person. 
+  - Schools don't need to further stress the idea of self, that's already very present in society and renders curriculum irrelevant. 
+  - Possible theme of education for a diverse, secularized population: 
+    - _The Ascent of Man_ by Jacob Bronowski. Emphasizes science, but also includes arts and humanities. Must join art and science. 
+    - The ascent of humanity is a scaffolding to build a curriculum. 
+      - This could come from joining science and art, past and present. It's a continuous story. This doesn't require inventing new subjects or getting rid of old subjects. Can start at the earliest grades and go through college in deeper and wider dimensions. Gives students a point of view to understand meaning of subjects. Can give us a nontechnical, noncommercial definition of education. 
+      - Look at subjects in a historical context. Educated = to become "aware of the origins and growth of knowledge and knowledge systems; to be familiar with the intellectual and creative processes by which the best that has been thought and said has been produced. 
+      - This is idea-centered and coherence-centered (not problem or skills or child or training-centered)
+      - What we learn doesn't have to be urgently related to a problem of today.
+      - Stresses: **"history, the scientific mode of thinking, the disciplined use of language, a wide-ranging knowledge of the arts and religion, and the continuity of human enterprise."**
+- Education based on history: 
+  - 1. **history is not just one subject - every subject has a history (biology, physics, math, lit, music, art). All teachers must be history teachers, teach every subject as history. To teach all subjects with historical context means we can develop a sense of meaning around what we know and how we know it. Knowledge is not fixed. Teaching the history of subjects teaches connections. The world is not created anew every day.**
+  - What would a history teacher do then? History as a subject would be about what history is: "hypotheses and theories about why change occurs." We know that history is told from specific viewpoints, told for a specific purpose. Historians know this, but we don't teach this. This prevents people from understanding how history can change and why different groups view history differently. If other subjects teach relevant history, then history teachers can now do this - show how history is a product of culture, how the biases of the culture, the religion, politics, geography, economy lead them to re-create their past in specific ways. 
+  - If not, history as it is taught now just re-produces Technopoly's bias: history as a chronicle of fragmented, objective, concrete events, without concepts and theories. Meaningless stream of events. 
+  - Need to present past events with coherence, through theories, concepts, hypotheses, comparisons, deductions, evaluations. 
+  - Need courses that help us understand that science is not just a pharmacy or technology or magic trick - it's a special way of employing human intelligence. Practice a set of canons of thought, disciplined use of language. 
+  - **Schools should also always offer a course in semantics - "the process by which people make meaning". The relationship between language to reality. Every teacher should be a semantics teacher.** Uses of language, relationship between things and words, symbols and signs, factual statements and judgements, grammar and thought. Semantics should be foundational, basic, taught early. Generates critical thought, understand underlying assumptions, how language can distort reality. Not people who just follow orders, spell correctly.  
+  - Since society has amply supply of popular culture, education needs to take the role of supplying appreciation and context for past culture. This might feel painful to learn or teach, but shows that "not all worthwhile things are instantly accessible and that there are levels of sensibility unknown to them."
+- Two subjects are important to understand the historical context of: 
+  - 1. History of technology. Help us begin informed conversations of where technology is taking us and how. 
+  - 2. Comparative Religion (which much of painting, music, technology, architecture, lit, science are intertwined). Religion as an expression of humanity's creativity, response to fundamental questions about meaning. No particular religion. Should show the metaphors, literature, ritual. 
