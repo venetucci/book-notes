@@ -1,4 +1,4 @@
-# Technopoly Chapter Summary
+# Technopoly Chapter Summaries
 
 |||||
 |---|---|---|---|
