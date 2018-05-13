@@ -1,5 +1,5 @@
 ---
-name: Book suggestion
+name: "\U0001F4D6Book suggestion"
 about: Suggest a book to add to this reading list
 
 ---
