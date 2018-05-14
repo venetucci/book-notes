@@ -20,18 +20,18 @@ How networked markets are transforming the economy and how to make them work for
 
 ### Notes: 
 
-💼 **Wikipedia:**
-- Wikipedia is the most popular reference site in the world
-- Is a universally accessible, unlimited source of data that should be reliable
-- There are a lot of cases of misinformation on the site. Example: people editing the "Murder of Meredith Kercher" 8,000 times, mostly by people who are biased towards believing that Amanda Knox is guilty. 
-- Wikipedia is an incredibly open platform, and this is a good example of the tradeoffs inherent in providing something that is openly accessible while trying to still maintain high quality. If Wikipedia were closed, it would reduce participation. 
-
 🔖 **Definition of openness:**
 > A platform is 'open' to the extent that: 
 > 1. No restrictions are placed on participation in its development, commercialization, or use; or
 > 2. any restrictions - for example, requirements ot conform with technical standards or pay licensing fees - are reasonable and non-discriminatory, that is, they are applied uniformly to all potential platform participants.
 
 - Openness levels exist on a spectrum, and where a business decides to land on that spectrum affects usage, developer participation, monetization, and regulation. 
+
+💼 **Wikipedia:**
+- Wikipedia is the most popular reference site in the world
+- Is a universally accessible, unlimited source of data that should be reliable
+- There are a lot of cases of misinformation on the site. Example: people editing the "Murder of Meredith Kercher" 8,000 times, mostly by people who are biased towards believing that Amanda Knox is guilty. 
+- Wikipedia is an incredibly open platform, and this is a good example of the tradeoffs inherent in providing something that is openly accessible while trying to still maintain high quality. If Wikipedia were closed, it would reduce participation. 
 
 💼 **Apple's transition from closed to something more balanced:**
 - in 1980s, Jobs chose to keep the Apple Macintosh a closed system, while Microsoft opened an OS to outside developers and licensed it to many computer manufacturers. 
@@ -50,7 +50,6 @@ How networked markets are transforming the economy and how to make them work for
 
 💼 **Youtube:**
 - Highly open system = delivers a wide array of content from all types of content creators. 
-- 
 
 🔑 **Three kinds of openness decisions that managers face:**
 1. Manager/sponsor participation
@@ -96,12 +95,12 @@ How networked markets are transforming the economy and how to make them work for
 🔑 **2. Developer Participation**
 - Three kinds of developers: 
   1. Core developers: create the core platform cuntions that provide value to platform participants.
-    - Goal: get the platform to users, deliver value through tools and rules around the core interaction. Responsible for basic platform capabilities. 
+      - Goal: get the platform to users, deliver value through tools and rules around the core interaction. Responsible for basic platform capabilities. 
   2. Extension developers: Add features and value to the platform and enhance its functionality. 
-    - Usually outside parties. Managers have to decide how open they want to be to these developers. 
-    - Ex. People who produce apps sold via the iTunes store
-    - Companies will usually create an application programming interface (API) to regulate these developers, manage access to the system. 
-    - 🔖 **An API** is a standardized set of routines, protocols, and tools for building software applications that makes it easy for an outside programmer to write code that will connect with the platform infrastructure. 
+      - Usually outside parties. Managers have to decide how open they want to be to these developers. 
+      - Ex. People who produce apps sold via the iTunes store
+      - Companies will usually create an application programming interface (API) to regulate these developers, manage access to the system. 
+      - 🔖 **An API** is a standardized set of routines, protocols, and tools for building software applications that makes it easy for an outside programmer to write code that will connect with the platform infrastructure. 
   3. Data aggregators
   
 💼 **Developer Participation Case Study: Airbnb** 
