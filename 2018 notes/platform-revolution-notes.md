@@ -26,6 +26,8 @@ How networked markets are transforming the economy and how to make them work for
 > 2. any restrictions - for example, requirements ot conform with technical standards or pay licensing fees - are reasonable and non-discriminatory, that is, they are applied uniformly to all potential platform participants.
 
 - Openness levels exist on a spectrum, and where a business decides to land on that spectrum affects usage, developer participation, monetization, and regulation. 
+- There are pros/cons at ever point in the spectrum
+- Defining who has access, and how they can participate is very complex. Should be at the top of a platform managers agenda at all times. 
 
 💼 **Wikipedia:**
 - Wikipedia is the most popular reference site in the world
@@ -58,7 +60,11 @@ How networked markets are transforming the economy and how to make them work for
     - Sometimes these are not the same: Manager has more influence over daily operations and the developers, the sponsor has legal and economic control, as well as long-term strategy. 
     - See next 🔑 for examples
 2. Developer participation
+    - Managers need to control the level of openness to developers
+    - See section on "🔑 developer participation" below.
 3. User participation
+    - Managers need to control the level of openness to users
+    - See section on "🔑 user participation" below.
   
 🔑 **1. Management and sponsorship of a platform can be controlled by:**
 - Depending on 4 combinations, there are different patterns of openness and control, different advantages and disadvantages. A platform can also migrate from one model to another.  
@@ -101,22 +107,54 @@ How networked markets are transforming the economy and how to make them work for
       - Ex. People who produce apps sold via the iTunes store
       - Companies will usually create an application programming interface (API) to regulate these developers, manage access to the system. 
       - 🔖 **An API** is a standardized set of routines, protocols, and tools for building software applications that makes it easy for an outside programmer to write code that will connect with the platform infrastructure. 
+      - 💼 **Walmart vs. Amazon's APIs**: Amazon has 300 API "mashups", Walmart has one API, which is partially why Amazon pulled ahead of Walmart in the stock market in 2015. 
+      - 💼 **Salesforce** generates 50 percent of its revenues through APIs.
   3. Data aggregators
+      - Enhance the matching function of the platform by adding data from multiple sources. They take data from the platform and sell to other companies for activities such as ad placement, and share profits with the original platform company. 
+      - When it works well, it provides good matches for consumers. When it doesn't, it's very creepy. 
+      - "Managing [this] appropriately poses an enormous ethical, legal, and business challenge."
   
-💼 **Developer Participation Case Study: Airbnb** 
-- Core developers: 
-  - provides infrastructure that allows guests and hosts to interact. 
-  - manages background functions that reduce transaction costs (ex. default insurance contracts for both parties)
-- Extension developers:
-  - Ex. Developer now offers professional support under "Airbnb photography service" to create compelling images for hosts.
-  - If Airbnb is too closed, makes it hard for extension developers to provide value. If too open, increases existance of low-quality providers which damage Airbnb's reputation, too many providers competing for the same profits. 
+      💼 **Developer Participation Case Study: Airbnb** 
+      - Core developers: 
+        - provides infrastructure that allows guests and hosts to interact. 
+        - manages background functions that reduce transaction costs (ex. default insurance contracts for both parties)
+      - Extension developers:
+        - Ex. Developer now offers professional support under "Airbnb photography service" to create compelling images for hosts.
+        - If Airbnb is too closed, makes it hard for extension developers to provide value. If too open, increases existance of low-quality providers which damage Airbnb's reputation, too many providers competing for the same profits. 
+        - Airbnb takes the middle route: it has an API, but it is not open to all developers. 
+
+      💼 **Developer participation and APIs case study: The Guardian**
+      - The Guardian is a British daily newspaper. Originally closed to extension developers, but decided to "open in" the website "by bringing in more data and applications from the outside", and "open out" the site, by "enabling partners to create products using Guardian content and services on other digital platforms".
+      - For "open out", they created a set of APIs with three different levels of access: 
+        - 1. Keyless, the lowest access tier: anyone can use headlines, metadata, and information architecture without permission / without needing to share revenue.
+        - 2. Approved, second access tier: allows time and usage restrictions, ad revenues are shared.
+        - 3. Bespoke, highest tier: support package and gives unlimited content for a fee.
+        - This has led to more products like a Politics API, and an app framework. Over 2,000 extension developers signed up in the first year. APIs can attract extension developers. 
+
+      ❓When does the outside developer threaten that of the platform, and how should managers respond? 
+      - Three principles to use when assessing the situation: 
+        - 1. Based on the value created by a specific extension app. Don't let an outside developer control a main source of user value. One way to address this is to acquire the app. 
+            - 💼 **Apple** owns most of the main apps on the iPhone. Bought SRI, the company behind Siri. 
+        - 2. If an app has potential to become a powerful platform itself, the manager should try to own it or replace it. 
+            - 💼 **Google Maps** was a popular feature on the iPhone, very powerful and popular. Apple decided to make its own mapping software, not dependent on Google anymore. 
+        - 3. If specific functionality is reinvented by many extension developers and platform users like it, the manager of the platform should acquire this functionality and make it available through an API. Ex. Video/audio playback, photo editing, voice commands. = more innovation and better service for users.  
+
+🔑 **3. User Participation**
+- Managers need to address 🔖 **producer openness**: the right to freely add content to the platform
+- Goal is usually high quality content, which means platforms cannot generally be completely open. 
+- 🔖 **Curation**: content protection process that can be fine-tuned to land on the right level of producer openness. Usually takes the form of screening and feedback at critical points. 
+  - Options: Can use human moderators, although this can be time-consuming and costly. Alternative is using the users themselves via software tools, although this is hard to design and implement. 
+  - When curation tools bias towards openness, it can let in offensive and dangerous content. When they bias towards restrictions, valuable content can be lost. Platform managers need to devote a lot of resources, including human "eyeballs"/human judgement, to getting better at this balance.
+  - 💼 **Wikipedia**: originally tried to be completely open, and assumed that users would be able to curate content/challenge biases. But reality was messy. 
+    - Now relies on community standards and social pressure.
+    - When that's not enough, uses other methods like VandalProof (software that highlights articles editing by "bad actor" users), tagging tools, blocking/prevention systems. 
   
-  
-🔑 **Open vs. Closed**
-  - There is a spectrum of open vs. closed
-  - There are benefits/drawbacks to choices at every point on that spectrum
-  - Two separate platforms may compete on the basis of how they differ in level of open/closed
-  
+🔑 **Two separate platforms may compete on the basis of how they differ in level of open/closed**
+- There are a lot of factors in being competitive with other platforms, which can result in a never-ending balancing act and continuous adjustements of a platform's level of openness. 
+
 🔑 **As platforms mature, they tend to grow in the direction of openness (although sometimes the opposite direction)** 
-  - Changes in open/closed come from reevaluation and adjustment of curation processes
-  - Goal: great high quality platform content and service value
+- Changes in open/closed come from reevaluation and adjustment of curation processes.
+- Goal: great high quality platform content and service value.
+- The challenge is finding a balance as openness policies evolve. 
+- Example of struggle for control: 
+  - SAP, a German company that makes software for large enterprises to manage internal operations. Partnered with ADP for payroll processing, which gave ADP the opportunity to replace SAP as the primary manager of the customer relationship. 
