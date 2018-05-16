@@ -16,8 +16,6 @@ How networked markets are transforming the economy and how to make them work for
 
 ## Chapter 7: Openness
 
-### Chapter focus: 
-
 ### Notes: 
 
 🔖 **Definition of openness:**
@@ -158,3 +156,131 @@ How networked markets are transforming the economy and how to make them work for
 - The challenge is finding a balance as openness policies evolve. 
 - Example of struggle for control: 
   - SAP, a German company that makes software for large enterprises to manage internal operations. Partnered with ADP for payroll processing, which gave ADP the opportunity to replace SAP as the primary manager of the customer relationship. 
+
+## Chapter 8: Governance
+
+### Notes:
+
+🔖 **Governance**: "the set of rules concerning who gets to participate in an ecosystem, how to divide the value, and how to resolve conflicts." The goal is to create wealth that is fairly distributed amongst those who add value to a platform.
+
+🔑 **Three fundamental rules of good governance**
+> - Always create value for the consumers you serve;
+> - Don't use your power to change the rules in your favor;
+> - Don't take more than a fair share of the wealth.
+
+💼 **Keurig**
+- Brian P. Kelley, CEO of Keurig Green Mountain Coffee Company. Keurig 1.0 had become ubiquitous. It's a one-sided platform.
+- In 2012, patents for the Keurig coffee pod expired. Competing companies began selling pods that works in Keurig machines and were cheaper. (Similar to extension developers)
+- Early 2015, launched Keurig 2.0, a next-gen coffee brewer. Included a scanning device to prevent any non-Keurig pods from working in the machine. Consumers were angry, vocal. Sales fell 12 percent. 
+- This was a failure of ecosystem governance. Could have opted to become a beverage ecosystem with different options, suppliers, and services, but instead excluded suppliers that its customers liked which eliminated variety and freedom. It placed its interests above all others.
+
+🔑 **Governance is even harder when a platform is multi-sided**
+- Involves many interests that don't always align. Ex. LinkedIn making developers mad when they turned off access to APIs, Twitter doing a terrible job of dealing with abuse.
+
+🔑 **Large platforms effectively regulate lives**
+- Large platform businesses are like nation-states. Serve as regulators of millions of lives, can learn from cities and states which have evolved the system of good governance over thousands of years.
+- **"Just governance" is crucial in the ability of a state to create wealth, even moreso than natural resources, good agricultural conditions, etc.**
+- Absolutely free markets cannot be relied on to produce results that are fair to all involved. 
+  - 💼 **Singapore**
+    - Before 1959, Singapore had almost no natural resources. Relied on Malaya (now Malaysia) for defense and clean water. Lots of corruption. Per capita GDP below $430.
+    - Lee Kuan Yew became prime minister in 1959. He changed the system of governance, introduced the British system of justice and rule by Law. Addressed corruption (made illegal activities less attractive by raising salaries of civil servants). Enforced rules. Open government was encouraged by creation of multi-cultural councils giving voice to religious and ethnic groups.  
+    - Singapore now has a government that ranks with New Zealand and Scandanavian countries, one of the least corrupt in the world.
+    - By 2015, per capita GDP = $55,182 (higher than the U.S.), annual growth was 6.69 percent. 
+  - 💼 **eBay**
+    - Most interactions are basically fair. Sometimes, manipulative or deceptive actions take place. 
+    - Example of a market failure: A group of sellers noticed that some eBay inexperienced sellers would misidentify goods (often misspelling the brand name), and noticed that they could scoop up valuable items at a lesser price, and in return sell on eBay for a profit. "Allsop's Arctic Ale" was from a crew that navigated the Arctic in the 1850s, only two known bottles left, was sold originally for $299, re-sold for $78,100. 
+    
+🔑 **Market Failures**
+- 🔖 Market failure: when "good" (fair) interactions fail to occur, or "bad" interactions do. 4 main causes: 
+  - 1. Information asymmetry
+      - When one party knows facts that other parties don't, and uses that for personal advantage. 
+  - 2. Externalities
+      - When spillover costs or benefits accrue to anyone not involved in a given interaction.
+      - Negative externality example: Friend gives away your private contact information to a gaming company for some points. 
+      - Positive externalitities are a bit more ambiguous. 💼 **Netflix** analyzes the behavior of someone with similar tastes as you, and that ends up giving you better movie recommendations. Users in this system are less likely to complain. From business standpoint, this is still a problem "since they reflect value that is not being fully captured by the platform". 
+      - Ideally, based on economic theory, every value would be accounted for and credited accurately. 
+      - Similar to a public good, where the value is not fully captured by the party that created it. Individuals tend not to create these unless a governing mechanism is put in place to recognize and reward the effort. 
+  - 3. Monopoly power
+      - When one supplier in an ecosystem becomes too powerful (through control of the supply), and uses the power to demand higher prices/special favors. 
+      - 💼 **Zynga**, games company, in 2009/2010, very powerful on Facebook. Led to conflicts around sharing user information, revenues, etc. 
+  - 4. Risk
+      - The possibility that something unexpected and essentially unpredictable may go wrong, turning a good interaction into a bad one.
+      
+🔑 **Tools for platform governance**
+- Four main sets of tools, generally need to use all of these: 
+  - 1. Laws
+  - 2. Norms
+  - 3. Architecture
+  - 4. Markets
+- Need all of these tools to change social behavior. 
+  - 💼 **Reducing the harmful effects of smoking**, used all four tools: laws (ban cigarette sales to minors, no smoking in public spaces), norms (social pressure or advertising to stigmatize smoking), architecture (air filters that clean the air, smokeless devices), and market mechanisms (taxing tobacco products or subsidizing "quit smoking" programs).
+  
+🔑 **Tool 1: Laws**
+- Laws can be tricky. Laws can apply to platform businesses and participants, but it's not always clear who is responsible and should be held accountable. 
+- Case law generally doesn't hold platforms accountable for misdeeds of users, although platform owners actually can regulate and control the behavior of users. 
+- Governance within the platform business is another matter: these are the explicit rules (ToS, rules of stakeholder behavior that designers come up with). This moderates behavior on the platform at the user and ecosystem level. 
+  - Underlying principle for governance: Give fast, open feedback when applying laws that define good behavior, but slow, opaque feedback when applying laws that punish bad behavior. 
+  - Generally, these platform laws should be transparent. 
+    - 💼 **Stack Overflow** has explicit list of rules for earning points, and the rights/privileges that these points award to users. Points gain you the right to ask/answer questions, upvote/downvote someone's content, see fewer ads. This list of rules and rewards creates a public good by encouraging users to be good actors and share good insights. 
+  - Sometimes these rules shouldn't be transparent. 
+    - 💼 **Dating sites**: When stalkers understand what is considered "bad behavior" on a platform, they learn to game it. Platforms that delay the negative consequences of certain behaviors results in stalkers having a harder time working around the system. 
+  
+🔑 **Tool 2: Norms**
+- Vibrant communities are a huge asset to a platform, and these are generally nurtured by skills managers that develop norms, culture, and expectations that generate lasting sources of value. 
+- 💼 **iStockphoto**
+  - Originally a business that sold CD-ROM collections of images by direct mail. Wasn't going well, so they started giving away images online. Users discovered them, wanted to use the images and also upload their own. 
+  - In order to maintain quality, every image was scrutinized by an inspector. This was costly, couldn't scale. 
+  - They turned to crowd curation. People uploading content could earn their way into becoming inspectors, had specific topic spaces they inspected. CEO gave a lot of praise and feedback to these users. The norms established here led to a huge amount of high quality stock photos, which is a public good. 
+  - The established norms in the community included: 
+    - Feedback
+    - High quality content
+    - Open engagement
+    - Natural role progression to greater levels of authority 
+- Norms can be created through behavior design. 
+  - 🔖 Behavior design = a recurring sequence of trigger, action, reward, and investment.
+    - Trigger: platform based signal, message, or alert (email, web link, news item, notification) 
+    - Action: The trigger prompts platform member to take an action. 
+    - Reward: The action produces a reward for the member. Bonus if it's a variable/unexpected value, which creates habit-forming behaviors. 
+    - Investment: the platform then asks the user for an investment (time, data, social capital, money), which deepens the participant's commitment and reinforces behavior patterns. 
+  - 💼 **Behavior design example: Pinterest**
+    - Someone sees an interesting photo on Facebook (the trigger), clicks on it (the action, should be frictionless) and lands on Pinterest. Her reward is all the good content on Pinterest related to that photo that are curated to be interesting to her. Then Pinterest asks for an investment, like inviting friends, giving her preferences, learning new features. This sets up new triggers and the process starts again.  
+  - Behavior design can result in a public good or value, but it can also be manipulative and doesn't always benefit participants. This is why users should understand how governance mechanisms work. **It's important to have users participate in shaping the systems that govern them.**
+    - Communities that successfully create and police public goods tend to have several regular patterns (observation by Elinor Ostrom, first woman to receive the Nobel Prize in Economics)
+      - 1. Clearly defined boundaries between who has access to community benefits and who doesn't. 
+      - 2. People affected by how resources are used are given recognized channels they can use to influence the decision-making process
+      - 3. Community monitors are accountable to the community.
+      - 4. Various levels of increasing sanctions are applied to those who violate community rules. 
+      - 5. Members can use low-cost dispute resolution systems
+      - 6. As community resources scale, governance should be in a series of nested tiers: simple issues controlled by small, local user groups, while complex/global problems managed by more formally organized groups. 
+      - 💼 **eBay**
+        - Friction between buyers and sellers when trying to update the traditional auction format. Buyers liked fixed prices, sellers didn't. To resolve, used a number of Ostrom's ideas: 
+          - Focus groups and a "voices" program to reflect user perspectives and gauge the priority of their feelings. 
+          - Thoughtful communications about proposed changes
+          - Tested programs on smaller groups, pulled back on bad changes
+        - Ended up siding with the buyers, reasoning that sellers would remain loyal to the platform since that's where the buyers are. Today, "Buy it now" fixed-price listings account for 70 percent of eBay's gross merchandise volume. 
+        
+🔑 **Tool 3: Architecture**
+- In a platform business, architecture = programming code. 
+- "Well-designed software systems are self-improving: they encourage and reward good behavior, thereby producing more of the same."
+  - 💼 **Online banking platforms: peer-to-peer lending**
+    - These businesses use algorithms to displace traditional labor-intensive loan officers. They use conventional (credit scores) and unconventional (Yelp ratings, online connections) data to calculate a borrower's likelihood of repaying. As this algorithm gets better, risk declines, which attracts more lenders. Low overhead costs = low rates = more borrowers. 
+- Architecture can be used to prevent and correct market failures.
+  - 💼 **eBay**
+    - The middlemen who exploited the inexperienced sellers (previous case study) were problematic, but they did provide market liquidity known as arbitrage. Without these arbitrageurs, nothing would happen, so they're providing a service while also highlighting a market inefficiency. To deal with this eBay created automated systems for things like spelling assistance. 
+    - This is good governance that may disenfranchise the arbitrageurs, but increases the overall health of the system. 
+  - 💼 **Bitcoin**
+    - In 2008, Satoshi Nakamoto published a paper on Cryptography, defined the Bitcoin digital currency and the blockchain protocol governing it. 
+    - Blockchain is revolutionary: it allows for decentralized, completely trustworthy interactions without any need for escrow payments or other guarantees.
+    - 🔖 **Blockchain**: distributed public ledger that enables storage of data in a container (the block) affixed to other containers (the chain). 
+    - The resulting smart, autonomous contracts execute the rules automatically. Pay the participants for an exchange, etc. 
+    - This has led to a new kind of platform: open architecture and a governance model but no central authority. Also addresses monopoly power - no one can remake these rules to favor one participant over another. 
+
+🔑 **Tool 4: Markets**
+- Markets can govern behavior using human motivations like fun, fame, and fortune. Social currency is often more valuable than money. 
+  - Ex. Post a photo, get favorites and shares in return. 
+- 💼 **SAP (Enterprise Management Platform Company)**
+  - To motivate developers to answer one another's questions: when someone from a company answers a question, points are credited to the company's account. At a certain level of points, SAP will make a contribution to a charity of the company's choice. That has saved SAP $6-8 million in tech support costs, created new product dieas, and reduced response time to qeustions. Accounts for a $500,000 gain in annual productivity per enterprise software partner. 
+  - Social currency used to stimulate SAP's developer economy: When SAP introduced a new CRM, it offered double points for any answers, code, or white paper related to the CRM. This led to developers finding gaps in the software and developing new features.
+- ❓Given that useful ideas are public goods, what's the best intellectual property policy for a platform business? Who should own ideas invented on a platform? 
+  - This is complicated. Ownership to developers = incentive for creation, but giving ownership to the platform facilitates standardization and sharing. 
+  - 
