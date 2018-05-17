@@ -178,17 +178,15 @@ How networked markets are transforming the economy and how to make them work for
 - Involves many interests that don't always align. Ex. LinkedIn making developers mad when they turned off access to APIs, Twitter doing a terrible job of dealing with abuse.
 
 🔑 **Large platforms effectively regulate lives**
-- Large platform businesses are like nation-states. Serve as regulators of millions of lives, can learn from cities and states which have evolved the system of good governance over thousands of years.
-- **"Just governance" is crucial in the ability of a state to create wealth, even moreso than natural resources, good agricultural conditions, etc.**
+- Large platform businesses are like nation-states. With user bases that eclipse national populations and immense economic impact, giants like Facebook, Alibaba, and Google effectively regulate millions of lives.
+- Platforms can learn from cities and states which have evolved the system of good governance over thousands of years, as they are faced with the same challenge of creating wealth and distributing it fairly.
+- Evidence suggests that **"just governance" is crucial in the ability of a state to create wealth, even moreso than natural resources, good agricultural conditions, etc.**
 - Absolutely free markets cannot be relied on to produce results that are fair to all involved. 
   - 💼 **Singapore**
     - Before 1959, Singapore had almost no natural resources. Relied on Malaya (now Malaysia) for defense and clean water. Lots of corruption. Per capita GDP below $430.
     - Lee Kuan Yew became prime minister in 1959. He changed the system of governance, introduced the British system of justice and rule by Law. Addressed corruption (made illegal activities less attractive by raising salaries of civil servants). Enforced rules. Open government was encouraged by creation of multi-cultural councils giving voice to religious and ethnic groups.  
     - Singapore now has a government that ranks with New Zealand and Scandanavian countries, one of the least corrupt in the world.
     - By 2015, per capita GDP = $55,182 (higher than the U.S.), annual growth was 6.69 percent. 
-  - 💼 **eBay**
-    - Most interactions are basically fair. Sometimes, manipulative or deceptive actions take place. 
-    - Example of a market failure: A group of sellers noticed that some eBay inexperienced sellers would misidentify goods (often misspelling the brand name), and noticed that they could scoop up valuable items at a lesser price, and in return sell on eBay for a profit. "Allsop's Arctic Ale" was from a crew that navigated the Arctic in the 1850s, only two known bottles left, was sold originally for $299, re-sold for $78,100. 
     
 🔑 **Market Failures**
 - 🔖 Market failure: when "good" (fair) interactions fail to occur, or "bad" interactions do. 4 main causes: 
@@ -205,6 +203,10 @@ How networked markets are transforming the economy and how to make them work for
       - 💼 **Zynga**, games company, in 2009/2010, very powerful on Facebook. Led to conflicts around sharing user information, revenues, etc. 
   - 4. Risk
       - The possibility that something unexpected and essentially unpredictable may go wrong, turning a good interaction into a bad one.
+- 💼 **eBay**
+    - Most interactions are basically fair, even when there is a "winner" and "loser". Sometimes, manipulative or deceptive actions take place. 
+    - Example of a market failure: A group of sellers noticed that some eBay inexperienced sellers would misidentify goods (often misspelling the brand name), and noticed that they could scoop up valuable items at a lesser price, and resell on eBay for a profit. "Allsop's Arctic Ale" was from a crew that navigated the Arctic in the 1850s, the only two bottles left were eagerly sought after — ultimately was sold for $304 due to the mispelled "Allsopp" in the listing, then purchased and re-sold for $78,100. 
+      
       
 🔑 **Tools for platform governance**
 - Four main sets of tools, generally need to use all of these: 
