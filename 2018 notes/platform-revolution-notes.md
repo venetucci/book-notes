@@ -224,11 +224,11 @@ How networked markets are transforming the economy and how to make them work for
   - Underlying principle for governance: Give fast, open feedback when applying laws that define good behavior, but slow, opaque feedback when applying laws that punish bad behavior. 
   - Generally, these platform laws should be transparent. 
     - 💼 **Stack Overflow** has explicit list of rules for earning points, and the rights/privileges that these points award to users. Points gain you the right to ask/answer questions, upvote/downvote someone's content, see fewer ads. This list of rules and rewards creates a public good by encouraging users to be good actors and share good insights. 
-  - Sometimes these rules shouldn't be transparent. 
-    - 💼 **Dating sites**: When stalkers understand what is considered "bad behavior" on a platform, they learn to game it. Platforms that delay the negative consequences of certain behaviors results in stalkers having a harder time working around the system. 
+  - Sometimes these rules shouldn't be transparent, because it may facilitate bad behavior.
+    - 💼 **Dating sites**: When stalkers understand what is considered "bad behavior" on a platform, they learn to game it. Platforms that delay the negative consequences of certain behaviors results in stalkers having a harder time identifying the trigger and working around the system.
   
 🔑 **Tool 2: Norms**
-- Vibrant communities are a huge asset to a platform, and these are generally nurtured by skills managers that develop norms, culture, and expectations that generate lasting sources of value. 
+- Vibrant communities are a huge asset to a platform, and these are generally nurtured by skilled managers that develop norms, culture, and expectations that generate lasting sources of value. 
 - 💼 **iStockphoto**
   - Originally a business that sold CD-ROM collections of images by direct mail. Wasn't going well, so they started giving away images online. Users discovered them, wanted to use the images and also upload their own. 
   - In order to maintain quality, every image was scrutinized by an inspector. This was costly, couldn't scale. 
@@ -268,21 +268,54 @@ How networked markets are transforming the economy and how to make them work for
     - These businesses use algorithms to displace traditional labor-intensive loan officers. They use conventional (credit scores) and unconventional (Yelp ratings, online connections) data to calculate a borrower's likelihood of repaying. As this algorithm gets better, risk declines, which attracts more lenders. Low overhead costs = low rates = more borrowers. 
 - Architecture can be used to prevent and correct market failures.
   - 💼 **eBay**
-    - The middlemen who exploited the inexperienced sellers (previous case study) were problematic, but they did provide market liquidity known as arbitrage. Without these arbitrageurs, nothing would happen, so they're providing a service while also highlighting a market inefficiency. To deal with this eBay created automated systems for things like spelling assistance. 
+    - The middlemen who exploited the inexperienced sellers (previous case study) were problematic, but they did provide market liquidity known as arbitrage. Without these arbitrageurs, nothing would happen, so they're providing a service while also highlighting a market inefficiency. To deal with this, eBay created automated systems like spelling assistance to provide confidence that sellers will receive an item's worth.
     - This is good governance that may disenfranchise the arbitrageurs, but increases the overall health of the system. 
   - 💼 **Bitcoin**
     - In 2008, Satoshi Nakamoto published a paper on Cryptography, defined the Bitcoin digital currency and the blockchain protocol governing it. 
     - Blockchain is revolutionary: it allows for decentralized, completely trustworthy interactions without any need for escrow payments or other guarantees.
     - 🔖 **Blockchain**: distributed public ledger that enables storage of data in a container (the block) affixed to other containers (the chain). 
-    - The resulting smart, autonomous contracts execute the rules automatically. Pay the participants for an exchange, etc. 
+    - The resulting smart, autonomous contracts execute the rules automatically. An exchange of services and payment are ensured without either party controlling the system.
     - This has led to a new kind of platform: open architecture and a governance model but no central authority. Also addresses monopoly power - no one can remake these rules to favor one participant over another. 
 
 🔑 **Tool 4: Markets**
 - Markets can govern behavior using human motivations like fun, fame, and fortune. Social currency is often more valuable than money. 
-  - Ex. Post a photo, get favorites and shares in return. 
+  - Ex. Providing a good interaction, quality content, and social network — a foundation for reputation.
+- 💼 **iStockphoto**
+  - Provided virtual currency in form of photo download credits. Original uploader of photo receives the cost of a download at 1 credit. Credits could be purchased with money, and uploaders could cash out accumulated credits. Professional and nonprofessional photographers could both benefit from participating in the same market.
 - 💼 **SAP (Enterprise Management Platform Company)**
   - To motivate developers to answer one another's questions: when someone from a company answers a question, points are credited to the company's account. At a certain level of points, SAP will make a contribution to a charity of the company's choice. That has saved SAP $6-8 million in tech support costs, created new product dieas, and reduced response time to qeustions. Accounts for a $500,000 gain in annual productivity per enterprise software partner. 
-  - Social currency used to stimulate SAP's developer economy: When SAP introduced a new CRM, it offered double points for any answers, code, or white paper related to the CRM. This led to developers finding gaps in the software and developing new features.
-- ❓Given that useful ideas are public goods, what's the best intellectual property policy for a platform business? Who should own ideas invented on a platform? 
+  - Social currency used to stimulate SAP's developer economy: When SAP introduced a new CRM, it offered double points for any answers, code, or white paper related to the CRM. In 2 months, this led to developers finding gaps in the software and developing new features.
+- ❓Given that useful ideas are public goods, what's the best intellectual property policy for a platform business? When developers on a platform produce valuable inventions, does ownership lie with the developer or the platform? 
   - This is complicated. Ownership to developers = incentive for creation, but giving ownership to the platform facilitates standardization and sharing. 
-  - 
+  - SAP had 2 practices to tackle the problem of ownership. 
+    - 1. Published a 2-year advance roadmap detailing new products and services. Served as a metaphorical patent period for outside developers.
+    - 2. Partnered with developers financially (sometimes via acquisition). Ensured fair compensation, reduced partner risk, and encouraged outside investment in the SAP platform.
+- Risk reduction is an old problem; platform owners tend to avoid responsibility for risks faced by platform participants.
+- 💼 **Fair Credit Reporting Act 1970**
+  - Background: Credit card companies avoided insuring cardholders; argued that insurance would promote fraud, resulting in careless cardholders and banks becoming more reluctant to extend credit, which would hurt low-income customers.
+  - The amendments required fraud insurance and imposed a 50$ limit on consumer liability for fraud on their credit cards.
+  - Without having to worry about fraud, consumers ended up using their cards much more.
+  - This was so successful that many banks now waive the 50$ charge if a lost or stolen card is reported within a day.
+- 💼 **Others**
+  - Airbnb refused to compensate hosts for bad guest behavior. Uber refused to insure riders for bad driver behavior.
+  - Both companies recognized that this hurt growth of their platforms, and have introduced insurance.
+- Good governance: rather than minimize their own risk, platforms should reduce risks for their participants to maximize value creation.
+
+🔑**Principles of Smart self-governance**
+- When platforms adopt the rules that apply to partners and participants, results improve.
+- 1. Internal transparency
+  - Internal departments in companies tend to become siloed and develop unique perspectives, languages, systems, etc. This makes it difficult to solve complex problems that require collaboration between two departments, or engage effectively with users and partners.
+  - Platform managers need to deliver clear, consistent vision across the entire platform.
+  - 🔖 The Yegge Rant was issued by Jeff Bezos of Amazon as a framework for clear communication. It mandates the exclusive use of service interfaces, which are data communication tools specifically designed to be clear, understandable, and useful internally and externally.
+  - 1. All teams will henceforth expose their data and functionality through service interfaces.
+  - 2. Teams must communicate with each other through these interfaces.
+  - 3. There will be no other forms of interprocess communication allowed.
+  - 4. This is technology-agnostic.
+  - 5. All service interfaces must be designed from the group up and be exposed to developers to the outside world.
+  - 6. Those who don't do this are fired.
+  - 7. Have a nice day!
+- 
+
+
+🔖
+💼
