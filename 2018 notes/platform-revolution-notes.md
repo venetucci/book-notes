@@ -303,7 +303,7 @@ How networked markets are transforming the economy and how to make them work for
 
 🔑**Principles of Smart self-governance**
 - When platforms adopt the rules that apply to partners and participants, results improve.
-- 1. Internal transparency
+- 1. **Internal transparency**: clear and consistent communication / vision across divisons inside a company.
   - Internal departments in companies tend to become siloed and develop unique perspectives, languages, systems, etc. This makes it difficult to solve complex problems that require collaboration between two departments, or engage effectively with users and partners.
   - Platform managers need to deliver clear, consistent vision across the entire platform.
   - 🔖 The Yegge Rant was issued by Jeff Bezos of Amazon as a framework for clear communication. It mandates the exclusive use of service interfaces, which are data communication tools specifically designed to be clear, understandable, and useful internally and externally.
@@ -314,8 +314,22 @@ How networked markets are transforming the economy and how to make them work for
   - 5. All service interfaces must be designed from the group up and be exposed to developers to the outside world.
   - 6. Those who don't do this are fired.
   - 7. Have a nice day!
-- 
+- This helped Amazon consolidate its various web service operations to store, search, and communicate data to one operation with universally comprehensive protocols.
+- This had implications for utility in external applications for customers.
+- It is hard to scale if companies cannot see across their divisions.
+- 💼**Sony**
+  - Walkman dominated portable music since 1970s. A few years after initial introduction, the iPhone swept the field. 
+  - Sony never developed a vision to offer a platform despite introducing the PlayStation Portable, owning Time Warner movie and TV studios.
+- 2. **Participation**: platforms should give external stakeholders an equal voice in internal decisions. Otherwise, bias towards favoring the platform over partners can lead to platform abandonement.
+  - 💼**USB promoted by Intel**
+    - First standard to facilitate data nd power transfer between peripherals (keyboards, memory devices, monitors, etc)
+    - However, peripherals were not inside Intel's core microchip business. Problem was chicken-egg; who produces peripherals for a standard no one has adopted, who buys a computer that doesn't have peripherals made for yet? Outsiders reluctant to partner with Intel, because Intel would have monopoly over the standard.
+    - Intel entrusted this problem with IAL (Intel Architecture Labs), which was not controlled by any internal product. Served as neutral negotiator between ecosystem and internal business. Earned trust of partners by advocating for policies that benefited ecosystem at the expense of Intel business.
+    - IAL invited over 50 companies to help define the standard and license. Intel committed to not trample partners' markets, used reputation and contracts to limit its own future behavior.
+- 3. **Fair and just governance can create wealth**: People treated fairly are more likely to share ideas. Diversity of ideas creates more ideas.
+  - Fair governance leads to participats in a market to allocate their resources more wisely and productively; i.e. lead to a collaborative environment where entities are more likely to participate in anticipation of recievigin fair share of created value.
+- Governance will be imperfect because partners will find new forms of private advantage. When platforms allow third parties to innovate, platforms will struggle to control that value.
+- When conflicts of control arise, governance should favor greatest sources of new value or trend in the new direction; otherwise, face stagnation.
+- Governance systems should be flexible to respond to both fast and slow moving parts.
 
-
-🔖
 💼
