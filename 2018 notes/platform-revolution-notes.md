@@ -331,5 +331,3 @@ How networked markets are transforming the economy and how to make them work for
 - Governance will be imperfect because partners will find new forms of private advantage. When platforms allow third parties to innovate, platforms will struggle to control that value.
 - When conflicts of control arise, governance should favor greatest sources of new value or trend in the new direction; otherwise, face stagnation.
 - Governance systems should be flexible to respond to both fast and slow moving parts.
-
-💼
