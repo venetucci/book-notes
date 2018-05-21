@@ -40,16 +40,15 @@ How networked markets are transforming the economy and how to make them work for
 - Jobs interpreted the openness spectrum as "fragmented" (open) vs. "integrated" (closed); this terminoligy biased the debate to favor closed, controlled systems.
 
 💼 **Myspace vs. Facebook:**
-- The shift from Myspace to Facebook: 
-  - Myspace dominated social networking before Facebook. It released a ton of features, but constrained engineering resources meant they were often buggy and had poor user experience. They decided to keep the site closed to outside developers and couldn't solve this. 
+  - Myspace dominated social networking before Facebook. It released a ton of features, but constrained engineering resources meant they were often buggy and had poor user experience. Because Myspace kept their site closed to outside developers, the problem continued. 
   - In retrospect, cofounder Chris DeWolfe says that they should have focused on 5 - 10 key features and let the rest be built by outside developers. 
   - Facebook was initially closed to outside innovators, but opened to dot-com users in 2006 and started gaining on Myspace. 
-  - in May 2007, Facebook launched Facebook Platform to help developers create apps. This led to a large shift, ended up with 7,000 side applications by November. Myspace reacted by also opening to developers in 2008, but it was too late. 
-- Myspace was _too_ open
-  - Self-serve advertising = an overly accessible path for inappropriate content. No focus on curating content. 
+  - The huge shift came from the launch of Facebook Platform, which launched in May 2007 to help developers create apps. By November, there were 7000 outside applications. Myspace reacted by also opening to developers in 2008, but it was too late. 
+- Myspace's self-serve advertising feature opened the platform to significant amounts of inappropriate content, further degraded Myspace's attractiveness to users.
+- This is an example of a platform being simultaneously too closed and too open. 
 
 💼 **Youtube:**
-- Highly open system = delivers a wide array of content from all types of content creators. 
+- Highly open system = delivers a wide array of content from all types of content creators; is a true platform vs a distribution system.
 
 🔑 **Three kinds of openness decisions that managers face:**
 1. Manager/sponsor participation
@@ -100,10 +99,11 @@ How networked markets are transforming the economy and how to make them work for
 - Three kinds of developers: 
   1. Core developers: create the core platform cuntions that provide value to platform participants.
       - Goal: get the platform to users, deliver value through tools and rules around the core interaction. Responsible for basic platform capabilities. 
+      - Generally employed at the platform management company.
   2. Extension developers: Add features and value to the platform and enhance its functionality. 
-      - Usually outside parties. Managers have to decide how open they want to be to these developers. 
+      - Usually outside parties. Managers have to decide how open they want to be to these developers and usually find ways to consequently profit from the value that this group creates.
       - Ex. People who produce apps sold via the iTunes store
-      - Companies will usually create an application programming interface (API) to regulate these developers, manage access to the system. 
+      - Companies will usually create an application programming interface (API) to regulate and encourage these developers in their participation.
       - 🔖 **An API** is a standardized set of routines, protocols, and tools for building software applications that makes it easy for an outside programmer to write code that will connect with the platform infrastructure. 
       - 💼 **Walmart vs. Amazon's APIs**: Amazon has 300 API "mashups", Walmart has one API, which is partially why Amazon pulled ahead of Walmart in the stock market in 2015. 
       - 💼 **Salesforce** generates 50 percent of its revenues through APIs.
