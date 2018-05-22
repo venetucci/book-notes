@@ -19,6 +19,8 @@ How networked markets are transforming the economy and how to make them work for
 
 Chapters 1 & 2: @kytrinyx & @bkeepers
 
+Chapters 5 & 6: @JessRudder & @mscoutermarsh
+
 Chapters 7 & 8: @pifafu & @venetucci
 
 ## 1. TODAY - Welcome to the Platform Revolution
@@ -167,6 +169,221 @@ There's also this weird side-effect where “platforms invert the firm.”
 > Firms such as Airbnb, Uber, Dropbox, Thredless, Upwork, Google, and Facebook are not valuable because of their cost structures: the capital they employ, the machinery they run, or the human resources they command. They are valuable because of the communities that participate in their platforms.
 </details>
 
+## Chapter 5: Launch - Chicken or Egg? Eight Ways to Launch a Successful Platform
+
+### PayPal Case Study
+Peter Thiel & Max Levchin launch Confinity
+  - Goal was enabling money transfers on Palm Pilots and PDAs w/infrared ports
+  - Shut down in 2 years after gaining only 10k signups
+
+Launched PayPal based around an engineer's POC demo of making payments via email
+  - Spending $10 million per month on the business
+  - had to solve chicken or egg problem
+
+2-sided Markets where both sides are important: Which comes first?
+  - Have to have sellers that would accept the new form of payment or buyers wouldn't use it
+  - Have to have buyers that want to use it or sellers won't invest time/effort/money to accept it
+
+PayPal solved problem through series of ingenious strategies
+  - Reduced friction involved in accepting online payments (just need email address and credit card)
+  - Gave new customers $10 for signing up and $10 for each friend that signed up
+  - Focused on user commitment over user acquisition (people had to use product to spend their free $10)
+  - Ebay bot would buy item and insist on paying using PayPal
+
+Benefited from virtuous feedback loop
+  - Users saw convenience of paying with PayPal
+  - Insisted on only paying with PayPal
+  - More sellers wanted to offer it as a way to pay (would even add PayPal logo to their site)
+  - Logos informed more buyers of existence of PayPal
+
+Grew from 100,000 users to 1,000,000 in 3 months
+
+Ebay initially built alternative to PayPal, but failed to gain traction
+  - Bought PayPal in 2002 for $1.4 billion in stock
+
+### Heart of Platform Marketing: Designing for Viral Growth
+Focus on pull strategies
+  - customers have access to nearly unlimited marketing/communication channels
+  - must craft messages that pull customers toward your products
+  - marketing must be baked into the platform (incentivize user sharing)
+
+### The Incumbents' Advantage: Reality or Illusion?
+Why don't large incumbents always win?
+  - They have existing value chains, partnerships, pool of talent, & loyal customer base
+  - They become complacent because they expect they'll have time to watch a slow rise of a challenger
+  - Network effects can change the market quickly so encumbents might be left behind
+
+### There are Many Ways to Launch a Platform
+Strategies that work for one platform won't work for another
+  - YouTube:
+    - first democratic upload platform
+    - focused on incentivizing content creators
+    - allowed off-site embedding of videos to spread word
+    - shared ad revenue with major creators
+
+  - Megaupload:
+    - Late-mover problem, producers had no reason to leave YouTube
+    - Fcused on consumers by seeding platform with internally created content
+    - Went deep in verticals that were policed on YouTube (like pirated vids and porn)
+
+  - Vimeo:
+    - focused on providing high quality tools that attracted creators that felt neglected by YouTube
+    - provided better infrastructure for uploading videos
+
+It's important to know the value propositions offered by competitors so you can carve out your niche
+
+### Eight Strategies for Beating the Chicken-or-Egg Dilemma
+First strategy is to avoid answering the chicken or egg problem at all:
+
+1) Follow the rabbit strategy
+  - Use non-platform demonstration project to model success (to attract both users/producers to new platform)
+    - EX: Amazon - operated as successful online retailer to attract customer base, THEN opened up to external producers with Amazon Marketplace
+
+Not always possible to "follow the rabbit", in these cases, you need techniques to attract base of users on both sides of the market:
+
+  - Staging value creation
+    - managers create value to attract 1 or more users they can demonstrate the benefits of the platform to
+    - Initial users create more value to attract other users
+    - Positive feedback loop ensues
+
+  - Designing the platform to attract one set of users
+    - Create tools/products/services to attract either consumers or producers
+    - Critical mass of users on either side of the marketplace will attract users on the other side
+
+  - Simultaneous on-boarding
+    - Create conditions that provide value to users even when network is small
+    - stimulate bursts of actiity to attract consumers/producers
+    - create larger value to start getting network effects
+
+Strategies for when you have to solve the chicken/egg problem:
+
+2) The piggyback strategy
+  - Connect w/existing user base from different platform
+  - Provide value to incentivize those people to use your platform
+  - Ex: Scraping Craigslist to create listings on your site
+
+3) The seeding strategy
+  - Create value units that will be relevant to at least one set of users
+  - Once they are on the platform, use them to attract users that want to engage with them
+  - Ex: Google having $5 million in prizes to people that create best-in-category app for Android
+
+4) The marquee strategy
+  - provide incentives to attract members of a key user set onto your platform
+  - focus on users that are so important their participation will make/break your platform
+  - Ex: Microsoft bought Bungie and used "Halo" as a platform selling game for the Xbox
+
+5) The single-side strategy
+  - Create business around products/services that benefit a single set of users
+  - Later turn into a platform by attracting second set of users who want to engage with the first set
+  - Ex: OpenTable created tools for restaurants to manage their reservations then extended it to customers looking for available reservations
+
+6) The producer evangelism strategy
+  - Design platform to attract producers who can induce their customers to become users of platform
+  - Ex: Kickstarter targets creators that need funding who then encourage their own followers to join the platform to donate
+
+7) The big-bang adoption strategy
+  - User 1+ push marketing strategies to attract high volume of interest/attention to your platform
+  - Result is almost simultaenous on-boarding effect
+  - Ex: Twitter spent $11k on giant screens showing live tweets at SXSW which tripled daily tweets from 20k to 60k per day
+
+8) The micromarket strategy
+  - Target a tiny market comprised of members who are already engaging in interactions
+  - Platform provides effective matchmaking usually only seen in larger markets
+  - Ex: Facebook launching a social network in the closed community of Harvard
+
+### Viral Growth: The User-to-User Launch Mechanism
+Viral growth is a pull-based process based on encouraging users to spread word about the platform to other potential users
+
+4 elements necessary for viral growth
+  - The sender
+    - Spread their own creations and indirectly generate awareness of and interest in your platform
+    - Important to make spreading as easy as possible for senders
+    - Can use inorganic (e.g. financial) incentives to get people to be senders, but this can quickly get very expensive
+  - The value unit
+    - fundamental unit of virality, important to be spreadable
+  - The external network
+    - an existing platform you can leverage
+    - these platforms will often restrict usage if you become too 'dominant' so you have to be careful
+  - The recipient
+    - senders target, will respond if they find the value unit valuable
+    - will spread value unit further if they like it
+
+## Chapter 6: Monetization
+
+Slogan: "Get users first, monetize later"
+
+- **Should you charge users/providers for listing something on your platform?**  
+  - **Answer**: NO! The value of a platform is in the data. Do not add friction to people looking to join your platform.
+   - **Details**: 
+      - Entry into the platform should be as easy as possible. Do not charge $$ for entry.
+  (_example_: 99designs does not charge a fee for listing a project. Also does not charge designers for joining)
+      - **Do not let your monetization strategy ruin your network effect**.
+      - Less friction = more data! If anything, platform should provide tools for making it easier to join. It should be desirable to have a profile/presence on the platform.
+
+- **What can a platform charge for?**
+  - **Answer**: "They can charge users for the value they accrue from the ecosystem". Charges should be "levied on deal completion, not at the time of the listing"
+  - **Details**:
+    - Having fees that are performance based make them "feel negligible" because it is simply "skimming" off a small fraction of the transaction.
+    - There are other opportunities for charging for value. Example: if a business is failing to gain customers on the platform. Could charge a fee for a listing review. That helps them improve their ability to gain customers.
+
+### Example of failure
+
+#### Zvents
+- Zvents was an event listing platform (all local events in 1 place). They couldn't charge the event organizers because that would result in less events (then consumers would stop visiting).
+- They attempted charging for promoted listings, but this was not enough revenue.
+- Eventually failed and was acquired. Platform is now used by Ebay to direct ticket sales to StubHub (**end result**: platform still free, links to StubHub to generate revenue)
+
+### Example of success
+#### Meetup
+- Struggled finding correct monetization strategy. Their solution was interesting. They had a problem of too many low quality meetups on their site. Solution: started charging $19/month to each organizer. **HUGE OUTRAGE** from the community. But it worked. Meetup quality improved, platform thrived. Tools were good enough for organizers that they were willing to pay.
+
+TLDR: They succeeded because charging $$ increased the quality of their network.
+
+### Questions to ask yourself when creating $$ strategy
+1. "How can we generate revenue without reducing positive network effects?" (Zvents couldn't, so they failed)
+2. "Can we devise a pricing strategy that strengthens our positive network effects while reducing our negative network effects?" (think meetup example)
+3. "Can we create a strategy that encourages desireable interactions and discourages undesirable ones?"
+
+### Common ways to monetize a platform
+
+#### 1. Transaction fee
+Charge a fee on completion of a service
+- Uber
+- Upwork
+- AirBNB
+- GitHub Marketplace
+
+**Problem**: Buyers and sellers will meet on the platform and they do business outside to avoid the fee.
+
+**Solution**: The platform needs to provide so much value that it is preferable to do the transaction through it. Example: Clarity connects people for quick consulting calls. Their platform allows for easy billing by the minute. This makes it preferable for consumers.
+
+Another example: Upwork and task rabbit make it difficult for consumers/providers to communicate outside of the platform. Making it less likely they will do a deal. They add RATINGS so that providers want the deal to happen through the platform. Higher ratings = higher sales. Only people who buy through platform are allowed to rate.
+
+#### 2. Charging for access
+Charge producers for access to a community
+- Dribbble
+- LinkedIn
+- Stack Overflow
+
+^ Each has a highly engaged community. Providers pay money to post job listings that are seen by the community.
+
+**Success:** This works very well for Dribbble. The community is incentivized to put up their best work (to attract employers). Then employers have easy access to portfolios for evaluation.
+
+#### 3. Charging for enhanced access
+- Yelp
+- Dating websites
+
+Restaurants can pay for higher placement on Yelp.
+Dating websites charge for more profile views / ability to see more people.
+
+Problem: this needs to be done with care because it can cause a negative network effect.
+
+**Key**: When doing this, be sure to make it clear that enhanced access is being paid for. "X business is at the top of the list because they paid"
+
+#### 4. Charging for enhanced curation
+When the quantity of content on a platform becomes too great. Opportunity to charge for curation.
+
+Example: Baby sitting platform. Charges parents money for access to their list of baby sitters (platform screens babysitters to ensure quality).
 
 ## Chapter 7: Openness
 
