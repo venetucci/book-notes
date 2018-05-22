@@ -14,9 +14,161 @@ How networked markets are transforming the economy and how to make them work for
 |🔖|Definition|
 |🔑|Key point|
 
-## Chapter 7: Openness
 
-### Notes:
+### Notes from: 
+
+Chapters 1 & 2: @kytrinyx & @bkeepers
+
+Chapters 7 & 8: @pifafu & @venetucci
+
+## 1. TODAY - Welcome to the Platform Revolution
+
+The book argues that the "platform" is "a new business model that uses technology to connect people, organizations, and resources in an interactive ecosystem in which amazing amounts of value can be created and exchanged."
+
+> A _platform_ is a business based on enabling value-creating interactions between external producers and consumers. The platform provides an open, participative infrastructure for these interactions and sets governance conditions for them. The platform’s overarching purpose: to consummate matches among users and facilitate the exchange of goods, services, or social currency, thereby enabling value creation for all participants.
+
+So…people can buy and sell stuff (for various definitions of "buy" and "sell" and "stuff") from each other verses from a single supplier, like in this old model:
+
+> The traditional system employed by most businesses is one we describe as a _pipeline_. By contrast with a platform, a pipeline is a business that employs a step-by-step arrangement for creating and transferring value, with producers at one end and consumers at the other. A firm first designs a product or service. Then the product is manufactured and offered for sale, or a system is put in place to deliver the service. Finally, a customer shows up and purchases the product or service.
+
+…
+
+> In the world of platforms […] Rather than flowing in a straight line from producers to consumers, value may be created, changed, exchanged, and consumed in a variety of ways and places, all made possible by the connections that the platform facilitates.
+
+"Platforms beat pipelines":
+
+- "…because platforms scale more efficiently by eliminating gatekeepers.” - traditional book publishers (manual selecting authors, long lead times) vs amazon self-publishing; "One reason is that the pipelines rely on inefficient gate keepers to manage the flow of value from the producer to the consumer”
+- “…because platforms unlock new sources of value creation and supply.” - traditional hotels (physical property) vs AirBnB and the sharing economy and (dynamic supply; “growth is no longer constrained by the ability to deploy capital and manage physical assets” and “Supply now unlocks spare capacity and harnesses contributions from the community which used to be only a source of demand.”
+- “…by using data-based tools to create community feedback loops.”
+
+There's also this weird side-effect where “platforms invert the firm.”
+
+> because the bulk of a platform’s value is created by its community of users, the platform business must shift its focus from internal activities to external activities.”
+
+**Takeaways:**
+
+- A platform’s overarching purpose is to consummate matches among users and facilitate the exchange of goods, services, or social currency, thereby enabling value creation for all participants. 
+- Because platform businesses create value using resources they don’t own or control, they can grow much faster than traditional businesses.
+- Platforms derive much of their value from the communities they serve.
+- Platforms invert companies, blurring business boundaries and transforming firms’ traditional inward focus into an outward focus.
+- The rise of the platform has already transformed many major industries—and more, equally important transformations are on the way.
+
+<details>
+<summary>More quotes from chapter 1</summary>
+
+> In the traditional publishing industry, editors select a few books and authors from among the thousands offered to them and hope the ones they choose will prove to be popular. It’s a time-consuming, labor-intensive process based mainly on instinct and guesswork. By contrast, Amazon’s Kindle platform allows anyone to publish a book, relying on real-time consumer feedback to determine which books will succeed and which will fail.
+
+…
+
+> The elimination of gatekeepers also allows consumers greater freedom to select products that suit their needs.
+
+…
+
+
+> “Uber, the world’s largest taxi company, owns no vehicles. Facebook, the world’s most popular media owner, creates no content. Alibaba, the most valuable retailer, has no inventory. And Airbnb, the world’s largest accommodation provider, owns no real estate.” The community provides these resources.
+
+…
+
+
+> One implication is that growth can be much faster for Airbnb or any rival platform than for a traditional hotel company since growth is no longer constrained by the ability to deploy capital and manage physical assets.
+
+…
+
+
+> Whereas the leanest traditional businesses ran on just-in-time inventory, new organizational platforms run on not-even-mine inventory.
+
+…
+
+
+> Thus, platforms disrupt the traditional competitive landscape by exposing new supply to the market. Hotels that must cover fixed costs find themselves competing with firms that have no fixed costs. This works for the new firms because there is spare capacity that can be brought to market through the assistance of the platform intermediary. The sharing economy is built on the idea that many items, such as automobiles, boats, and even lawnmowers, sit idle most of the time.
+
+…
+
+
+> Strategy has moved from controlling unique internal resources and erecting competitive barriers to orchestrating external resources and engaging vibrant communities. And innovation is no longer the province of in-house experts and research and development labs, but is produced through crowdsourcing and the contribution of ideas by independent participants in the platform.
+
+…
+
+
+> But platform firms emphasize ecosystem governance more than product optimization, and persuasion of outside partners more than control of internal employees.
+
+</details>
+
+## 2. NETWORK EFFECTS: The Power of the Platform
+
+> _Network effects_ refers to the impact that the number of users of a platform has on the value created for each user. _Positive network effects_ refers to the ability of a large, well-managed platform community to produce significant value for each user of the platform. _Negative network effects_ refers to the possibility that the growth in numbers of a poorly-managed platform community can reduce the value produced for each user. […] Positive network effects are the main source of value creation and competitive advantage in a platform business.
+
+…
+
+
+> In the twentieth-century industrial era, giant monopolies were created based on supply economies of scale. These are driven by production efficiencies, which reduce the unit cost of creating a product or service as the quantities produced increase. […] Demand economies of scale are driven by efficiencies in social networks, demand aggregation, app development, and other phenomena that make bigger networks more valuable to their users.
+
+…
+
+> Scaling a network requires that both sides of the market grow proportionally.
+
+…
+
+> The growth of a network can produce negative network effects that drive away participants. […]
+> [W]hen the growth in numbers that enables more matches between producers and consumers also leads to increasing difficulty, or impossibility, in finding the best match. To avoid this dilemma, frictionless entry must be balanced through effective curation.
+
+
+- Network effects: a long-lasting network of users; lock-in; 
+- Different from price effects and brand effects and virality.
+  - price effects: evanescent. “Freemium models create freeloaders” 
+  - brand effects: sticker but difficult to sustain, and can be extremely expensive
+  -  “Virality is about attracting people who are off the platform and enticing them to join it, while network effects are about increasing value among people on-platform” “[N]etwork effects keep [people] there.”
+- Improve network effects with
+  - frictionless entry
+  - curation
+    - “the larger your network grows, the better your curation can become—a phenomenon we refer to as data-driven network effects”
+    - “poor curation leads to greater noise”
+
+**Takeaways:**
+
+- Whereas giant industrial-era firms were made possible by supply economies of scale, today’s giants are made possible by demand economies of scale—expressed as network effects.
+- Network effects are not the same as price effects, brand effects, or other familiar growth-building tools.
+- Frictionless entry and other features of scalability maximize the value-building impact of network effects.
+- A two-sided market (with both producers and consumers) gives rise to four kinds of network effects: same-side effects (positive and negative) and cross-side effects (positive and negative). A growing platform business must manage all four.
+- The key to minimizing most negative network effects is quality curation, which increases the chances of a happy match between producer and consumer.
+
+<details>
+<summary>More quotes from chapter 2</summary>
+
+> Where network effects are present, industries operate by different rules.
+
+…
+
+> As drivers sign on [to Uber] and coverage density rises within a city, a number of striking growth dynamics are set in motion. Riders tell their friends about the service, some even start driving themselves in their spare time. Wait time falls for riders, and downtime falls for drivers. Less downtime means that a driver can make the same amount of money even if fares are lower, because he has more riders during the same number of working hours. Thus less downtime means that Uber can cut fares and stimulate even more demand, which creates a virtuous cycle that increases coverage density still further.
+> […]
+> If Uber attracts too many drivers relative to the number of riders, driver downtimes will go up; if Uber attracts too many riders relative to drivers, rider wait times will go u.
+
+…
+
+> In the case of Uber two sides of the market are involved: riders attract drivers, and drivers attract riders.
+
+…
+
+> [P]latform businesses will often spend money to attract participants to one side of the market. […] [T]he profits to be earned in Market B must outweigh the losses incurred in Market A.
+
+
+> Curious about what separated the successful companies from those that failed [in the dotcom bust of 2000], we examined dozens of cases and found that the failures mostly relied on price or brand effects. By contrast, the successes hit on an idea that really worked—driving traffic from one user group in order to drive profits from another user group.
+
+…
+
+> Threadless is a T-shirt company [whose] business model involves holding weekly design contests open to outside participants, printing only T-shirts with the most popular designs, and selling them to their large and growing customer base. Threadless doesn’t need to hire artistic talent, since skilled designers compete for prizes and prestige. It doesn’t need to do marketing, since eager designers contact their friends to solicit votes and sales. It doesn’t need to forecast sales, since voting customers have already announced what numbers they will buy.
+
+…
+
+> Chatroulette had no registration requirement and no controls of any kind, leading to what became known as the Naked Hairy Men problem.
+
+…
+
+> Firms such as Airbnb, Uber, Dropbox, Thredless, Upwork, Google, and Facebook are not valuable because of their cost structures: the capital they employ, the machinery they run, or the human resources they command. They are valuable because of the communities that participate in their platforms.
+</details>
+
+
+## Chapter 7: Openness
 
 🔖 **Definition of openness:**
 > A platform is 'open' to the extent that:
@@ -158,8 +310,6 @@ How networked markets are transforming the economy and how to make them work for
   - SAP, a German company that makes software for large enterprises to manage internal operations. Partnered with ADP for payroll processing, which gave ADP the opportunity to replace SAP as the primary manager of the customer relationship.
 
 ## Chapter 8: Governance
-
-### Notes:
 
 🔖 **Governance**: "the set of rules concerning who gets to participate in an ecosystem, how to divide the value, and how to resolve conflicts." The goal is to create wealth that is fairly distributed amongst those who add value to a platform.
 
