@@ -19,6 +19,8 @@ How networked markets are transforming the economy and how to make them work for
 
 Chapters 1 & 2: @kytrinyx & @bkeepers
 
+Chapters 3 & 4: @johndbritton & @wilhelmklopp
+
 Chapters 5 & 6: @JessRudder & @mscoutermarsh
 
 Chapters 7 & 8: @pifafu & @venetucci
@@ -169,9 +171,363 @@ There's also this weird side-effect where “platforms invert the firm.”
 > Firms such as Airbnb, Uber, Dropbox, Thredless, Upwork, Google, and Facebook are not valuable because of their cost structures: the capital they employ, the machinery they run, or the human resources they command. They are valuable because of the communities that participate in their platforms.
 </details>
 
-## Chapter 5: Launch - Chicken or Egg? Eight Ways to Launch a Successful Platform
+## Chapter 3 — Architecture: Basic Principles for Designing Successful Platforms
 
-### PayPal Case Study
+**Recap: Challenges of the platform:** 
+
+- How do we build a platform that **invites participation and creates significant value** for all its users?
+- How do we **provide tools and services** that make it easy for producers and consumers to interact in **mutually rewarding ways**?
+- How do we design a technological infrastructure that is capable of scaling rapidly, and **encouraging positive network effects while minimizing negative ones**?
+
+
+> “The natural tendency of those charged with creating a new platform business is to study similar implementations and imitate them. But because no two markets are identical, this strategy often fails.”
+
+Producers and consumers exchange three things: *information*, *goods or services*, and some form of *currency*
+
+**Exchange of information**
+
+- Every platform interaction starts with the exchange of information
+- Thus, every platform business must be designed to facilitate the exchange of information
+- Examples:
+  - Uber provides information about driver availability and location in response to passenger requests
+  - Yelp provides information about restaurants to enable users to choose a place to eat
+  - Upwork allows companies and freelancers to exchange information about themselves to facilitate hiring decisions
+- **The exchange of information takes place through the platform itself. This is a fundamental characteristic of a platform business.**
+
+**Exchange of goods or services**
+
+- Following the exchange of information, participants may decide to exchange goods or services
+- Each item exchanged among platform users is called a *value unit* 
+- Goods or services can be exchanged through the platform, or outside of the platform
+  - Examples of goods or services exchanged through the platform
+    - Facebook, where the value unit is photos, links, and posts
+    - YouTube, where the value unit is videos
+  - Examples of goods or services exchanged outside of platform
+    - Uber, where the value unit is journeys in real cars
+    - Yelp, where the the value unit is physical meals consumed in actual restaurants
+  
+
+**Exchange of currency**
+
+- When goods or services are exchanged on platforms, they are typically paid for using some for of currency
+- In many cases, this is traditional currency transmitted using credit carts, paypal, or bitcoin
+- There are also other forms of value in which consumers “pay” producers:
+  - YouTube, Twitter: Viewers/Followers pay the producer with attention
+  - TripAdvisor/Dribble: Community members pay by enhancing the reputation of the producer
+- Attention, fame, influence, reputations, and other intangible forms of value can play the role of “currency” on a platform
+
+
+### The core interaction: The Why of Platform design
+
+The core interaction:
+
+-  the single most important form of activity that takes place on the platform
+- exchange of value that attracts users to the platform in the first place
+- needs to be as easy, attractive, and valuable to users as possible
+- fundamental purpose of the platform is to facilitate the core interaction
+- Three key components: *the participants*, *the value unit*, *the filter* 
+
+Platforms should start with one primary interaction. Over time, platforms *can* enable multiple interactions, but each needs to be designed to **meet a particular platform goal** and to **help users create a new form of value**.
+
+**The participants**
+
+1. The producer, who creates value
+2. The consumer, who consumes value
+
+Participants may play different roles. Examples:
+
+- Airbnb: The same person can be both a guest and a host
+- YouTube: Users may upload vides as well as view them
+
+A well designed platform makes it easy for users to move between roles.
+
+**The value unit**
+In virtually every case the core interaction starts with the creation of a value unit by the producer.
+Examples of value units:
+
+- eBay and Airbnb: the product/apartment listing
+- Kickstarter: the project details
+- YouTube: videos
+- Twitter: tweets
+- Uber: available car categories
+- LinkedIn: profiles of professionals
+
+In each case users are provided with a basis for deciding whether or not they want to proceed with the exchange.
+
+**The filter**
+
+- The value unit is delivered to selected consumers based on *filters*
+- It’s an algorithm to enable the exchange of appropriate value units between users
+- A well designed filter ensures platform uses receive only value units that are **relevant and valuable** to them
+- A poorly designed filter (or no filter) means users may be flooded with units they find **irrelevant and valueless,** which may drive them to **abandon the platform**
+
+Every platform makes use of filters to manage the exchange of information:
+
+- Uber: Potential riders share their location and requested time, based on which the most relevant available cars can be filtered and presented to the user
+- YouTube: Past videos watched, interests and channels that the user subscribed to make up parameters that the YouTube algorithm uses to match most relevant and valuable videos
+
+
+**Participants + Value Unit + Filter → Core Interaction**
+
+
+> “Successful platforms begin with a single core interaction that consistently generates high value for users”
+
+
+> “A valuable core interaction that is easy, even enjoyable, to engage in attracts participants and makes the emergence of positive network effects possible”
+
+Platforms don’t create value units, but:
+
+- They provide the infrastructure within which value units are produced
+- They can foster a culture of quality control (of value units)
+- They develop filters that are designed to deliver valuable units while blocking others
+
+
+### Pull, Facilitate, Match: The How of Platform design
+
+The purpose of a platform is to make core interactions inevitable my making them valuable to all participants. This section talks about *how* to do that.
+
+
+- The platform must *pull* both producers and consumers to the platform to enable their interaction.
+- It must *facilitate* their interactions by providing them with tools and rules that encourage valuable exchange.
+- It must *match* producers and consumers effectively to connect them in a way they find mutually rewarding
+
+All three functions must be performed well for a platform to succeed.
+
+- If a platform fails to pull participants in, there will be no network effects.
+- If it fails to facilitate interactions, participants will be discouraged and alienated.
+- If it fails to match participants, their time and energy will be wasted, driving them away.
+
+**Pull**
+Chicken or egg problem
+
+- Users won’t come to a platform unless it has value and a platform won’t have value until users use it.
+- Most platforms fail because they never overcome this problem
+
+Retention problem
+
+- Platforms need to keep the interest of users who signed up to the platform
+- Facebook discovered that users found the platform valuable only after they had connected to a minimum number of other users. **Facebook shifted its marketing efforts away from recruiting new members to helping them form connections.**
+
+Feedback loop
+
+- A user’s action generates a response that causes the user to re-engage
+- Constant stream of self-reinforcing activity
+- Can help swell the network, increase value creation, and enhance network effects
+- Can involve just one user or multiple
+  - Example for a multi-user feedback loop is the Facebook news feed
+
+**Facilitate**
+*Process of facilitators refers to the platform-owned infrastructure as part of which value can be created and exchanged.*
+
+It’s important to make it as easy as possible for **producers** to create and exchange valuable goods and services.
+
+Facilitating interactions may involve reducing barriers to usage. 
+
+- Instagram enabled users to snap, modify, and share pictures in three clicks on a single device
+
+Sometimes increasing barriers to usage can have positive effects, leading to more high quality participants. Examples include ID verification on Airbnb, or background checks for a babysitting platform.
+
+**Match**
+*Successful platform efficiently match the right users with one another to ensure that the most relevant goods and services are exchanged.*
+
+Platforms match users using the available data about:
+
+- producers
+- consumers
+- the created value units
+- the goods and services to  be exchanged
+
+
+> “The more data the platform has to work with — and the better designed the algorithms used to collect, organise, sort, parse, and interpret the data — the more accurate the filters, the more relevant and useful the information exchanged, and the more rewarding the ultimate match between producer and consumer.
+
+**Successful platforms create mutually rewarding matches on a consistent basis.**
+
+- Continual improvement of data acquisition and analysis is important
+
+
+All three functions (pull, facilitate, match) are essential to a successful platform. However, it’s possible for a platform to survive, at least for some time, thanks to its strength at one function.
+Examples:
+
+- Craigslist is poor at *facilitate* and *match* but unmatched at *pull*
+- YouTube and Vimeo can co-exist because YouTube is excellent at *pull* and *match*, whereas Vimeo focuses on *facilitate* 
+### Beyond the core interaction
+
+As platforms mature, they may successfully shift their efforts on peripheral aspects of the platform that only have an indirect relationship to the core interaction or add entirely new interactions.
+
+
+- Uber started acting as a guarantor for car loans so that potential drivers without a credit history could get cars and become producers on the platform.
+
+
+- Linkedin added additional interactions which all give users additional reason to visit the platform
+  - Groups where discussions can be conducted
+  - Ability for recruiters to contact candidates
+  - Ability for users to thought lead using posts
+### Applying the end to end principle to platform design
+
+Platforms need to find a balance between two competing forces:
+
+1. Innovation can lead to excessive complexity, which makes the platform difficult to navigate. 
+2. A platform that fails to evolve by adding desirable new features is likely to be abandoned by users who discover a competing platform with more to offer.
+
+The end to end principle can help find this balance:
+
+> “Activities that are not central to the workings of the network but valuable only to particular users should be located at the edges of the network rather than at its heart.“
+
+
+> “Application specific features should reside in the layer of process at the edge or on top of the platform, rather than at roots deep within the platform. Only the highest-volume, highest-value features that cut across apps should become part of the core platform.”
+
+**A well designed platform consists of a stable core layer that restricts variety, sitting underneath an evolving layer that enables variety.**
+
+
+### The power of modularity
+- In the long run, a successful platform must have a modular approach
+- Subsystems can be designed independently as long as they adhere to overall design rules and connect to the rest of the system only through standard interfaces
+- Modularity can be achieved with APIs enabling outside access to core resources
+- **Not publishing APIs (in favour of for example speed) makes it much harder to mobilise an external ecosystem of developers who can build on top of the core platform**
+## Re-architecting the platform
+
+It’s possible to re-architect platforms in order to make them more modular. One of the most successful such changes was the standardisation of hardware interfaces (PCI and USB) by Intel in the 1990s.
+
+### Iterative improvement: The Anti-design principle
+- Platforms cannot be entirely planned, because users ultimately decide how to use them.
+- As such platform designers should leave room for serendipitous discoveries
+- Platforms should closely monitor user behaviour which will reveal unexpected patterns
+
+
+> The best platform allow room for user quirks, and they are open enough to gradually incorporate such quirks into the design of the platform
+
+
+
+### Takeaways of Chapter 3
+1. The design of a platform should begin with its core interaction 
+2.  Three key elements define the core interaction: 
+  1. the participants, 
+  2. the value unit,
+  3. and the filter. 
+  Of these, the value unit is the most crucial, and often the most difficult to control
+3. To make the core interaction easy and inevitable, a platform must perform three crucial functions: 
+  1. pull,
+  2. facilitate, 
+  3. and match. 
+4. Platforms can grow beyond the core interaction.
+  1. New kinds of interactions may be layered on top of the core interaction
+5. Platforms need to be designed 
+  1. to make mutually satisfying interactions easy for large numbers of users 
+  2. and to leave room for serendipity and the unexpected 
+
+
+## Chapter 4 - *Disruption: How Platforms Conquer and Transform Traditional Industries*
+
+**Platform:** A place where producers and consumers can come together in interactions that create value for both parties.
+Main difference with traditional platform businesses like bazaars and stock markets is the addition of digital technology. Technology improves: reach, speed, convenience, and efficiency.
+Uber is a winning deal for everyone involved, the only losing party is the taxi driver who lost a job.
+
+### A Capsule History of Digital Disruption
+
+*Software is eating the world.* — Marc Andreessen
+**Digital disruption has happened in two stages. We’re in the second stage now:**
+
+1. *Efficient pipelines ate inefficient pipelines*
+  - 1990s online systems for distributing goods and services outcompeted incumbent industries.
+  - Low marginal costs of distribution, target and serve much larger markets with smaller investments.
+  - Newspapers and classifieds took a hit as did retail and mail order shopping, dvd rental and music.
+2. *How platforms eat pipelines*
+  - “Software is eating the world” -> update to “Platforms are eating the world”
+  - Uber, Airbnb, Upwork, Amazon, Apple, Google — All growing businesses based on platforms.
+
+**How and why is this happening?**
+Internet is no longer just a distribution channel (pipeline). It’s a creation infrastructure and coordination mechanism that can be used to create entirely new business models.
+**Two significant advantages over pipelines:**
+
+1. Superior marginal economics of production and distribution
+2. Traditional businesses, like hotels need large capital investments and staff to expand, whereas a platform business like Airbnb has a near-zero marginal cost to adding new rooms to the platform.
+3. Network effects
+4. Network effects make it possible to build ecosystems with millions of remote participants, much larger than a traditional pipeline business. Positive network effects serve as a flywheel, the more activity the more growth. It’s obvious on a platform like Upwork: more freelancers attract more businesses and more businesses attract more freelancers.
+## The Impacts of Platform Disruption on Value Creation, Value Consumption, and Quality Control
+
+Platforms have economic advantages over pipeline businesses allowing them to grow faster.
+By reconfiguring the business processes of value creation, value consumption, and quality control platform dynamics can be improved.
+**Reconfiguring value creation to tap new sources of supply**
+**The goal is to minimize friction for the creators of supply in your platform, some examples:**
+
+- Video platform Viki made it easy to subtitle videos in Korean, enthusiasts created more than any company could have ever done alone.
+- Facebook did a similar thing buy making it easy to source translations of it’s website.
+- Airbnb runs events for hosts to teach best practices
+- Airbnb sent professional photographers to make listing easier
+- Uber has sign up bonuses and leasing programs for drivers to get started more easily
+- Amazon Kindle offered quick and easy access to large readership
+
+**Reconfiguring value consumption by enabling new forms of consumer behavior**
+Similar objective, however this time focused on comsumers. By changing behavior of consumers we can increase usage of products and services in ways that would have been unimaginable a few years ago.
+
+> We are hopping into strangers’ cars (Lyft, Sidecar, Uber), welcoming them into our spare rooms (Airbnb), dropping our dogs off at their houses (DogVacay, Rover), and eating food in their dining rooms (Feastly). We are letting them rent our cars (RelayRides, Getaround), our boats (Boatbound), our houses (HomeAway), and our power tools (Zilok). We are entrusting complete strangers with our most valuable possessions, our personal experiences—and our very lives. In the process, we are entering a new era of Internet-enabled intimacy.
+
+**Reconfiguring quality control through community driven curation**
+Curation is valuable to keeping participants happy. Without it, quality will fall and you can lose traction. With scale, curation becomes more of a challenge. Lean on your community and data.
+**New platforms are often criticized because they fail to offer quality and reliability of traditional competitors:**
+
+- YouTube - indecent and pirated content
+- Airbnb - raids on apartment parties
+- Wikipedia - pages positioning falsehoods as fact
+
+In the early days of a platform negative network effects from increased supply lead to degraded quality. Strong curation encourages desirable behavior and can spark growth of the platform that far exceeds the growth potential of a pipeline based business.
+It’s important to make sure curation mechanism doesn’t break down as the platform scales. Successful platforms use their data to replace manual curation with automation
+
+### Structural Impacts of Platform Disruption
+
+**De-linking assets from value**
+In many cases value can be derived from ownership of physical asset, but it may not be put to it’s highest and best use due to underutilization or a mis-match between the owner’s business and the best use of the asset.
+By removing the connection between ownership and use of a productive asset a platform business can increase efficiency of use and overall value.
+
+- NY State - Designed a smart market for energy. Small energy sellers, sell to large buyers, who then redistribute to consumers. By coordinating supply and demand across power generation and storage infrastructure across the state higher efficiency and value is realized for all.
+- Health care - Many hospitals run expensive MRI machines at 40-50% utilization. By separating ownership from usage they’re able to time share the device with small clinics who cannot afford their own machines.
+- Farmers - In Australia, water use reform led to a system where water rights are separated from property ownership. A private company created a platform for trading water. A farmer of a low-value crop then was able to stop farming, trade the water and it was put to better use.
+
+**Re-intermediation**
+With the rise of the internet disintermediation was expected. Think removing the travel agent from the booking of airline tickets.
+In reality, platforms are re-intermediating markets by introducing new types of middlemen rather than only eliminating them. Typically re-intermediation involves replacing non-scalable and inefficient agents with online, often automated tools and systems.
+Networked platforms are more efficient because of their ability to scale. Platforms rely on algorithms and data rather than manual interactions.
+
+- Music A&R - Rather than working with labels, they’re more independent and scouting talent online via platforms like YouTube and Soundcloud.
+- Literary agents - Search for new authors on Quora and Medium.
+- Advertising - Small businesses run campaigns with AdWords without relying on an agency.
+- Social feedback - Yelp, Angie’s List, TripAdvisor are part of a new industry that certifies the quality of a product or service.
+- New winners and losers - In traditional book industry publishers absorb (and spend) most revenues, paying author royalties of 10-15%. On Amazon, authors retain 70% of revenues.
+
+**Market aggregation**
+
+> Market aggregation is the process whereby platforms provide centralized markets to serve widely dispersed individuals and organizations.
+
+Because of fragmentation in a given industry, search costs for a consumer can be very high. By aggregating all of this data a platform has the opportunity to realize value through an improved experience for the consumer.
+Amazon Marketplace, Alibaba, Etsy, eBay bring haphazard disorganized business into an organized space that is valued by the consumer.
+See also: [Aggregation Theory – Stratechery by Ben Thompson](https://stratechery.com/2015/aggregation-theory/)
+
+## The Incumbents Fight Back: Pipelines Becoming Platforms
+
+Platform businesses are disrupting traditional businesses. For incumbents to survive, they’ll need to reevaluate their business models.
+**Ask yourself:**
+
+- What processes can be delegated outside the company?
+- How can we empower partners to create new value for our existing customers?
+- Can we network with competitors to create new value for existing customers?
+- How can the value of our products be increased by data, personal connections, and curation?
+
+**Pipeline businesses traditionally scale in one of two ways:**
+
+1. Vertical integration - Owning and integrating a greater length of the value-creation-and-delivery pipeline.
+2. Horizontal integration -Expanding by widening the pipeline to push more value through it.
+
+**Examples**
+
+- Nike bought wearable devices company, FuelBand.
+- Apple connects it’s products and services together. By owning more products they are much more useful.
+- UnderArmour competing with Nike to build a platform business in the wearables market, purchased MapMyFitness, MyFitnessPal, and Endomondo.
+> Can any product or service become the basis of a platform business? Here’s the test: if the firm can use either information or community to add value to what it sells, then there is potential for creating a viable platform. This creates huge opportunities for a lot of firms.
+
+
+### Chapter 5: Launch - Chicken or Egg? Eight Ways to Launch a Successful Platform
+
+#### PayPal Case Study
 Peter Thiel & Max Levchin launch Confinity
   - Goal was enabling money transfers on Palm Pilots and PDAs w/infrared ports
   - Shut down in 2 years after gaining only 10k signups
@@ -201,19 +557,19 @@ Grew from 100,000 users to 1,000,000 in 3 months
 Ebay initially built alternative to PayPal, but failed to gain traction
   - Bought PayPal in 2002 for $1.4 billion in stock
 
-### Heart of Platform Marketing: Designing for Viral Growth
+#### Heart of Platform Marketing: Designing for Viral Growth
 Focus on pull strategies
   - customers have access to nearly unlimited marketing/communication channels
   - must craft messages that pull customers toward your products
   - marketing must be baked into the platform (incentivize user sharing)
 
-### The Incumbents' Advantage: Reality or Illusion?
+#### The Incumbents' Advantage: Reality or Illusion?
 Why don't large incumbents always win?
   - They have existing value chains, partnerships, pool of talent, & loyal customer base
   - They become complacent because they expect they'll have time to watch a slow rise of a challenger
   - Network effects can change the market quickly so encumbents might be left behind
 
-### There are Many Ways to Launch a Platform
+#### There are Many Ways to Launch a Platform
 Strategies that work for one platform won't work for another
   - YouTube:
     - first democratic upload platform
@@ -232,7 +588,7 @@ Strategies that work for one platform won't work for another
 
 It's important to know the value propositions offered by competitors so you can carve out your niche
 
-### Eight Strategies for Beating the Chicken-or-Egg Dilemma
+#### Eight Strategies for Beating the Chicken-or-Egg Dilemma
 First strategy is to avoid answering the chicken or egg problem at all:
 
 1) Follow the rabbit strategy
@@ -291,7 +647,7 @@ Strategies for when you have to solve the chicken/egg problem:
   - Platform provides effective matchmaking usually only seen in larger markets
   - Ex: Facebook launching a social network in the closed community of Harvard
 
-### Viral Growth: The User-to-User Launch Mechanism
+#### Viral Growth: The User-to-User Launch Mechanism
 Viral growth is a pull-based process based on encouraging users to spread word about the platform to other potential users
 
 4 elements necessary for viral growth
@@ -308,7 +664,7 @@ Viral growth is a pull-based process based on encouraging users to spread word a
     - senders target, will respond if they find the value unit valuable
     - will spread value unit further if they like it
 
-## Chapter 6: Monetization
+### Chapter 6: Monetization
 
 Slogan: "Get users first, monetize later"
 
@@ -326,27 +682,27 @@ Slogan: "Get users first, monetize later"
     - Having fees that are performance based make them "feel negligible" because it is simply "skimming" off a small fraction of the transaction.
     - There are other opportunities for charging for value. Example: if a business is failing to gain customers on the platform. Could charge a fee for a listing review. That helps them improve their ability to gain customers.
 
-### Example of failure
+#### Example of failure
 
-#### Zvents
+##### Zvents
 - Zvents was an event listing platform (all local events in 1 place). They couldn't charge the event organizers because that would result in less events (then consumers would stop visiting).
 - They attempted charging for promoted listings, but this was not enough revenue.
 - Eventually failed and was acquired. Platform is now used by Ebay to direct ticket sales to StubHub (**end result**: platform still free, links to StubHub to generate revenue)
 
-### Example of success
-#### Meetup
+#### Example of success
+##### Meetup
 - Struggled finding correct monetization strategy. Their solution was interesting. They had a problem of too many low quality meetups on their site. Solution: started charging $19/month to each organizer. **HUGE OUTRAGE** from the community. But it worked. Meetup quality improved, platform thrived. Tools were good enough for organizers that they were willing to pay.
 
 TLDR: They succeeded because charging $$ increased the quality of their network.
 
-### Questions to ask yourself when creating $$ strategy
+#### Questions to ask yourself when creating $$ strategy
 1. "How can we generate revenue without reducing positive network effects?" (Zvents couldn't, so they failed)
 2. "Can we devise a pricing strategy that strengthens our positive network effects while reducing our negative network effects?" (think meetup example)
 3. "Can we create a strategy that encourages desireable interactions and discourages undesirable ones?"
 
-### Common ways to monetize a platform
+#### Common ways to monetize a platform
 
-#### 1. Transaction fee
+##### 1. Transaction fee
 Charge a fee on completion of a service
 - Uber
 - Upwork
@@ -359,7 +715,7 @@ Charge a fee on completion of a service
 
 Another example: Upwork and task rabbit make it difficult for consumers/providers to communicate outside of the platform. Making it less likely they will do a deal. They add RATINGS so that providers want the deal to happen through the platform. Higher ratings = higher sales. Only people who buy through platform are allowed to rate.
 
-#### 2. Charging for access
+##### 2. Charging for access
 Charge producers for access to a community
 - Dribbble
 - LinkedIn
@@ -369,7 +725,7 @@ Charge producers for access to a community
 
 **Success:** This works very well for Dribbble. The community is incentivized to put up their best work (to attract employers). Then employers have easy access to portfolios for evaluation.
 
-#### 3. Charging for enhanced access
+##### 3. Charging for enhanced access
 - Yelp
 - Dating websites
 
@@ -380,7 +736,7 @@ Problem: this needs to be done with care because it can cause a negative network
 
 **Key**: When doing this, be sure to make it clear that enhanced access is being paid for. "X business is at the top of the list because they paid"
 
-#### 4. Charging for enhanced curation
+##### 4. Charging for enhanced curation
 When the quantity of content on a platform becomes too great. Opportunity to charge for curation.
 
 Example: Baby sitting platform. Charges parents money for access to their list of baby sitters (platform screens babysitters to ensure quality).
