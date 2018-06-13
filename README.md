@@ -22,7 +22,7 @@
 |**Participatory Culture in a Networked Era**|Henry Jenkins ⚪️♂, Mizuko Ito 🔵♀, danah boyd ⚪️♀|⭐️⭐️⭐️⭐️⭐️|🤓||
 |**Technopoly: The Surrender of Culture to Technology**|Neil Postman ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓|[Venetucci's chapter summaries / notes](https://github.com/venetucci/book-notes/blob/master/2018%20notes/Technopoly-notes.md)|
 |**Platform Revolution**|Geoffrey G. Parker ⚪️♂, Marshall W. Van Alstyne ⚪️♂, Sangeet Paul Choudary 🔵♂|⭐️⭐️⭐️⭐️|🤓|[Chapter summaries](https://github.com/venetucci/book-notes/blob/master/2018%20notes/platform-revolution-notes.md)|
-|**Bad Blood**|John Carreyrou ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓||
+|**Bad Blood: Secrets and Lies in a Silicon Valley Startup**|John Carreyrou ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓||
 
 
 
