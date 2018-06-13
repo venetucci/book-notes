@@ -21,7 +21,9 @@
 |**Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure**|Nadia Eghbal ♀|⭐️⭐️⭐️⭐️⭐️|🤓|[Link to full text](https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure)|
 |**Participatory Culture in a Networked Era**|Henry Jenkins ⚪️♂, Mizuko Ito 🔵♀, danah boyd ⚪️♀|⭐️⭐️⭐️⭐️⭐️|🤓||
 |**Technopoly: The Surrender of Culture to Technology**|Neil Postman ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓|[Venetucci's chapter summaries / notes](https://github.com/venetucci/book-notes/blob/master/2018%20notes/Technopoly-notes.md)|
-|**Platform Revolution**|Geoffrey G. Parker ⚪️♂, Marshall W. Van Alstyne ⚪️♂, Sangeet Paul Choudary 🔵♂|Currently reading...|🤓|[Chapter summaries](https://github.com/venetucci/book-notes/blob/master/2018%20notes/platform-revolution-notes.md)|
+|**Platform Revolution**|Geoffrey G. Parker ⚪️♂, Marshall W. Van Alstyne ⚪️♂, Sangeet Paul Choudary 🔵♂|⭐️⭐️⭐️⭐️|🤓|[Chapter summaries](https://github.com/venetucci/book-notes/blob/master/2018%20notes/platform-revolution-notes.md)|
+|**Bad Blood**|John Carreyrou ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓||
+
 
 
 ### Key
