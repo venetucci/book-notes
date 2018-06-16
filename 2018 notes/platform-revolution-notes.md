@@ -4,7 +4,7 @@ How networked markets are transforming the economy and how to make them work for
 
 |Title|Author|Rating|Type|
 |---|---|---|---|
-|**Platform Revolution**|Geoffrey G. Parker ⚪️♂, Marshall W. Van Alstyne ⚪️♂, Sangeet Paul Choudary 🔵♂|Currently reading...|🤓|
+|**Platform Revolution**|Geoffrey G. Parker ⚪️♂, Marshall W. Van Alstyne ⚪️♂, Sangeet Paul Choudary 🔵♂|⭐️⭐️⭐️⭐️ Really helpful if you work on platforms|🤓|
 
 ---
 
