@@ -23,6 +23,9 @@
 |**Technopoly: The Surrender of Culture to Technology**|Neil Postman ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓|[Venetucci's chapter summaries / notes](https://github.com/venetucci/book-notes/blob/master/2018%20notes/Technopoly-notes.md)|
 |**Platform Revolution**|Geoffrey G. Parker ⚪️♂, Marshall W. Van Alstyne ⚪️♂, Sangeet Paul Choudary 🔵♂|⭐️⭐️⭐️⭐️|🤓|[Chapter summaries](https://github.com/venetucci/book-notes/blob/master/2018%20notes/platform-revolution-notes.md)|
 |**Bad Blood: Secrets and Lies in a Silicon Valley Startup**|John Carreyrou ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓||
+|**American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road**|Nick Bilton ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓||
+|**Ethics of information and communication technologies**|European Group on Ethics in Science and New Technologies (European Commission) |⭐️⭐️⭐️⭐️⭐️|🤓|[Link to report](https://publications.europa.eu/en/publication-detail/-/publication/c35a8ab5-a21d-41ff-b654-8cd6d41f6794)|
+
 
 
 
