@@ -1,4 +1,4 @@
-## 📝 2018 Notes and summaries
+# 📝 2018 Notes and summaries
 
 🐦 Twitter thread [here](https://twitter.com/mvenetucci/status/950178580545265664)
 
