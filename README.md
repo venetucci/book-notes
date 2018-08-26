@@ -1,4 +1,4 @@
-# 📝 2018 Reading
+# 📖 2018 Reading
 
 🐦 Twitter thread [here](https://twitter.com/mvenetucci/status/950178580545265664)
 
