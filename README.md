@@ -4,7 +4,19 @@
 
 📁 @venetucci's notes and summaries can be found in [this folder](https://github.com/venetucci/book-notes/tree/master/2018%20notes)
 
-## 📚Full list
+## 📚In process 
+Sometimes I read parts of books or jump around. An ongoing list of in-process books:
+
+* [Logic magazine](https://logicmag.io/): Issue 05 / Failure, Issue 04 / Scale
+* [Cubed: A Secret History of the Workplace](https://www.amazon.com/dp/B00FUZQZE0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Nikil Saval 
+* [Design for the Real World: Human Ecology and Social Change](https://www.amazon.com/Design-Real-World-Ecology-Social/dp/0897331532/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1535303242&sr=1-1-catcorr&keywords=design+for+the+real+world+papanek) by Victor Papanek ([Full text pdf](https://monoskop.org/images/f/f8/Papanek_Victor_Design_for_the_Real_World.pdf))
+* [A Networked Self: Identity, Community, and Culture on Social Network Sites](https://www.amazon.com/Networked-Self-Identity-Community-Culture/dp/0415801818/ref=sr_1_1?s=books&ie=UTF8&qid=1535303333&sr=1-1&keywords=a+networked+self+zizi) by Zizi Papacharissi
+* [Kids These Days: Human Capital and the Making of Millennials](https://www.amazon.com/Kids-These-Days-Capital-Millennials-ebook/dp/B06XFTVQFK/ref=sr_1_1?s=books&ie=UTF8&qid=1535303422&sr=1-1&keywords=kids+these+days) by Malcolm Harris 
+* [Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows-ebook/dp/B005VSRFEA/ref=sr_1_3?s=books&ie=UTF8&qid=1535303472&sr=1-3&keywords=Thinking+in+systems) by Donella H. Meadows ([Full text pdf](https://wtf.tw/ref/meadows.pdf))
+* [Sapiens: A Brief History of Humankind](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Dstripbooks&field-keywords=sapiens) by Yuval Noah Harari
+* [The Sociological Imagination](https://www.amazon.com/Sociological-Imagination-C-Wright-Mills-ebook/dp/B000SEOIK6/ref=sr_1_1?s=books&ie=UTF8&qid=1535303688&sr=1-1&keywords=sociological+imagination) by C. Wright Mills
+
+## 📚Completed
 
 |Title|Author|Rating|Type|Link?| 
 |---|---|---|---|---|
@@ -25,6 +37,9 @@
 |**Bad Blood: Secrets and Lies in a Silicon Valley Startup**|John Carreyrou ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓||
 |**American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road**|Nick Bilton ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓||
 |**Ethics of information and communication technologies**|European Group on Ethics in Science and New Technologies (European Commission) |⭐️⭐️⭐️⭐️⭐️|🤓|[Link to report](https://publications.europa.eu/en/publication-detail/-/publication/c35a8ab5-a21d-41ff-b654-8cd6d41f6794)|
+
+
+
 
 
 
