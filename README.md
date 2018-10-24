@@ -40,6 +40,7 @@ Sometimes I read parts of books or jump around. An ongoing list of in-process bo
 |**Cubed: A Secret History of the Workplace**|by Nikil Saval 🔵♂ |⭐️⭐️⭐️⭐️⭐️|🤓|[Venetucci's notes](https://github.com/venetucci/book-notes/blob/master/2018%20notes/cubed-notes.md)|
 |**Born a Crime: Stories from a South African Childhood**|Trevor Noah 🔵♂|⭐️⭐️⭐️⭐️⭐️|🤓||
 |**Girl Logic**|Iliza Shlesinger ⚪️♀ |⭐️⭐️⭐️⭐️|🤓||
+|Justice Lecture Course [view here](http://justiceharvard.org/justicecourse/)|Michael Sandel, Harvard ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓|[Notes on lectures](https://github.com/venetucci/book-notes/blob/master/2018%20notes/justice-class.md)|
 
 ### Key
 
