@@ -1,3 +1,11 @@
+**Description:**
+
+Justice, one of the most famous courses taught at Harvard College, is an introduction to moral and political philosophy, offering an opportunity to discuss contemporary dilemmas and controversies.
+
+Class videos: http://justiceharvard.org/justicecourse/
+
+Syllabus: https://canvas.harvard.edu/courses/8326/assignments/syllabus
+
 # Class 1: The moral side of murder
 
 - Trolly dilemma scenarios
