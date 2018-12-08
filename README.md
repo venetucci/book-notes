@@ -46,7 +46,7 @@ Sometimes I read parts of books or jump around. An ongoing list of in-process bo
 |**Girl Logic**|Iliza Shlesinger ⚪️♀ |⭐️⭐️⭐️⭐️|🤓||
 |✨**Justice Lecture Course at Harvard**|Michael Sandel ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓|[Access class here](http://justiceharvard.org/justicecourse/) & [Venetucci's notes on lectures](https://github.com/venetucci/book-notes/blob/master/2018%20notes/justice-class.md)|
 |✨**The job: Work and its future in a time of radical change**|Ellen Ruppel Shell ⚪️♀ |⭐️⭐️⭐️⭐️⭐️|🤓||
-|✨**Electric Arches**|Eve Ewing 🔵♀ |⭐️⭐️⭐️⭐️⭐️|🍄||
+|**Electric Arches**|Eve Ewing 🔵♀ |⭐️⭐️⭐️⭐️⭐️|🍄||
 |**Record of a Spaceborn Few**|Becky Chambers ⚪️♀|⭐️⭐️⭐️⭐️⭐️|🍄||
 
 ### Journal Articles and Academic Writing
