@@ -31,8 +31,10 @@ Sometimes I read parts of books or jump around. An ongoing list of in-process bo
 |**How to be happy (Graphic Novel)**|Eleanor Davis ♀|⭐️⭐️⭐️|🍄||
 |**Harry Potter (Books 1 - 7)**|J.K. Rowling ⚪️♀|⭐️⭐️⭐️⭐️⭐️|🍄||
 |✨**Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure**|Nadia Eghbal ♀|⭐️⭐️⭐️⭐️⭐️|🤓|[Link to full text](https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure)|
+|**The Year of Magical Thinking**|Joan Didion ⚪️♀|⭐️⭐️⭐️⭐️⭐️|🤓||
 |✨**Participatory Culture in a Networked Era**|Henry Jenkins ⚪️♂, Mizuko Ito 🔵♀, danah boyd ⚪️♀|⭐️⭐️⭐️⭐️⭐️|🤓||
 |✨**Technopoly: The Surrender of Culture to Technology**|Neil Postman ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓|[Venetucci's chapter summaries / notes](https://github.com/venetucci/book-notes/blob/master/2018%20notes/Technopoly-notes.md)|
+|**A Closed and Common Orbit**|Becky Chambers ⚪️♀|⭐️⭐️⭐️⭐️⭐️|🍄||
 |✨**Birth as an American Rite of Passage**|Robbie Davis-Floyd ⚪️♀ |⭐️⭐️⭐️⭐️⭐️|🤓||
 |**Platform Revolution**|Geoffrey G. Parker ⚪️♂, Marshall W. Van Alstyne ⚪️♂, Sangeet Paul Choudary 🔵♂|⭐️⭐️⭐️⭐️|🤓|[Chapter summaries](https://github.com/venetucci/book-notes/blob/master/2018%20notes/platform-revolution-notes.md)|
 |✨**Bad Blood: Secrets and Lies in a Silicon Valley Startup**|John Carreyrou ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓||
@@ -44,6 +46,7 @@ Sometimes I read parts of books or jump around. An ongoing list of in-process bo
 |**Girl Logic**|Iliza Shlesinger ⚪️♀ |⭐️⭐️⭐️⭐️|🤓||
 |✨**Justice Lecture Course at Harvard**|Michael Sandel ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓|[Access class here](http://justiceharvard.org/justicecourse/) & [Venetucci's notes on lectures](https://github.com/venetucci/book-notes/blob/master/2018%20notes/justice-class.md)|
 |✨**The job: Work and its future in a time of radical change**|Ellen Ruppel Shell ⚪️♀ |⭐️⭐️⭐️⭐️⭐️|🤓||
+|**Record of a Spaceborn Few**|Becky Chambers ⚪️♀|⭐️⭐️⭐️⭐️⭐️|🍄||
 
 ### Journal Articles and Academic Writing
 
