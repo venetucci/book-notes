@@ -8,8 +8,9 @@
 
 ### Books
 
-|Title|Author|Rating|Type|Link?| 
+|Title|Author(s)|Rating|Type|Extras| 
 |---|---|---|---|---|
+|Keith Haring, The Political Line|by Dieter Buchhart, Julian Cox, Robert Farris Thompson, Julian Myers-Szupinska|⭐️⭐️⭐️⭐️⭐️|🤓||
 
 # 📖 2018 Reading
 
@@ -28,7 +29,7 @@ Sometimes I read parts of books or jump around. An ongoing list of in-process bo
 
 ### Books
 
-|Title|Author|Rating|Type|Link?| 
+|Title|Author(s)|Rating|Type|Extras| 
 |---|---|---|---|---|
 |**Radical Candor**|Kim Scott ⚪️♀|⭐️⭐️⭐️⭐️⭐️|🤓||
 |✨**The Power of Myth**|Joseph Campbell ⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓|[Selected quotations](https://github.com/venetucci/book-notes/blob/master/2018%20notes/power-of-myth-notes.md)|
