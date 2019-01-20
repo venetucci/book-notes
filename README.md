@@ -11,6 +11,8 @@
 |Title|Author(s)|Rating|Type|Extras| 
 |---|---|---|---|---|
 |Keith Haring, The Political Line|by Dieter Buchhart, Julian Cox, Robert Farris Thompson, Julian Myers-Szupinska|⭐️⭐️⭐️⭐️⭐️|🤓||
+|Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor|by Virginia Eubanks ⚪️♀|⭐️⭐️⭐️⭐️⭐️|🤓||
+
 
 # 📖 2018 Reading
 
