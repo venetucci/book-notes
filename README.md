@@ -13,6 +13,13 @@
 |Keith Haring, The Political Line|by Dieter Buchhart, Julian Cox, Robert Farris Thompson, Julian Myers-Szupinska|⭐️⭐️⭐️⭐️⭐️|🤓||
 |Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor|by Virginia Eubanks ⚪️♀|⭐️⭐️⭐️⭐️⭐️|🤓||
 
+### Journal Articles and Academic Papers
+
+|Entry|Author(s)|Link|
+|---|---|---|
+|Humanitarian media intervention: infrastructuring in times of forced migration|Sebastian Kubitschko & Tim Schütz|[Link](http://spheres-journal.org/humanitarian-media-intervention-infrastructuring-in-times-of-forced-migration/)|
+|Do Artifacts Have Politics|Langdon Winner|[Link](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)|
+|Got Infrastructure? How Standards, Categories and Other Aspects of Infrastructure Influence Communication|Susan Leigh Star|[Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.7523&rep=rep1&type=pdf)|
 
 # 📖 2018 Reading
 
@@ -62,7 +69,7 @@ Sometimes I read parts of books or jump around. An ongoing list of in-process bo
 |**Electric Arches**|Eve Ewing 🔵♀ |⭐️⭐️⭐️⭐️⭐️|🍄||
 |**Record of a Spaceborn Few**|Becky Chambers ⚪️♀|⭐️⭐️⭐️⭐️⭐️|🍄||
 
-### Journal Articles and Academic Writing
+### Journal Articles and Academic Papers
 
 |Entry| 
 |---|
