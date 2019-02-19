@@ -15,11 +15,11 @@
 
 ### Journal Articles and Academic Papers
 
-|Entry|Author(s)|Link|
-|---|---|---|
-|Humanitarian media intervention: infrastructuring in times of forced migration|Sebastian Kubitschko & Tim Schütz|[Link](http://spheres-journal.org/humanitarian-media-intervention-infrastructuring-in-times-of-forced-migration/)|
-|Do Artifacts Have Politics|Langdon Winner|[Link](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)|
-|Got Infrastructure? How Standards, Categories and Other Aspects of Infrastructure Influence Communication|Susan Leigh Star|[Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.7523&rep=rep1&type=pdf)|
+|Entry|Author(s)|Year|Link|
+|---|---|---|---|
+|Humanitarian media intervention: infrastructuring in times of forced migration|Sebastian Kubitschko & Tim Schütz|2017|[Link](http://spheres-journal.org/humanitarian-media-intervention-infrastructuring-in-times-of-forced-migration/)|
+|Do Artifacts Have Politics|Langdon Winner|1986|[Link](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)|
+|Got Infrastructure? How Standards, Categories and Other Aspects of Infrastructure Influence Communication|Susan Leigh Star|2002|[Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.7523&rep=rep1&type=pdf)|
 
 # 📖 2018 Reading
 
