@@ -123,3 +123,4 @@ Sometimes I read parts of books or jump around. An ongoing list of in-process bo
 |⚥|Non-binary author|
 |⚪️|Caucasian author|
 |🔵|POC author|
+|✨|Special/important(review at end of year)|
