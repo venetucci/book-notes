@@ -8,16 +8,16 @@
 
 ### Books
 
-|Title|Author(s)|Rating|Type|Extras| 
-|---|---|---|---|---|
-|Keith Haring, The Political Line|by Dieter Buchhart, Julian Cox, Robert Farris Thompson, Julian Myers-Szupinska|⭐️⭐️⭐️⭐️⭐️|🤓||
-|Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor|by Virginia Eubanks ⚪️♀|⭐️⭐️⭐️⭐️⭐️|🤓||
-|Coming of Age in Second Life|Tom Boellstorff⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓||
-|Lissa: A Story about Medical Promise, Friendship, and Revolution (ethnoGRAPHIC)|by Sherine Hamdy 🔵♀, Coleman Nye ⚪️♀, Sarula Bao 🔵♀, Caroline Brewer 🔵♀|⭐️⭐️⭐️⭐️⭐️|🤓🍄|[More information](http://lissagraphicnovel.com/)|
+|Title|Author(s)|Type|Extras| 
+|---|---|---|---|
+|Keith Haring, The Political Line|by Dieter Buchhart, Julian Cox, Robert Farris Thompson, Julian Myers-Szupinska|🤓||
+|Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor|by Virginia Eubanks ⚪️♀|🤓||
+|Coming of Age in Second Life|Tom Boellstorff⚪️♂|🤓||
+|Lissa: A Story about Medical Promise, Friendship, and Revolution (ethnoGRAPHIC)|by Sherine Hamdy 🔵♀, Coleman Nye ⚪️♀, Sarula Bao 🔵♀, Caroline Brewer 🔵♀|🤓🍄|[More information](http://lissagraphicnovel.com/)|
 
 ### Journal Articles and Academic Papers
 
-|Entry|Author(s)|Year|Link|
+|Title|Author(s)|Year|Link|
 |---|---|---|---|
 |Humanitarian media intervention: infrastructuring in times of forced migration|Sebastian Kubitschko & Tim Schütz|2017|[Link](http://spheres-journal.org/humanitarian-media-intervention-infrastructuring-in-times-of-forced-migration/)|
 |Do Artifacts Have Politics|Langdon Winner|1986|[Link](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)|
