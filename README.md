@@ -10,6 +10,8 @@
 
 |Title|Author(s)|Rating|Type|Extras| 
 |---|---|---|---|---|
+|Coming of Age in Second Life|Tom Boellstorff⚪️♂|⭐️⭐️⭐️⭐️⭐️|🤓||
+|Lissa: A Story about Medical Promise, Friendship, and Revolution (ethnoGRAPHIC)|by Sherine Hamdy 🔵♀, Coleman Nye ⚪️♀, Sarula Bao 🔵♀, Caroline Brewer 🔵♀|⭐️⭐️⭐️⭐️⭐️|🤓🍄|[More information](http://lissagraphicnovel.com/)|
 |Keith Haring, The Political Line|by Dieter Buchhart, Julian Cox, Robert Farris Thompson, Julian Myers-Szupinska|⭐️⭐️⭐️⭐️⭐️|🤓||
 |Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor|by Virginia Eubanks ⚪️♀|⭐️⭐️⭐️⭐️⭐️|🤓||
 
