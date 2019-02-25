@@ -12,16 +12,17 @@
 |---|---|---|---|
 |Keith Haring, The Political Line|by Dieter Buchhart, Julian Cox, Robert Farris Thompson, Julian Myers-Szupinska|🤓||
 |Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor|by Virginia Eubanks ⚪️♀|🤓||
-|Coming of Age in Second Life|Tom Boellstorff⚪️♂|🤓||
+|Coming of Age in Second Life|Tom Boellstorff ⚪️♂|🤓||
 |Lissa: A Story about Medical Promise, Friendship, and Revolution (ethnoGRAPHIC)|by Sherine Hamdy 🔵♀, Coleman Nye ⚪️♀, Sarula Bao 🔵♀, Caroline Brewer 🔵♀|🤓🍄|[More information](http://lissagraphicnovel.com/)|
 
 ### Journal Articles and Academic Papers
 
 |Title|Author(s)|Year|Link|
 |---|---|---|---|
-|Humanitarian media intervention: infrastructuring in times of forced migration|Sebastian Kubitschko & Tim Schütz|2017|[Link](http://spheres-journal.org/humanitarian-media-intervention-infrastructuring-in-times-of-forced-migration/)|
-|Do Artifacts Have Politics|Langdon Winner|1986|[Link](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)|
-|Got Infrastructure? How Standards, Categories and Other Aspects of Infrastructure Influence Communication|Susan Leigh Star|2002|[Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.7523&rep=rep1&type=pdf)|
+|The arts at Facebook: An aesthetic infrastructure for surveillance capitalism|Fred Turner ⚪️♂|2018|[PDF](http://fredturner.stanford.edu/wp-content/uploads/Turner-Art-at-Facebook-Poetics-Preprint.pdf)|
+|Humanitarian media intervention: infrastructuring in times of forced migration|Sebastian Kubitschko & Tim Schütz|2017|[PDF](http://spheres-journal.org/humanitarian-media-intervention-infrastructuring-in-times-of-forced-migration/)|
+|Do Artifacts Have Politics|Langdon Winner|1986|[PDF](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)|
+|Got Infrastructure? How Standards, Categories and Other Aspects of Infrastructure Influence Communication|Susan Leigh Star|2002|[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.7523&rep=rep1&type=pdf)|
 
 # 📖 2018 Reading
 
