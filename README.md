@@ -14,6 +14,7 @@
 |Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor|by Virginia Eubanks ⚪️♀|🤓||
 |Coming of Age in Second Life|Tom Boellstorff ⚪️♂|🤓||
 |Lissa: A Story about Medical Promise, Friendship, and Revolution (ethnoGRAPHIC)|by Sherine Hamdy 🔵♀, Coleman Nye ⚪️♀, Sarula Bao 🔵♀, Caroline Brewer 🔵♀|🤓🍄|[More information](http://lissagraphicnovel.com/)|
+|Sapiens: A Brief History of Humankind|Yuval Noah Harari 🔵♂|🤓||
 
 ### Journal Articles and Academic Papers
 
