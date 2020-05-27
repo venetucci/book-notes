@@ -2,8 +2,6 @@
 
 📁 @venetucci's notes and summaries can be found in [this folder](https://github.com/venetucci/book-notes/tree/master/2018%20notes), or notes on open office research here → [Medium write-up](https://code.likeagirl.io/a-research-roundup-to-show-that-your-office-layout-is-toxic-and-some-tips-for-making-it-better-8434864b0ab2)
 
-# → I'm trying out a new tracking process over here instead: https://www.michellevenetucci.com/reading-list
-
 
 # 📖 2018 Reading
 
