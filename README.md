@@ -1,4 +1,4 @@
-# 📖 2019-2020 Reading
+# 📖 2019-2020 Reading (list is academic reading only)
 
 Aristotle: The Categories
 
